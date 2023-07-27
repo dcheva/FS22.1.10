@@ -14,6 +14,9 @@
         </display>
         <scalability>
             <performanceClass>High</performanceClass>
+            <viewDistanceCoeff>1.250000</viewDistanceCoeff>
+            <volumeMeshTessellationCoeff>1.000000</volumeMeshTessellationCoeff>
+            <anisotropy>8</anisotropy>
         </scalability>
         <renderer>D3D_12</renderer>
     </graphic>

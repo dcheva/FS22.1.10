@@ -16,7 +16,7 @@
         <originalTree splitShapePart1="1" splitShapePart2="5377" splitShapePart3="0"/>
     </mission>
     <mission type="cultivate" activeId="1" reward="4846" status="1" success="false" farmId="1">
-        <field id="2" sprayFactor="0.000000" spraySet="true" plowFactor="1.000000" state="3" vehicleGroup="4" vehicleUseCost="840.027527" limeFactor="1.000000" weedFactor="1.000000" stubbleFactor="0.000000" fruitTypeName="WHEAT"/>
+        <field id="2" sprayFactor="0.000000" spraySet="true" plowFactor="1.000000" state="3" vehicleGroup="4" vehicleUseCost="840.027527" spawnedVehicles="false" limeFactor="1.000000" weedFactor="1.000000" stubbleFactor="0.000000" fruitTypeName="WHEAT"/>
     </mission>
     <mission type="deadwood" reward="1350" status="0" success="false" spotIndex="14" numCutDownTrees="0">
         <originalTree splitShapePart1="1" splitShapePart2="12241" splitShapePart3="0"/>
@@ -29,4 +29,5 @@
         <originalTree splitShapePart1="1" splitShapePart2="4455" splitShapePart3="0"/>
         <originalTree splitShapePart1="1" splitShapePart2="13006" splitShapePart3="0"/>
     </mission>
+    <mission type="treeTransport" reward="10450" status="0" success="false" spotIndex="16" numTrees="19" numDeliveredTrees="0" numDeletedTrees="0"/>
 </missions>
