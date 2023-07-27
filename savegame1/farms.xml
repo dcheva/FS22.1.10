@@ -2,13 +2,13 @@
 <farms>
     <farm farmId="1" name="Моя ферма" color="1" loan="0.000000" money="100000.000000">
         <players>
-            <player uniqueUserId="player" farmManager="true" lastNickname="Dee" timeLastConnected="2023/07/27 23:40" buyVehicle="true" sellVehicle="true" buyPlaceable="true" sellPlaceable="true" manageContracts="true" tradeAnimals="true" createFields="true" landscaping="true" hireAssistant="true" resetVehicle="true" manageProductions="true" cutTrees="true" manageRights="true" transferMoney="true" updateFarm="true" manageContracting="true"/>
+            <player uniqueUserId="player" farmManager="true" lastNickname="Dmytro" timeLastConnected="2023/07/28 00:02" buyVehicle="true" sellVehicle="true" buyPlaceable="true" sellPlaceable="true" manageContracts="true" tradeAnimals="true" createFields="true" landscaping="true" hireAssistant="true" resetVehicle="true" manageProductions="true" cutTrees="true" manageRights="true" transferMoney="true" updateFarm="true" manageContracting="true"/>
         </players>
         <handTools>
             <handTool filename="data/firstPerson/chainsaws/stihl/stihlMS261.xml"/>
         </handTools>
         <statistics>
-            <traveledDistance>0.100200</traveledDistance>
+            <traveledDistance>0.432508</traveledDistance>
             <fuelUsage>0.000000</fuelUsage>
             <seedUsage>0.000000</seedUsage>
             <sprayUsage>0.000000</sprayUsage>
@@ -37,7 +37,7 @@
             <transportMissionCount>0</transportMissionCount>
             <revenue>0.000000</revenue>
             <expenses>0.000000</expenses>
-            <playTime>11.838408</playTime>
+            <playTime>17.724384</playTime>
             <plantedTreeCount>0</plantedTreeCount>
             <cutTreeCount>0</cutTreeCount>
             <woodTonsSold>0.000000</woodTonsSold>
@@ -48,7 +48,7 @@
             <horseJumpCount>0</horseJumpCount>
             <soldCottonBales>0</soldCottonBales>
             <wrappedBales>0</wrappedBales>
-            <tractorDistance>0.100200</tractorDistance>
+            <tractorDistance>0.432508</tractorDistance>
             <carDistance>0.000000</carDistance>
             <truckDistance>0.000000</truckDistance>
             <horseDistance>0.000000</horseDistance>
