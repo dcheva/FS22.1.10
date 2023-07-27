@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<missions>
+    <mission type="fertilize" reward="5022" status="0" success="false">
+        <field id="1" sprayFactor="0.000000" spraySet="false" plowFactor="1.000000" state="2" vehicleGroup="2" vehicleUseCost="683.270020" growthState="5" limeFactor="1.000000" weedFactor="0.250000" stubbleFactor="0.000000" fruitTypeName="POTATO"/>
+    </mission>
+    <mission type="deadwood" reward="1950" status="0" success="false" spotIndex="13" numCutDownTrees="0">
+        <originalTree splitShapePart1="1" splitShapePart2="20607" splitShapePart3="0"/>
+        <originalTree splitShapePart1="1" splitShapePart2="13956" splitShapePart3="0"/>
+        <originalTree splitShapePart1="1" splitShapePart2="13953" splitShapePart3="0"/>
+        <originalTree splitShapePart1="1" splitShapePart2="20612" splitShapePart3="0"/>
+        <originalTree splitShapePart1="1" splitShapePart2="11529" splitShapePart3="0"/>
+        <originalTree splitShapePart1="1" splitShapePart2="5382" splitShapePart3="0"/>
+        <originalTree splitShapePart1="1" splitShapePart2="5378" splitShapePart3="0"/>
+        <originalTree splitShapePart1="1" splitShapePart2="5379" splitShapePart3="0"/>
+        <originalTree splitShapePart1="1" splitShapePart2="5390" splitShapePart3="0"/>
+        <originalTree splitShapePart1="1" splitShapePart2="5393" splitShapePart3="0"/>
+        <originalTree splitShapePart1="1" splitShapePart2="5392" splitShapePart3="0"/>
+        <originalTree splitShapePart1="1" splitShapePart2="20602" splitShapePart3="0"/>
+        <originalTree splitShapePart1="1" splitShapePart2="5377" splitShapePart3="0"/>
+    </mission>
+</missions>

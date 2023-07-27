@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<careerSavegame revision="2" valid="true">
+    <settings>
+        <savegameName>Dee</savegameName>
+        <creationDate>2023-07-27</creationDate>
+        <mapId>pdlc_forestryPack.MapForest</mapId>
+        <mapTitle>Silverrun Forest</mapTitle>
+        <saveDateFormatted>27/07/2023</saveDateFormatted>
+        <saveDate>2023-07-27</saveDate>
+        <resetVehicles>false</resetVehicles>
+        <trafficEnabled>true</trafficEnabled>
+        <stopAndGoBraking>true</stopAndGoBraking>
+        <trailerFillLimit>true</trailerFillLimit>
+        <automaticMotorStartEnabled>true</automaticMotorStartEnabled>
+        <growthMode>1</growthMode>
+        <plannedDaysPerPeriod>1</plannedDaysPerPeriod>
+        <fruitDestruction>true</fruitDestruction>
+        <plowingRequiredEnabled>true</plowingRequiredEnabled>
+        <stonesEnabled>true</stonesEnabled>
+        <weedsEnabled>true</weedsEnabled>
+        <limeRequired>true</limeRequired>
+        <isSnowEnabled>true</isSnowEnabled>
+        <fuelUsage>2</fuelUsage>
+        <helperBuyFuel>false</helperBuyFuel>
+        <helperBuySeeds>false</helperBuySeeds>
+        <helperBuyFertilizer>false</helperBuyFertilizer>
+        <helperSlurrySource>1</helperSlurrySource>
+        <helperManureSource>1</helperManureSource>
+        <densityMapRevision>3</densityMapRevision>
+        <terrainTextureRevision>1</terrainTextureRevision>
+        <terrainLodTextureRevision>2</terrainLodTextureRevision>
+        <splitShapesRevision>2</splitShapesRevision>
+        <tipCollisionRevision>2</tipCollisionRevision>
+        <placementCollisionRevision>2</placementCollisionRevision>
+        <navigationCollisionRevision>2</navigationCollisionRevision>
+        <mapDensityMapRevision>1</mapDensityMapRevision>
+        <mapTerrainTextureRevision>1</mapTerrainTextureRevision>
+        <mapTerrainLodTextureRevision>1</mapTerrainLodTextureRevision>
+        <mapSplitShapesRevision>1</mapSplitShapesRevision>
+        <mapTipCollisionRevision>1</mapTipCollisionRevision>
+        <mapPlacementCollisionRevision>1</mapPlacementCollisionRevision>
+        <mapNavigationCollisionRevision>1</mapNavigationCollisionRevision>
+        <difficulty>1</difficulty>
+        <economicDifficulty>2</economicDifficulty>
+        <dirtInterval>3</dirtInterval>
+        <timeScale>1.000000</timeScale>
+        <autoSaveInterval>5.000000</autoSaveInterval>
+    </settings>
+    <guidedTour active="false" currentStepIndex="0" state=""/>
+    <map>
+        <foundHelpIcons>00000000000000000000</foundHelpIcons>
+    </map>
+    <statistics>
+        <money>100000</money>
+        <playTime>7.931353</playTime>
+    </statistics>
+    <slotSystem slotUsage="43"/>
+    <mapsSplitShapeFileIds count="1">
+        <id id="0"/>
+    </mapsSplitShapeFileIds>
+    <mod modName="pdlc_goeweilPack" title="GÖWEIL Pack" version="1.0.0.0" required="false" fileHash="aac793676831ca8eed12c4d165b72128"/>
+    <mod modName="pdlc_hayAndForagePack" title="Hay &amp; Forage Pack" version="1.0.0.0" required="false" fileHash="02c05fd4394ca1e6859575dbc4a34345"/>
+    <mod modName="pdlc_vermeerPack" title="Vermeer Pack" version="1.0.1.0" required="false" fileHash="536fa70e7a69d1b5c979743bc848cf68"/>
+    <mod modName="pdlc_eroPack" title="ERO Grapeliner Series 7000" version="1.0.0.0" required="false" fileHash="4fb071c73b67044650ed003f0323462e"/>
+    <mod modName="pdlc_antonioCarraroPack" title="Antonio Carraro Pack" version="1.1.1.0" required="false" fileHash="a80574947b37ccca8cbf015ecca117cf"/>
+    <mod modName="FS22_VehicleControlAddon" title="Vehicle Control Addon" version="9.1.2.6" required="false" fileHash="db861745415263dbc5c678e070bc897f"/>
+    <mod modName="FS22_Multifruit_Buying_Station" title="Multifruit Buying Station" version="1.0.3.1" required="false" fileHash="ad65d5ed578f2a2944155315a1241c76"/>
+    <mod modName="pdlc_kubotaPack" title="Kubota Pack" version="1.1.0.0" required="false" fileHash="824b01df5f17a1693811eeea47376932"/>
+    <mod modName="pdlc_forestryPack" title="Platinum Expansion" version="1.3.0.0" required="true" fileHash="329e90792fd90c2ca716253d202aa7a4"/>
+    <mod modName="pdlc_pumpsAndHosesPack" title="Pumps N&apos; Hoses Pack" version="1.3.0.0" required="false" fileHash="adb7dc9e042517eb87fd0537c17ea4af"/>
+    <mod modName="pdlc_claasSaddleTracPack" title="CLAAS XERION SADDLE TRAC Pack" version="1.1.0.0" required="false" fileHash="49bfa385ca90594408a7f75db8783578"/>
+    <mod modName="pdlc_agiPack" title="AGI Pack" version="1.1.0.0" required="false" fileHash="1e34e6da3250471b406a092063173ec0"/>
+</careerSavegame>

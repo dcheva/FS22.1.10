@@ -1,0 +1,506 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<vehicles>
+    <vehicle modName="pdlc_forestryPack" filename="$pdlcdir$forestryPack/vehicles/volvo/bm2654/bm2654.xml" id="1" isAbsolute="true" age="0.000000" price="90500.000000" farmId="1" propertyState="1" operatingTime="355419.218750" selectedObjectIndex="1" subSelectedObjectIndex="1">
+        <component index="1" position="460.60140991211 68.026031494141 427.60140991211" rotation="0.42305844873515 45.001377535357 0.0015071085044241"/>
+        <component index="2" position="461.76971435547 68.662673950195 428.76968383789" rotation="0.42298569121224 45.001391195735 0.0014030739136233"/>
+        <configuration name="wheel" id="TRELLEBORG_DEFAULT"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="design2" id="1"/>
+        <configuration name="motor" id="1"/>
+        <configuration name="design3" id="1"/>
+        <configuration name="design" id="2"/>
+        <boughtConfiguration name="wheel" id="TRELLEBORG_DEFAULT"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="design2" id="1"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <boughtConfiguration name="design3" id="1"/>
+        <boughtConfiguration name="design" id="2"/>
+        <washable>
+            <dirtNode amount="0.670000"/>
+            <dirtNode amount="0.670000" snowScale="0.000000"/>
+            <dirtNode amount="0.670000" snowScale="0.000000"/>
+            <dirtNode amount="0.670000" snowScale="0.000000"/>
+            <dirtNode amount="0.670000" snowScale="0.000000"/>
+        </washable>
+        <wearable damage="0.340386">
+            <wearNode amount="0.900000"/>
+        </wearable>
+        <wheels lastWheelConfiguration="1"/>
+        <enterable activeCameraIndex="1" isTabbable="true">
+            <camera rotation="-22.602318893815 180.00000500896 0" translation="0 0 6.2999999496874" zoom="6.300010" fovY="0.950021"/>
+            <camera rotation="-20.000001125733 180.00000500896 0" translation="0 2.6453640460968 -1.1617339849472" zoom="2.889227" fovY="1.047198"/>
+        </enterable>
+        <fillUnit>
+            <unit index="1" fillType="DIESEL" fillLevel="210.000000"/>
+            <unit index="2" fillType="AIR" fillLevel="2000.000000"/>
+        </fillUnit>
+        <drivable cruiseControl="35" cruiseControlReverse="14"/>
+        <aiFieldWorker lastTurnDirection="false"/>
+        <attacherJoints comboDirection="-1"/>
+    </vehicle>
+    <vehicle modName="pdlc_forestryPack" filename="$pdlcdir$forestryPack/vehicles/tajfun/egv65AHK_SG/egv65AHK_SG.xml" id="2" isAbsolute="true" age="0.000000" price="7500.000000" farmId="1" propertyState="1" operatingTime="459357.000000" selectedObjectIndex="1" subSelectedObjectIndex="1">
+        <component index="1" position="457.99774169922 68.025657653809 424.99557495117" rotation="-1.6821833850203 45.305252651531 0.00049971068233696"/>
+        <component index="2" position="457.81127929688 68.920631408691 424.81103515625" rotation="7.6212224060959 45.305440481733 0.00070308525530879"/>
+        <washable>
+            <dirtNode amount="0.670000"/>
+        </washable>
+        <wearable damage="0.610000">
+            <wearNode amount="0.960000"/>
+        </wearable>
+        <wheels lastWheelConfiguration="1"/>
+        <attacherJoints comboDirection="-1"/>
+    </vehicle>
+    <vehicle modName="pdlc_forestryPack" filename="$pdlcdir$forestryPack/vehicles/volvo/sm462/sm462.xml" id="3" isAbsolute="true" age="0.000000" price="55000.000000" farmId="1" propertyState="1" operatingTime="358477.812500" selectedObjectIndex="1" subSelectedObjectIndex="1">
+        <component index="1" position="464.99948120117 68.051574707031 418.49954223633" rotation="-0.98528701772949 90.000002504478 0"/>
+        <component index="2" position="463.8576965332 68.902191162109 418.49966430664" rotation="-0.9853628968623 90.000002504478 0"/>
+        <component index="3" position="464.2158203125 69.881134033203 418.49020385742" rotation="113.09954518311 89.290844453523 113.48510936176"/>
+        <component index="4" position="464.21215820313 69.504867553711 418.4462890625" rotation="-89.409990273405 -18.157948625452 -89.519662620908"/>
+        <component index="5" position="464.22332763672 69.50146484375 418.50765991211" rotation="91.179029759006 -19.461138473807 90.295141808704"/>
+        <configuration name="wheel" id="TRELLEBORG_DEFAULT"/>
+        <configuration name="motor" id="1"/>
+        <configuration name="tensionBelts" id="1"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="wheel" id="TRELLEBORG_DEFAULT"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <boughtConfiguration name="tensionBelts" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.670000"/>
+            <dirtNode amount="0.670000" snowScale="0.000000"/>
+            <dirtNode amount="0.670000" snowScale="0.000000"/>
+            <dirtNode amount="0.670000" snowScale="0.000000"/>
+            <dirtNode amount="0.670000" snowScale="0.000000"/>
+        </washable>
+        <wearable damage="0.230043">
+            <wearNode amount="0.820000"/>
+        </wearable>
+        <cylindered>
+            <movingTool rotation="180.000000"/>
+            <movingTool rotation="10.000000"/>
+            <movingTool rotation="160.000000"/>
+            <movingTool rotation="0.000000"/>
+            <movingTool animationTime="1.000000"/>
+        </cylindered>
+        <wheels lastWheelConfiguration="1"/>
+        <enterable activeCameraIndex="1" isTabbable="true">
+            <camera rotation="-20.266491754688 180.00000500896 0" translation="0 0 8.1000003814697" zoom="8.100010" fovY="0.950021"/>
+            <camera rotation="-24.000002375408 180.00000500896 0" translation="-0.0049840002320707 1.0488519668579 -0.037939999252558" zoom="1.049560" fovY="1.308997"/>
+            <camera rotation="0 180.00000500896 0" translation="0 0 0" zoom="0.000010" fovY="0.959931"/>
+        </enterable>
+        <fillUnit>
+            <unit index="1" fillType="DIESEL" fillLevel="170.000000"/>
+        </fillUnit>
+        <drivable cruiseControl="20" cruiseControlReverse="10"/>
+        <aiFieldWorker lastTurnDirection="false"/>
+        <attacherJoints comboDirection="-1"/>
+        <tensionBelts>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+        </tensionBelts>
+        <reverseDriving isActive="false"/>
+    </vehicle>
+    <vehicle modName="pdlc_forestryPack" filename="$pdlcdir$forestryPack/vehicles/komatsu/harvester911/harvester911.xml" id="4" isAbsolute="true" age="0.000000" price="377000.000000" farmId="1" propertyState="1" operatingTime="554327.875000" selectedObjectIndex="1" subSelectedObjectIndex="1">
+        <component index="1" position="466.99697875977 68.000579833984 451.8957824707" rotation="179.00714139045 60.013095142291 178.69952333061"/>
+        <component index="2" position="466.99642944336 68.000617980957 451.89492797852" rotation="178.90899157207 60.011339783674 178.58678422817"/>
+        <component index="3" position="465.55352783203 68.824012756348 452.73873901367" rotation="-179.87200726391 60.011735934646 179.99290161222"/>
+        <component index="4" position="468.21060180664 68.656555175781 449.85629272461" rotation="178.66888310199 60.013914764991 178.69873102866"/>
+        <component index="5" position="469.38461303711 68.624794006348 451.89501953125" rotation="179.28064948557 60.013668878181 178.69724204742"/>
+        <component index="6" position="464.57763671875 68.651657104492 451.95394897461" rotation="-179.71922959256 60.010670425136 179.9958795747"/>
+        <component index="7" position="465.75973510742 68.651519775391 454.00228881836" rotation="-179.72331404568 60.016100425526 -179.99551074448"/>
+        <component index="8" position="471.66397094727 69.311904907227 449.71603393555" rotation="179.64225336061 60.007856387198 178.57795962376"/>
+        <component index="9" position="471.65325927734 69.119529724121 449.70346069336" rotation="179.64136543602 60.007849557008 178.577426869"/>
+        <configuration name="wheel" id="LIZARD_CRAWLER"/>
+        <configuration name="motor" id="1"/>
+        <configuration name="design" id="2"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="wheel" id="LIZARD_CRAWLER"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <boughtConfiguration name="design" id="2"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.470000"/>
+            <dirtNode amount="0.470000"/>
+            <dirtNode amount="0.470000" snowScale="0.000000"/>
+            <dirtNode amount="0.470000" snowScale="0.000000"/>
+            <dirtNode amount="0.470000" snowScale="0.000000"/>
+            <dirtNode amount="0.000000" snowScale="0.000000"/>
+        </washable>
+        <wearable damage="0.460046">
+            <wearNode amount="0.820000"/>
+        </wearable>
+        <cylindered>
+            <movingTool rotation="0.000000"/>
+            <movingTool rotation="-45.000000"/>
+            <movingTool rotation="110.000000"/>
+            <movingTool translation="0.000000"/>
+            <movingTool rotation="0.000000"/>
+        </cylindered>
+        <wheels lastWheelConfiguration="1"/>
+        <enterable activeCameraIndex="1" isTabbable="true">
+            <camera rotation="-21.038032799845 180.00000500896 0" translation="0 0 8.1000003814697" zoom="8.100010" fovY="0.950021"/>
+            <camera rotation="-18.000000500896 180.00000500896 0" translation="0.39971899986267 1.714586019516 -0.20000000298023" zoom="1.771896" fovY="1.308997"/>
+            <camera rotation="0 180.00000500896 0" translation="-0 0 0" zoom="0.000010" fovY="1.308997"/>
+        </enterable>
+        <fillUnit>
+            <unit index="1" fillType="DIESEL" fillLevel="370.000000"/>
+        </fillUnit>
+        <drivable cruiseControl="20" cruiseControlReverse="20"/>
+        <aiFieldWorker lastTurnDirection="false"/>
+        <attacherJoints comboDirection="-1"/>
+        <woodHarvester currentCutLengthIndex="4" isTurnedOn="false" hasAttachedSplitShape="false" lastCutAttachDirection="1"/>
+        <pdlc_forestryPack>
+            <extendedSlopeCompensation>
+                <compensationNode lastAngle="-0.653784"/>
+                <compensationNode lastAngle="0.000000"/>
+            </extendedSlopeCompensation>
+        </pdlc_forestryPack>
+        <actionController lastDirection="-1" numActions="1">
+            <action name="turnOn" identifier="C:/Games/Farming Simulator 22/pdlc/forestryPack/vehicles/komatsu/harvester911/harvester911.xml" lastDirection="-1"/>
+        </actionController>
+    </vehicle>
+    <vehicle modName="pdlc_forestryPack" filename="$pdlcdir$forestryPack/vehicles/volvo/dr631/dr631.xml" id="5" isAbsolute="true" age="0.000000" price="50000.000000" farmId="0" propertyState="0" operatingTime="0.000000" selectedObjectIndex="1" subSelectedObjectIndex="1">
+        <component index="1" position="-862.99816894531 102.66596984863 -321.99829101563" rotation="-0.86390708565895 45.001309233465 0.00040664333616652"/>
+        <component index="2" position="-862.99810791016 102.66596221924 -321.99826049805" rotation="-0.86340661421969 45.001333139127 0.0011142694489367"/>
+        <configuration name="wheel" id="TRELLEBORG_DEFAULT"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="trailer" id="1"/>
+        <configuration name="fillVolume" id="1"/>
+        <configuration name="motor" id="1"/>
+        <boughtConfiguration name="wheel" id="TRELLEBORG_DEFAULT"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="trailer" id="1"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <washable>
+            <dirtNode amount="0.670000"/>
+            <dirtNode amount="0.670000" snowScale="0.000000"/>
+            <dirtNode amount="0.670000" snowScale="0.000000"/>
+            <dirtNode amount="0.670000" snowScale="0.000000"/>
+            <dirtNode amount="0.670000" snowScale="0.000000"/>
+        </washable>
+        <wearable damage="0.000000">
+            <wearNode amount="0.960000"/>
+        </wearable>
+        <wheels lastWheelConfiguration="1"/>
+        <enterable activeCameraIndex="1" isTabbable="false">
+            <camera rotation="-18.000000500896 180.00000500896 0" translation="0 0 7.5" zoom="7.500010" fovY="0.950021"/>
+            <camera rotation="-22.000000043023 180.00000500896 0" translation="0 2.5092921257019 1.2864760160446" zoom="2.819862" fovY="1.047198"/>
+        </enterable>
+        <fillUnit>
+            <unit index="1" fillType="DIESEL" fillLevel="100.000000"/>
+            <unit index="2" fillType="AIR" fillLevel="2000.000000"/>
+            <unit index="3" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+        <drivable cruiseControl="26" cruiseControlReverse="7"/>
+        <aiFieldWorker lastTurnDirection="false"/>
+        <attacherJoints comboDirection="-1"/>
+        <trailer doorState="false" tipAnimationTime="0.000000" tipState="0"/>
+    </vehicle>
+    <vehicle modName="pdlc_forestryPack" filename="$pdlcdir$forestryPack/vehicles/volvo/lm841/lm841.xml" id="6" isAbsolute="true" age="0.000000" price="40750.000000" farmId="0" propertyState="0" operatingTime="0.000000" selectedObjectIndex="1" subSelectedObjectIndex="1">
+        <component index="1" position="-873.02947998047 102.70590209961 -329.02496337891" rotation="-1.9981250975801 44.889092640496 -0.10132388865569"/>
+        <component index="2" position="-874.07446289063 103.22699737549 -330.0749206543" rotation="-2.1328872912254 44.884219300524 -0.29227838877811"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="design2" id="2"/>
+        <configuration name="motor" id="1"/>
+        <configuration name="wheel" id="TRELLEBORG_DEFAULT"/>
+        <configuration name="design" id="2"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="design2" id="2"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <boughtConfiguration name="wheel" id="TRELLEBORG_DEFAULT"/>
+        <boughtConfiguration name="design" id="2"/>
+        <washable>
+            <dirtNode amount="0.670000"/>
+            <dirtNode amount="0.670000" snowScale="0.000000"/>
+            <dirtNode amount="0.670000" snowScale="0.000000"/>
+            <dirtNode amount="0.670000" snowScale="0.000000"/>
+            <dirtNode amount="0.670000" snowScale="0.000000"/>
+        </washable>
+        <wearable damage="0.000000">
+            <wearNode amount="0.960000"/>
+        </wearable>
+        <cylindered>
+            <movingTool rotation="-5.000000"/>
+            <movingTool rotation="0.000000"/>
+        </cylindered>
+        <wheels lastWheelConfiguration="1"/>
+        <enterable activeCameraIndex="1" isTabbable="false">
+            <camera rotation="-18.999999959541 180.00000500896 0" translation="0 0 5.5" zoom="5.500010" fovY="0.950021"/>
+            <camera rotation="-12.000001187704 180.00000500896 0" translation="0 2.5483000278473 0.5271999835968" zoom="2.602273" fovY="1.047198"/>
+        </enterable>
+        <fillUnit>
+            <unit index="1" fillType="DIESEL" fillLevel="170.000000"/>
+        </fillUnit>
+        <drivable cruiseControl="26" cruiseControlReverse="26"/>
+        <aiFieldWorker lastTurnDirection="false"/>
+        <attacherJoints comboDirection="-1"/>
+    </vehicle>
+    <vehicle modName="pdlc_forestryPack" filename="$pdlcdir$forestryPack/vehicles/volvo/lm841RockShovel/lm841RockShovel.xml" id="7" isAbsolute="true" age="0.000000" price="1500.000000" farmId="0" propertyState="0" operatingTime="0.000000" selectedObjectIndex="1" subSelectedObjectIndex="1">
+        <component index="1" position="-870.71942138672 102.7428817749 -326.71600341797" rotation="0.00033016227834445 45.755092325362 0.00013950910987647"/>
+        <configuration name="baseMaterial" id="1"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="fillVolume" id="1"/>
+        <boughtConfiguration name="baseMaterial" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <washable>
+            <dirtNode amount="0.670000"/>
+        </washable>
+        <wearable damage="0.000000">
+            <wearNode amount="0.960000"/>
+        </wearable>
+        <wheels lastWheelConfiguration="1"/>
+        <attacherJoints comboDirection="-1"/>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+            <unit index="2" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+    </vehicle>
+    <vehicle modName="pdlc_forestryPack" filename="$pdlcdir$forestryPack/vehicles/manitou/m504/m504.xml" id="8" isAbsolute="true" age="0.000000" price="58000.000000" farmId="0" propertyState="0" operatingTime="248635.000000" selectedObjectIndex="1" subSelectedObjectIndex="1">
+        <component index="1" position="130.00073242188 44.232109069824 759" rotation="1.0613026476018 -90.000002504478 0"/>
+        <component index="2" position="131.28979492188 44.703693389893 759" rotation="1.0613000862809 -90.000002504478 0"/>
+        <component index="3" position="128.41297912598 45.050685882568 758.99963378906" rotation="1.0613037148188 -90.000002504478 0"/>
+        <configuration name="motor" id="1"/>
+        <configuration name="wheel" id="TRELLEBORG_DEFAULT"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <boughtConfiguration name="wheel" id="TRELLEBORG_DEFAULT"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <washable>
+            <dirtNode amount="0.670000"/>
+            <dirtNode amount="0.670000" snowScale="0.000000"/>
+            <dirtNode amount="0.670000" snowScale="0.000000"/>
+            <dirtNode amount="0.670000" snowScale="0.000000"/>
+            <dirtNode amount="0.670000" snowScale="0.000000"/>
+        </washable>
+        <wearable damage="0.000000">
+            <wearNode amount="0.960000"/>
+        </wearable>
+        <cylindered>
+            <movingTool rotation="0.000000"/>
+            <movingTool animationTime="0.003000"/>
+            <movingTool animationTime="0.700000"/>
+        </cylindered>
+        <wheels lastWheelConfiguration="1"/>
+        <enterable activeCameraIndex="1" isTabbable="false">
+            <camera rotation="-15.000000417413 180.00000500896 0" translation="0 0 5.9000000953674" zoom="5.900010" fovY="0.950021"/>
+            <camera rotation="-18.999999959541 180.00000500896 0" translation="0 2.2278680801392 -0.27415499091148" zoom="2.244683" fovY="1.047198"/>
+        </enterable>
+        <fillUnit>
+            <unit index="1" fillType="DIESEL" fillLevel="85.000000"/>
+        </fillUnit>
+        <drivable cruiseControl="22" cruiseControlReverse="22"/>
+        <aiFieldWorker lastTurnDirection="false"/>
+        <attacherJoints comboDirection="-1"/>
+    </vehicle>
+    <vehicle modName="pdlc_forestryPack" filename="$pdlcdir$forestryPack/vehicles/train/wagonPlanks/wagonPlanks.xml" id="9" isAbsolute="true" age="0.000000" price="1.000000" farmId="0" propertyState="0" operatingTime="536.754089">
+        <component index="1" position="-1154.4873046875 -4.7839555740356 -180.83474731445" rotation="-179.97336727119 2.6596278514788 -179.99999134858"/>
+        <configuration name="tensionBelts" id="1"/>
+        <configuration name="wheel" id="1"/>
+        <boughtConfiguration name="tensionBelts" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <wheels lastWheelConfiguration="1"/>
+        <attacherJoints comboDirection="-1"/>
+        <tensionBelts>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+        </tensionBelts>
+    </vehicle>
+    <vehicle modName="pdlc_forestryPack" filename="$pdlcdir$forestryPack/vehicles/train/wagonFlatBed/wagonFlatBed.xml" id="10" isAbsolute="true" age="0.000000" price="1.000000" farmId="0" propertyState="0" operatingTime="536.754089">
+        <component index="1" position="-1155.7576904297 -4.7536392211914 -153.66201782227" rotation="-179.73974748082 2.7674037542699 -179.99999134858"/>
+        <configuration name="tensionBelts" id="1"/>
+        <configuration name="wheel" id="1"/>
+        <boughtConfiguration name="tensionBelts" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <wheels lastWheelConfiguration="1"/>
+        <attacherJoints comboDirection="-1"/>
+        <tensionBelts>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+        </tensionBelts>
+    </vehicle>
+    <vehicle modName="pdlc_forestryPack" filename="$pdlcdir$forestryPack/vehicles/train/wagonTimber/wagonTimber.xml" id="11" isAbsolute="true" age="0.000000" price="1.000000" farmId="0" propertyState="0" operatingTime="536.754089">
+        <component index="1" position="-1156.8452148438 -4.6387214660645 -131.28153991699" rotation="-179.55734044885 2.8474610418619 -179.99999134858"/>
+        <configuration name="tensionBelts" id="1"/>
+        <configuration name="wheel" id="1"/>
+        <boughtConfiguration name="tensionBelts" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <wheels lastWheelConfiguration="1"/>
+        <attacherJoints comboDirection="-1"/>
+        <tensionBelts>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+        </tensionBelts>
+    </vehicle>
+    <vehicle modName="pdlc_forestryPack" filename="$pdlcdir$forestryPack/vehicles/train/wagonTimber/wagonTimber.xml" id="12" isAbsolute="true" age="0.000000" price="1.000000" farmId="0" propertyState="0" operatingTime="536.754089">
+        <component index="1" position="-1157.7646484375 -4.4859933853149 -112.88789367676" rotation="-179.39849756951 2.9142647742563 -179.99999134858"/>
+        <configuration name="tensionBelts" id="1"/>
+        <configuration name="wheel" id="1"/>
+        <boughtConfiguration name="tensionBelts" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <wheels lastWheelConfiguration="1"/>
+        <attacherJoints comboDirection="-1"/>
+        <tensionBelts>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+        </tensionBelts>
+    </vehicle>
+    <vehicle modName="pdlc_forestryPack" filename="$pdlcdir$forestryPack/vehicles/train/locomotive/forestryLocomotive.xml" id="13" isAbsolute="true" age="0.000000" price="164000.000000" farmId="0" propertyState="0" operatingTime="536.754089" selectedObjectIndex="4" subSelectedObjectIndex="1">
+        <component index="1" position="-1153.7966308594 -4.7458953857422 -196.17422485352" rotation="179.81722914677 2.5578629420441 -179.99999134858"/>
+        <configuration name="motor" id="1"/>
+        <configuration name="wheel" id="1"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <wheels lastWheelConfiguration="1"/>
+        <enterable activeCameraIndex="1" isTabbable="false">
+            <camera rotation="-24.000002375408 180.00000500896 0" translation="0 0 16" zoom="16.000010" fovY="0.950021"/>
+            <camera rotation="0 180.00000500896 0" translation="-1.1079139709473 3.589751958847 -4.5518980026245" zoom="5.902007" fovY="1.047198"/>
+        </enterable>
+        <drivable cruiseControl="80" cruiseControlReverse="80"/>
+        <attacherJoints comboDirection="-1"/>
+    </vehicle>
+    <vehicle filename="data/vehicles/valtra/tSeries/tSeries.xml" id="14" isAbsolute="true" age="0.000000" price="195500.000000" farmId="1" propertyState="3" operatingTime="233577.609375" activeMissionId="1" selectedObjectIndex="1" subSelectedObjectIndex="1">
+        <component index="1" position="602.73004150391 44.419635772705 757.98657226563" rotation="179.95171557152 64.825557639023 179.59114988524"/>
+        <component index="2" position="603.99285888672 44.993560791016 757.39489746094" rotation="179.73519857483 64.825188808808 179.35198398126"/>
+        <configuration name="wheel" id="TRELLEBORG_NARROW"/>
+        <configuration name="design2" id="1"/>
+        <configuration name="attacherJoint" id="1"/>
+        <configuration name="rimColor" id="2"/>
+        <configuration name="frontloader" id="1"/>
+        <configuration name="vehicleType" id="1"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="baseMaterial" id="6"/>
+        <configuration name="motor" id="3"/>
+        <configuration name="design3" id="1"/>
+        <configuration name="design" id="1"/>
+        <boughtConfiguration name="wheel" id="TRELLEBORG_DEFAULT"/>
+        <boughtConfiguration name="wheel" id="TRELLEBORG_NARROW"/>
+        <boughtConfiguration name="design2" id="1"/>
+        <boughtConfiguration name="design3" id="1"/>
+        <boughtConfiguration name="rimColor" id="2"/>
+        <boughtConfiguration name="frontloader" id="1"/>
+        <boughtConfiguration name="vehicleType" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <boughtConfiguration name="motor" id="3"/>
+        <boughtConfiguration name="baseMaterial" id="6"/>
+        <boughtConfiguration name="design" id="1"/>
+        <boughtConfiguration name="attacherJoint" id="1"/>
+        <washable>
+            <dirtNode amount="0.000219"/>
+            <dirtNode amount="0.000219" snowScale="0.000000"/>
+            <dirtNode amount="0.000219" snowScale="0.000000"/>
+            <dirtNode amount="0.000219" snowScale="0.000000"/>
+            <dirtNode amount="0.000219" snowScale="0.000000"/>
+        </washable>
+        <wearable damage="0.000000">
+            <wearNode amount="0.277066"/>
+        </wearable>
+        <wheels lastWheelConfiguration="5"/>
+        <enterable activeCameraIndex="1" isTabbable="true">
+            <camera rotation="-46.258806965551 171.83140844308 0" translation="0 0 12.149993374029" zoom="12.150010" fovY="0.950021"/>
+            <camera rotation="-15.000000417413 180.00000500896 0" translation="0.00099099997896701 1.0781840085983 -0.18046799302101" zoom="1.093194" fovY="1.047198"/>
+        </enterable>
+        <fillUnit>
+            <unit index="1" fillType="DIESEL" fillLevel="380.000000"/>
+            <unit index="2" fillType="DEF" fillLevel="70.000000"/>
+            <unit index="3" fillType="AIR" fillLevel="3000.000000"/>
+        </fillUnit>
+        <drivable cruiseControl="53" cruiseControlReverse="22"/>
+        <aiFieldWorker lastTurnDirection="false"/>
+        <attacherJoints comboDirection="-1"/>
+        <reverseDriving isActive="false"/>
+    </vehicle>
+    <vehicle filename="data/vehicles/bredal/k105/k105.xml" id="15" isAbsolute="true" age="0.000000" price="45000.000000" farmId="1" propertyState="3" operatingTime="111508.703125" activeMissionId="1" selectedObjectIndex="1" subSelectedObjectIndex="1">
+        <component index="1" position="600.70916748047 44.271301269531 755.10064697266" rotation="-1.0863430815944 90.000002504478 0"/>
+        <configuration name="cover" id="1"/>
+        <configuration name="wheel" id="TRELLEBORG_DEFAULT"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="folding" id="1"/>
+        <configuration name="fillVolume" id="1"/>
+        <boughtConfiguration name="cover" id="1"/>
+        <boughtConfiguration name="wheel" id="TRELLEBORG_DEFAULT"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="folding" id="1"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <washable>
+            <dirtNode amount="0.000007"/>
+            <dirtNode amount="0.000007" snowScale="0.000000"/>
+            <dirtNode amount="0.000007" snowScale="0.000000"/>
+        </washable>
+        <wearable damage="0.000000">
+            <wearNode amount="0.336770"/>
+        </wearable>
+        <wheels lastWheelConfiguration="1"/>
+        <attacherJoints comboDirection="-1"/>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+        <workMode state="1"/>
+        <actionController lastDirection="-1" numActions="1">
+            <action name="turnOn" identifier="data/vehicles/bredal/k105/k105.xml" lastDirection="-1"/>
+        </actionController>
+    </vehicle>
+    <vehicle filename="data/vehicles/tenwinkel/weight1500/weight1500.xml" id="16" isAbsolute="true" age="0.000000" price="1500.000000" farmId="1" propertyState="3" operatingTime="223412.343750" activeMissionId="1" selectedObjectIndex="1" subSelectedObjectIndex="1">
+        <component index="1" position="600 44.292633056641 752" rotation="-0.00010864268345796 90.000002504478 0"/>
+        <configuration name="baseMaterial" id="7"/>
+        <boughtConfiguration name="baseMaterial" id="7"/>
+        <washable>
+            <dirtNode amount="0.000000"/>
+        </washable>
+        <wearable damage="0.000000">
+            <wearNode amount="0.183969"/>
+        </wearable>
+        <wheels lastWheelConfiguration="1"/>
+        <attacherJoints comboDirection="-1"/>
+    </vehicle>
+    <attachments rootVehicleId="9">
+        <attachment attachmentId="10" inputJointDescIndex="1" jointIndex="1" moveDown="false"/>
+    </attachments>
+    <attachments rootVehicleId="10">
+        <attachment attachmentId="11" inputJointDescIndex="1" jointIndex="1" moveDown="false"/>
+    </attachments>
+    <attachments rootVehicleId="11">
+        <attachment attachmentId="12" inputJointDescIndex="1" jointIndex="1" moveDown="false"/>
+    </attachments>
+    <attachments rootVehicleId="13">
+        <attachment attachmentId="9" inputJointDescIndex="1" jointIndex="1" moveDown="false"/>
+    </attachments>
+</vehicles>
