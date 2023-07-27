@@ -8,8 +8,8 @@
             <handTool filename="data/firstPerson/chainsaws/stihl/stihlMS261.xml"/>
         </handTools>
         <statistics>
-            <traveledDistance>6.147083</traveledDistance>
-            <fuelUsage>11.000918</fuelUsage>
+            <traveledDistance>10.557977</traveledDistance>
+            <fuelUsage>23.002010</fuelUsage>
             <seedUsage>0.000000</seedUsage>
             <sprayUsage>952.840393</sprayUsage>
             <workedHectares>3.354725</workedHectares>
@@ -37,7 +37,7 @@
             <transportMissionCount>0</transportMissionCount>
             <revenue>0.000000</revenue>
             <expenses>0.000000</expenses>
-            <playTime>54.543079</playTime>
+            <playTime>86.027794</playTime>
             <plantedTreeCount>0</plantedTreeCount>
             <cutTreeCount>0</cutTreeCount>
             <woodTonsSold>0.000000</woodTonsSold>
@@ -48,7 +48,7 @@
             <horseJumpCount>0</horseJumpCount>
             <soldCottonBales>0</soldCottonBales>
             <wrappedBales>0</wrappedBales>
-            <tractorDistance>6.147083</tractorDistance>
+            <tractorDistance>10.557977</tractorDistance>
             <carDistance>0.000000</carDistance>
             <truckDistance>0.000000</truckDistance>
             <horseDistance>0.000000</horseDistance>
