@@ -1,8 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <missions>
-    <mission type="fertilize" activeId="1" reward="5022" status="1" success="false" farmId="1">
-        <field id="1" sprayFactor="0.000000" spraySet="false" plowFactor="1.000000" state="2" vehicleGroup="2" vehicleUseCost="683.270020" spawnedVehicles="true" growthState="5" limeFactor="1.000000" weedFactor="1.000000" stubbleFactor="0.000000" fruitTypeName="POTATO"/>
-    </mission>
     <mission type="deadwood" reward="1950" status="0" success="false" spotIndex="13" numCutDownTrees="0">
         <originalTree splitShapePart1="1" splitShapePart2="20607" splitShapePart3="0"/>
         <originalTree splitShapePart1="1" splitShapePart2="13956" splitShapePart3="0"/>
@@ -18,8 +15,8 @@
         <originalTree splitShapePart1="1" splitShapePart2="20602" splitShapePart3="0"/>
         <originalTree splitShapePart1="1" splitShapePart2="5377" splitShapePart3="0"/>
     </mission>
-    <mission type="cultivate" reward="4846" status="0" success="false">
-        <field id="2" sprayFactor="0.000000" spraySet="false" plowFactor="1.000000" state="3" vehicleGroup="4" vehicleUseCost="840.027527" limeFactor="0.000000" weedFactor="1.000000" stubbleFactor="0.000000" fruitTypeName="WHEAT"/>
+    <mission type="cultivate" activeId="1" reward="4846" status="1" success="false" farmId="1">
+        <field id="2" sprayFactor="0.000000" spraySet="true" plowFactor="1.000000" state="3" vehicleGroup="4" vehicleUseCost="840.027527" limeFactor="1.000000" weedFactor="1.000000" stubbleFactor="0.000000" fruitTypeName="WHEAT"/>
     </mission>
     <mission type="deadwood" reward="1350" status="0" success="false" spotIndex="14" numCutDownTrees="0">
         <originalTree splitShapePart1="1" splitShapePart2="12241" splitShapePart3="0"/>
