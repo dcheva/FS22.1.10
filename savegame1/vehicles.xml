@@ -296,8 +296,8 @@
         <aiFieldWorker lastTurnDirection="false"/>
         <attacherJoints comboDirection="-1"/>
     </vehicle>
-    <vehicle modName="pdlc_forestryPack" filename="$pdlcdir$forestryPack/vehicles/train/wagonPlanks/wagonPlanks.xml" id="9" isAbsolute="true" age="0.000000" price="1.000000" farmId="0" propertyState="0" operatingTime="1223.072998">
-        <component index="1" position="-870.27142333984 49.044296264648 -1155.0732421875" rotation="-172.3915294434 79.919094082025 -179.99999134858"/>
+    <vehicle modName="pdlc_forestryPack" filename="$pdlcdir$forestryPack/vehicles/train/wagonPlanks/wagonPlanks.xml" id="9" isAbsolute="true" age="0.000000" price="1.000000" farmId="0" propertyState="0" operatingTime="1262.563599">
+        <component index="1" position="0.76621246337891 24.943695068359 -1216.8116455078" rotation="176.52033781554 86.690038191177 -179.99999134858"/>
         <configuration name="tensionBelts" id="1"/>
         <configuration name="wheel" id="1"/>
         <boughtConfiguration name="tensionBelts" id="1"/>
@@ -324,8 +324,8 @@
             <belt isActive="false"/>
         </tensionBelts>
     </vehicle>
-    <vehicle modName="pdlc_forestryPack" filename="$pdlcdir$forestryPack/vehicles/train/wagonFlatBed/wagonFlatBed.xml" id="10" isAbsolute="true" age="0.000000" price="1.000000" farmId="0" propertyState="0" operatingTime="1223.072998">
-        <component index="1" position="-896.78393554688 52.62618637085 -1150.1761474609" rotation="-172.68832848359 77.352575369311 -179.99999134858"/>
+    <vehicle modName="pdlc_forestryPack" filename="$pdlcdir$forestryPack/vehicles/train/wagonFlatBed/wagonFlatBed.xml" id="10" isAbsolute="true" age="0.000000" price="1.000000" farmId="0" propertyState="0" operatingTime="1262.563599">
+        <component index="1" position="-26.347465515137 23.303070068359 -1215.2026367188" rotation="176.66199593892 86.173812493707 -179.99999134858"/>
         <configuration name="tensionBelts" id="1"/>
         <configuration name="wheel" id="1"/>
         <boughtConfiguration name="tensionBelts" id="1"/>
@@ -346,8 +346,8 @@
             <belt isActive="false"/>
         </tensionBelts>
     </vehicle>
-    <vehicle modName="pdlc_forestryPack" filename="$pdlcdir$forestryPack/vehicles/train/wagonTimber/wagonTimber.xml" id="11" isAbsolute="true" age="0.000000" price="1.000000" farmId="0" propertyState="0" operatingTime="1223.072998">
-        <component index="1" position="-918.44995117188 55.456882476807 -1145.1408691406" rotation="-173.04047937682 74.883031682434 -179.99999134858"/>
+    <vehicle modName="pdlc_forestryPack" filename="$pdlcdir$forestryPack/vehicles/train/wagonTimber/wagonTimber.xml" id="11" isAbsolute="true" age="0.000000" price="1.000000" farmId="0" propertyState="0" operatingTime="1262.563599">
+        <component index="1" position="-48.66520690918 22.00595664978 -1213.6850585938" rotation="176.76571919166 85.841018356587 -179.99999134858"/>
         <configuration name="tensionBelts" id="1"/>
         <configuration name="wheel" id="1"/>
         <boughtConfiguration name="tensionBelts" id="1"/>
@@ -364,8 +364,8 @@
             <belt isActive="false"/>
         </tensionBelts>
     </vehicle>
-    <vehicle modName="pdlc_forestryPack" filename="$pdlcdir$forestryPack/vehicles/train/wagonTimber/wagonTimber.xml" id="12" isAbsolute="true" age="0.000000" price="1.000000" farmId="0" propertyState="0" operatingTime="1223.072998">
-        <component index="1" position="-936.05419921875 57.662673950195 -1140.2197265625" rotation="-173.4576809917 72.324080819321 -179.99999134858"/>
+    <vehicle modName="pdlc_forestryPack" filename="$pdlcdir$forestryPack/vehicles/train/wagonTimber/wagonTimber.xml" id="12" isAbsolute="true" age="0.000000" price="1.000000" farmId="0" propertyState="0" operatingTime="1262.563599">
+        <component index="1" position="-67.003242492676 20.972644805908 -1212.3344726563" rotation="176.85236697147 85.591935017935 -179.99999134858"/>
         <configuration name="tensionBelts" id="1"/>
         <configuration name="wheel" id="1"/>
         <boughtConfiguration name="tensionBelts" id="1"/>
@@ -382,8 +382,8 @@
             <belt isActive="false"/>
         </tensionBelts>
     </vehicle>
-    <vehicle modName="pdlc_forestryPack" filename="$pdlcdir$forestryPack/vehicles/train/locomotive/forestryLocomotive.xml" id="13" isAbsolute="true" age="0.000000" price="164000.000000" farmId="0" propertyState="0" operatingTime="1223.072998" selectedObjectIndex="4" subSelectedObjectIndex="1">
-        <component index="1" position="-855.22766113281 46.976165771484 -1157.3359375" rotation="-172.23406626227 81.783701574492 -179.99999134858"/>
+    <vehicle modName="pdlc_forestryPack" filename="$pdlcdir$forestryPack/vehicles/train/locomotive/forestryLocomotive.xml" id="13" isAbsolute="true" age="0.000000" price="164000.000000" farmId="0" propertyState="0" operatingTime="1262.563599" selectedObjectIndex="4" subSelectedObjectIndex="1">
+        <component index="1" position="16.059097290039 25.904306411743 -1217.5769042969" rotation="176.38262754149 87.251766608897 -179.99999134858"/>
         <configuration name="wheel" id="1"/>
         <configuration name="motor" id="1"/>
         <boughtConfiguration name="motor" id="1"/>
@@ -396,9 +396,9 @@
         <drivable cruiseControl="80" cruiseControlReverse="80"/>
         <attacherJoints comboDirection="-1"/>
     </vehicle>
-    <vehicle filename="data/vehicles/valtra/tSeries/tSeries.xml" id="14" isAbsolute="true" age="0.000000" price="195500.000000" farmId="1" propertyState="3" operatingTime="234192.375000" activeMissionId="1" selectedObjectIndex="2" subSelectedObjectIndex="1">
-        <component index="1" position="492.36782836914 44.426189422607 888.99249267578" rotation="0.36958193619579 -80.994657631005 -0.0029239519151627"/>
-        <component index="2" position="490.99005126953 44.999717712402 889.2109375" rotation="0.20894351751905 -80.993762876224 -0.00066461697873412"/>
+    <vehicle filename="data/vehicles/valtra/tSeries/tSeries.xml" id="14" isAbsolute="true" age="0.000000" price="195500.000000" farmId="1" propertyState="3" operatingTime="234231.859375" activeMissionId="1" selectedObjectIndex="2" subSelectedObjectIndex="1">
+        <component index="1" position="492.37484741211 44.426177978516 888.99243164063" rotation="0.36749915538576 -80.994398083816 -0.0010268590566605"/>
+        <component index="2" position="490.9970703125 44.999710083008 889.21087646484" rotation="0.20874944409709 -80.993564800738 -0.0011228127090813"/>
         <configuration name="design2" id="1"/>
         <configuration name="design3" id="1"/>
         <configuration name="wheel" id="TRELLEBORG_NARROW"/>
@@ -451,8 +451,8 @@
             <action name="turnOn" identifier="data/vehicles/bredal/k105/k105.xml" lastDirection="-1"/>
         </actionController>
     </vehicle>
-    <vehicle filename="data/vehicles/bredal/k105/k105.xml" id="15" isAbsolute="true" age="0.000000" price="45000.000000" farmId="1" propertyState="3" operatingTime="112024.718750" activeMissionId="1">
-        <component index="1" position="497.18011474609 44.254249572754 888.22814941406" rotation="-1.6183648721801 -80.980423516775 0.082529869432352"/>
+    <vehicle filename="data/vehicles/bredal/k105/k105.xml" id="15" isAbsolute="true" age="0.000000" price="45000.000000" farmId="1" propertyState="3" operatingTime="112064.210938" activeMissionId="1">
+        <component index="1" position="497.18713378906 44.254238128662 888.22814941406" rotation="-1.6241130099752 -80.981297780988 0.088504130511677"/>
         <configuration name="folding" id="1"/>
         <configuration name="fillUnit" id="1"/>
         <configuration name="cover" id="1"/>
@@ -478,8 +478,8 @@
         </fillUnit>
         <workMode state="1"/>
     </vehicle>
-    <vehicle filename="data/vehicles/tenwinkel/weight1500/weight1500.xml" id="16" isAbsolute="true" age="0.000000" price="1500.000000" farmId="1" propertyState="3" operatingTime="223941.859375" activeMissionId="1">
-        <component index="1" position="489.64901733398 44.936859130859 889.42352294922" rotation="-3.2708418435094 -80.994568838546 0.00072313434513749"/>
+    <vehicle filename="data/vehicles/tenwinkel/weight1500/weight1500.xml" id="16" isAbsolute="true" age="0.000000" price="1500.000000" farmId="1" propertyState="3" operatingTime="223981.343750" activeMissionId="1">
+        <component index="1" position="489.65603637695 44.936851501465 889.42340087891" rotation="-3.2724206844247 -80.994439064951 0.0021112367354797"/>
         <configuration name="baseMaterial" id="7"/>
         <boughtConfiguration name="baseMaterial" id="7"/>
         <washable>
