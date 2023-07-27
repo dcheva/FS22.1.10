@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <farms>
-    <farm farmId="1" name="Моя ферма" color="1" loan="0.000000" money="94648.101563">
+    <farm farmId="1" name="Моя ферма" color="1" loan="0.000000" money="99978.703125">
         <players>
-            <player uniqueUserId="player" farmManager="true" lastNickname="Dmytro" timeLastConnected="2023/07/28 01:27" buyVehicle="true" sellVehicle="true" buyPlaceable="true" sellPlaceable="true" manageContracts="true" tradeAnimals="true" createFields="true" landscaping="true" hireAssistant="true" resetVehicle="true" manageProductions="true" cutTrees="true" manageRights="true" transferMoney="true" updateFarm="true" manageContracting="true"/>
+            <player uniqueUserId="player" farmManager="true" lastNickname="Dmytro" timeLastConnected="2023/07/28 01:32" buyVehicle="true" sellVehicle="true" buyPlaceable="true" sellPlaceable="true" manageContracts="true" tradeAnimals="true" createFields="true" landscaping="true" hireAssistant="true" resetVehicle="true" manageProductions="true" cutTrees="true" manageRights="true" transferMoney="true" updateFarm="true" manageContracting="true"/>
         </players>
         <handTools>
             <handTool filename="data/firstPerson/chainsaws/stihl/stihlMS261.xml"/>
         </handTools>
         <statistics>
-            <traveledDistance>10.898713</traveledDistance>
-            <fuelUsage>23.002010</fuelUsage>
+            <traveledDistance>15.624009</traveledDistance>
+            <fuelUsage>36.002777</fuelUsage>
             <seedUsage>0.000000</seedUsage>
             <sprayUsage>952.840393</sprayUsage>
             <workedHectares>3.354725</workedHectares>
@@ -32,12 +32,12 @@
             <breedPigsCount>0</breedPigsCount>
             <breedChickenCount>0</breedChickenCount>
             <breedHorsesCount>0</breedHorsesCount>
-            <fieldJobMissionCount>1</fieldJobMissionCount>
-            <fieldJobMissionByNPC>4096</fieldJobMissionByNPC>
+            <fieldJobMissionCount>2</fieldJobMissionCount>
+            <fieldJobMissionByNPC>36864</fieldJobMissionByNPC>
             <transportMissionCount>0</transportMissionCount>
             <revenue>0.000000</revenue>
             <expenses>0.000000</expenses>
-            <playTime>88.968826</playTime>
+            <playTime>132.337143</playTime>
             <plantedTreeCount>0</plantedTreeCount>
             <cutTreeCount>0</cutTreeCount>
             <woodTonsSold>0.000000</woodTonsSold>
@@ -48,7 +48,7 @@
             <horseJumpCount>0</horseJumpCount>
             <soldCottonBales>0</soldCottonBales>
             <wrappedBales>0</wrappedBales>
-            <tractorDistance>10.898713</tractorDistance>
+            <tractorDistance>15.624009</tractorDistance>
             <carDistance>0.000000</carDistance>
             <truckDistance>0.000000</truckDistance>
             <horseDistance>0.000000</horseDistance>
@@ -84,7 +84,7 @@
                 <purchasePallets>0.000000</purchasePallets>
                 <harvestIncome>0.000000</harvestIncome>
                 <incomeBga>0.000000</incomeBga>
-                <missionIncome>5165.483398</missionIncome>
+                <missionIncome>10496.083008</missionIncome>
                 <wagePayment>-17.382036</wagePayment>
                 <other>0.000000</other>
                 <loanInterest>0.000000</loanInterest>
