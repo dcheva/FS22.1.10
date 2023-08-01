@@ -7,7 +7,7 @@
             <height>1080</height>
             <brightness>1</brightness>
             <fullscreenMode>windowed_fullscreen</fullscreenMode>
-            <vsync adaptive="true">true</vsync>
+            <vsync adaptive="true">false</vsync>
             <userConfirmed>true</userConfirmed>
             <previousWidth>1280</previousWidth>
             <previousHeight>720</previousHeight>

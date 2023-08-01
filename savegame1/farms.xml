@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <farms>
-    <farm farmId="1" name="Моя ферма" color="1" loan="0.000000" money="99978.703125">
+    <farm farmId="1" name="Моя ферма" color="1" loan="0.000000" money="97783.789063">
         <players>
-            <player uniqueUserId="player" farmManager="true" lastNickname="Dmytro" timeLastConnected="2023/07/28 01:32" buyVehicle="true" sellVehicle="true" buyPlaceable="true" sellPlaceable="true" manageContracts="true" tradeAnimals="true" createFields="true" landscaping="true" hireAssistant="true" resetVehicle="true" manageProductions="true" cutTrees="true" manageRights="true" transferMoney="true" updateFarm="true" manageContracting="true"/>
+            <player uniqueUserId="player" farmManager="true" lastNickname="Dmytro" timeLastConnected="2023/08/02 00:37" buyVehicle="true" sellVehicle="true" buyPlaceable="true" sellPlaceable="true" manageContracts="true" tradeAnimals="true" createFields="true" landscaping="true" hireAssistant="true" resetVehicle="true" manageProductions="true" cutTrees="true" manageRights="true" transferMoney="true" updateFarm="true" manageContracting="true"/>
         </players>
         <handTools>
             <handTool filename="data/firstPerson/chainsaws/stihl/stihlMS261.xml"/>
         </handTools>
         <statistics>
-            <traveledDistance>15.624009</traveledDistance>
-            <fuelUsage>36.002777</fuelUsage>
+            <traveledDistance>24.304024</traveledDistance>
+            <fuelUsage>48.003246</fuelUsage>
             <seedUsage>0.000000</seedUsage>
             <sprayUsage>952.840393</sprayUsage>
             <workedHectares>3.354725</workedHectares>
@@ -37,7 +37,7 @@
             <transportMissionCount>0</transportMissionCount>
             <revenue>0.000000</revenue>
             <expenses>0.000000</expenses>
-            <playTime>132.337143</playTime>
+            <playTime>222.156021</playTime>
             <plantedTreeCount>0</plantedTreeCount>
             <cutTreeCount>0</cutTreeCount>
             <woodTonsSold>0.000000</woodTonsSold>
@@ -48,29 +48,29 @@
             <horseJumpCount>0</horseJumpCount>
             <soldCottonBales>0</soldCottonBales>
             <wrappedBales>0</wrappedBales>
-            <tractorDistance>15.624009</tractorDistance>
+            <tractorDistance>24.304024</tractorDistance>
             <carDistance>0.000000</carDistance>
             <truckDistance>0.000000</truckDistance>
             <horseDistance>0.000000</horseDistance>
             <numRollercoasterRides>0</numRollercoasterRides>
-            <forestryMissionCount>0</forestryMissionCount>
+            <forestryMissionCount>1</forestryMissionCount>
         </statistics>
         <finances>
             <stats day="0">
-                <newVehiclesCost>-10500.000000</newVehiclesCost>
+                <newVehiclesCost>-37600.000000</newVehiclesCost>
                 <soldVehicles>0.000000</soldVehicles>
                 <newAnimalsCost>0.000000</newAnimalsCost>
                 <soldAnimals>0.000000</soldAnimals>
-                <constructionCost>0.000000</constructionCost>
+                <constructionCost>-30034.121094</constructionCost>
                 <soldBuildings>0.000000</soldBuildings>
                 <fieldPurchase>0.000000</fieldPurchase>
                 <fieldSelling>0.000000</fieldSelling>
                 <vehicleRunningCost>0.000000</vehicleRunningCost>
-                <vehicleLeasingCost>0.000000</vehicleLeasingCost>
+                <vehicleLeasingCost>-5536.356445</vehicleLeasingCost>
                 <propertyMaintenance>0.000000</propertyMaintenance>
                 <propertyIncome>0.000000</propertyIncome>
                 <productionCosts>0.000000</productionCosts>
-                <soldWood>0.000000</soldWood>
+                <soldWood>25.559904</soldWood>
                 <soldBales>0.000000</soldBales>
                 <soldWool>0.000000</soldWool>
                 <soldMilk>0.000000</soldMilk>
@@ -84,9 +84,9 @@
                 <purchasePallets>0.000000</purchasePallets>
                 <harvestIncome>0.000000</harvestIncome>
                 <incomeBga>0.000000</incomeBga>
-                <missionIncome>10496.083008</missionIncome>
+                <missionIncome>20946.082031</missionIncome>
                 <wagePayment>-17.382036</wagePayment>
-                <other>0.000000</other>
+                <other>50000.000000</other>
                 <loanInterest>0.000000</loanInterest>
             </stats>
         </finances>

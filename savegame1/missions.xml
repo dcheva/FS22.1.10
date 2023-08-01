@@ -26,6 +26,13 @@
         <originalTree splitShapePart1="1" splitShapePart2="4455" splitShapePart3="0"/>
         <originalTree splitShapePart1="1" splitShapePart2="13006" splitShapePart3="0"/>
     </mission>
-    <mission type="treeTransport" reward="10450" status="0" success="false" spotIndex="16" numTrees="19" numDeliveredTrees="0" numDeletedTrees="0"/>
     <mission type="treeTransport" reward="7150" status="0" success="false" spotIndex="17" numTrees="13" numDeliveredTrees="0" numDeletedTrees="0"/>
+    <mission type="destructibleRocks" reward="2200" status="0" success="false" spotIndex="12" numRocksDestroyed="0">
+        <destructible groupId="1" index="155"/>
+        <destructible groupId="1" index="187"/>
+        <destructible groupId="1" index="172"/>
+        <destructible groupId="1" index="69"/>
+        <destructible groupId="1" index="223" notPartOfMission="true"/>
+        <destructible groupId="2" index="201" notPartOfMission="true"/>
+    </mission>
 </missions>

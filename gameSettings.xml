@@ -52,7 +52,7 @@
     <activeSuspensionCamera>true</activeSuspensionCamera>
     <cameraCheckCollision>true</cameraCheckCollision>
     <useWorldCamera>true</useWorldCamera>
-    <ingameMapState>2</ingameMapState>
+    <ingameMapState>3</ingameMapState>
     <ingameMapFilters>0</ingameMapFilters>
     <directionChangeMode>2</directionChangeMode>
     <gearShiftMode>2</gearShiftMode>

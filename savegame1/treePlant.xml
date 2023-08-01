@@ -1,2 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<treePlant/>
+<treePlant>
+    <tree treeType="TRANSPORT" position="-969.0928 74.5677 61.1521" rotation="-97.4289 45.1997 -12.9578" growthState="1.000000" growthStateI="1" isGrowing="false" splitShapeFileId="1"/>
+    <tree treeType="TRANSPORT" position="-968.6537 74.4894 60.6979" rotation="-96.7155 45.3049 -11.6863" growthState="1.000000" growthStateI="1" isGrowing="false" splitShapeFileId="2"/>
+    <tree treeType="TRANSPORT" position="-968.1617 74.4006 60.2969" rotation="-96.3880 45.3025 -11.0775" growthState="1.000000" growthStateI="1" isGrowing="false" splitShapeFileId="3"/>
+    <tree treeType="TRANSPORT" position="-967.7737 74.3126 59.7878" rotation="-96.4319 45.2909 -11.0601" growthState="1.000000" growthStateI="1" isGrowing="false" splitShapeFileId="4"/>
+    <tree treeType="TRANSPORT" position="-967.2797 74.2222 59.3845" rotation="-96.6081 45.2647 -11.1810" growthState="1.000000" growthStateI="1" isGrowing="false" splitShapeFileId="5"/>
+    <tree treeType="TRANSPORT" position="-966.9296 74.1355 58.8079" rotation="-100.8150 44.6587 -16.9939" growthState="1.000000" growthStateI="1" isGrowing="false" splitShapeFileId="6"/>
+    <tree treeType="TRANSPORT" position="-966.3895 74.0443 58.4660" rotation="-98.5713 45.0384 -13.8196" growthState="1.000000" growthStateI="1" isGrowing="false" splitShapeFileId="7"/>
+    <tree treeType="TRANSPORT" position="-966.0027 73.9557 57.9588" rotation="-97.6671 45.1804 -12.5461" growthState="1.000000" growthStateI="1" isGrowing="false" splitShapeFileId="8"/>
+    <tree treeType="TRANSPORT" position="-965.6191 73.8761 57.4548" rotation="-96.9287 45.2422 -11.3638" growthState="1.000000" growthStateI="1" isGrowing="false" splitShapeFileId="9"/>
+    <tree treeType="TRANSPORT" position="-965.0934 73.7895 56.9104" rotation="-117.7599 38.0221 -41.8887" growthState="1.000000" growthStateI="1" isGrowing="false" splitShapeFileId="10"/>
+    <tree treeType="TRANSPORT" position="-968.8163 75.0443 60.8968" rotation="-92.2740 45.6284 -3.9205" growthState="1.000000" growthStateI="1" isGrowing="false" splitShapeFileId="11"/>
+    <tree treeType="TRANSPORT" position="-968.3182 74.9604 60.4897" rotation="-95.0893 45.5217 -7.5751" growthState="1.000000" growthStateI="1" isGrowing="false" splitShapeFileId="12"/>
+    <tree treeType="TRANSPORT" position="-967.8812 74.8688 60.0350" rotation="-93.4551 45.6275 -5.2312" growthState="1.000000" growthStateI="1" isGrowing="false" splitShapeFileId="13"/>
+    <tree treeType="TRANSPORT" position="-967.5468 74.7832 59.4737" rotation="-94.4527 45.5389 -6.4878" growthState="1.000000" growthStateI="1" isGrowing="false" splitShapeFileId="14"/>
+    <tree treeType="TRANSPORT" position="-966.9882 74.6786 59.1172" rotation="-85.5749 45.5402 5.8667" growthState="1.000000" growthStateI="1" isGrowing="false" splitShapeFileId="15"/>
+    <tree treeType="TRANSPORT" position="-966.6516 74.6048 58.5474" rotation="-89.4278 45.8037 0.5539" growthState="1.000000" growthStateI="1" isGrowing="false" splitShapeFileId="16"/>
+    <tree treeType="TRANSPORT" position="-966.1639 74.5143 58.1486" rotation="-94.0455 45.6642 -5.7819" growthState="1.000000" growthStateI="1" isGrowing="false" splitShapeFileId="17"/>
+    <tree treeType="TRANSPORT" position="-965.6750 74.4310 57.7531" rotation="-92.7384 45.6607 -3.8784" growthState="1.000000" growthStateI="1" isGrowing="false" splitShapeFileId="18"/>
+    <tree treeType="TRANSPORT" position="-965.1937 74.2965 57.2684" rotation="-61.4710 37.4522 41.9830" growthState="1.000000" growthStateI="1" isGrowing="false" splitShapeFileId="19"/>
+</treePlant>
