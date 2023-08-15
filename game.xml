@@ -6,7 +6,7 @@
             <width>1920</width>
             <height>1080</height>
             <brightness>1</brightness>
-            <fullscreenMode>windowed_fullscreen</fullscreenMode>
+            <fullscreenMode>windowed</fullscreenMode>
             <vsync adaptive="true">false</vsync>
             <userConfirmed>true</userConfirmed>
             <previousWidth>1280</previousWidth>
@@ -17,6 +17,8 @@
             <viewDistanceCoeff>1.250000</viewDistanceCoeff>
             <volumeMeshTessellationCoeff>1.000000</volumeMeshTessellationCoeff>
             <anisotropy>8</anisotropy>
+            <postProcessAA>Off</postProcessAA>
+            <ssaoQuality>11</ssaoQuality>
         </scalability>
         <renderer>D3D_12</renderer>
     </graphic>
@@ -36,5 +38,5 @@
         <controls>false</controls>
         <openDevConsole onWarnings="false" onErrors="false"/>
     </development>
-    <startMode>6</startMode>
+    <startMode>1</startMode>
 </game>

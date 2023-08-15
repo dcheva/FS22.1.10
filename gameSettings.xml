@@ -60,12 +60,12 @@
     <woodHarvesterAutoCut>true</woodHarvesterAutoCut>
     <shownFreemodeWarning>false</shownFreemodeWarning>
     <showMultiplayerNames>true</showMultiplayerNames>
-    <ingameMapGrowthFilter>-1</ingameMapGrowthFilter>
-    <ingameMapSoilFilter>-1</ingameMapSoilFilter>
-    <ingameMapFruitFilter></ingameMapFruitFilter>
+    <ingameMapGrowthFilter>1022</ingameMapGrowthFilter>
+    <ingameMapSoilFilter>254</ingameMapSoilFilter>
+    <ingameMapFruitFilter>GRASS</ingameMapFruitFilter>
     <useColorblindMode>false</useColorblindMode>
     <maxNumMirrors>3</maxNumMirrors>
-    <lightsProfile>3</lightsProfile>
+    <lightsProfile>2</lightsProfile>
     <fovY>60.000000</fovY>
     <uiScale>1.000000</uiScale>
     <realBeaconLights>false</realBeaconLights>
