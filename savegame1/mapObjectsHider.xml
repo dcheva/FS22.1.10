@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<mapObjectsHider revision="1" md5="true">
+    <hiddenObjects>
+        <object name="lowerPartLongAlpha" index="5|13|25|1|1|1|1|1|1|1|1|1|1|1|1|1|1|0" hash="b071c4c34443b3bcaf71669a1c9b3e28" date="04/10/2023" time="21:59:35" player="Dmytro" onlyDecollide="false" timestamp="153784775">
+            <collision name="lowerPartLongAlpha" index="5|13|25|1|1|1|1|1|1|1|1|1|1|1|1|1|1|0" rigidBodyType="1"/>
+        </object>
+    </hiddenObjects>
+</mapObjectsHider>

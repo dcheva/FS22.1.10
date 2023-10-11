@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<revamp>
+    <BuyRestriction>3</BuyRestriction>
+    <PrioSystemActive>true</PrioSystemActive>
+    <MissionFixActive>true</MissionFixActive>
+    <PriceCorrectionActive>true</PriceCorrectionActive>
+    <DistributionCostFactor>1.000000</DistributionCostFactor>
+    <DirectSellingPriceFactor>0.900000</DirectSellingPriceFactor>
+</revamp>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<sales>
+    <item timeLeft="32" isGenerated="true" xmlFilename="D:/Documents/My Games/FarmingSimulator2022/mods/FS22_MaizePlus/data/multipackD14/multipackD14.xml" age="18" price="32339" damage="0.465498" wear="0.373567" operatingTime="67405.765625"/>
+    <item timeLeft="27" isGenerated="true" xmlFilename="data/vehicles/masseyFerguson/series3670/series3670.xml" age="15" price="52843" damage="0.223412" wear="0.611884" operatingTime="50320.593750">
+        <boughtConfiguration name="cropSensor" id="2"/>
+    </item>
+    <item timeLeft="33" isGenerated="true" xmlFilename="data/vehicles/kuhn/ra142/ra142.xml" age="25" price="11456" damage="0.328055" wear="0.971663" operatingTime="90128.226563"/>
+    <item timeLeft="24" isGenerated="true" xmlFilename="data/vehicles/jungheinrich/efgS50S/efgS50S.xml" age="8" price="36763" damage="0.267718" wear="0.260500" operatingTime="20702.009766"/>
+</sales>

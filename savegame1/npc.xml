@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<npcs>
+    <npc name="NPC_FR_01" finishedMissions="0"/>
+    <npc name="NPC_FR_02" finishedMissions="0"/>
+    <npc name="NPC_FR_03" finishedMissions="0"/>
+    <npc name="NPC_FR_04" finishedMissions="0"/>
+    <npc name="NPC_FR_05" finishedMissions="0"/>
+    <npc name="NPC_FR_06" finishedMissions="0"/>
+    <npc name="NPC_FR_07" finishedMissions="0"/>
+    <npc name="NPC_FR_08" finishedMissions="0"/>
+    <npc name="NPC_FR_09" finishedMissions="0"/>
+    <npc name="NPC_FR_10" finishedMissions="0"/>
+    <npc name="NPC_FR_11" finishedMissions="0"/>
+    <npc name="NPC_FR_12" finishedMissions="0"/>
+    <npc name="NPC_FR_13" finishedMissions="0"/>
+    <npc name="NPC_FR_14" finishedMissions="0"/>
+    <npc name="NPC_FR_15" finishedMissions="0"/>
+</npcs>
