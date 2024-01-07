@@ -2,7 +2,7 @@
 <farms>
     <farm farmId="1" name="Моя ферма" color="1" loan="0.000000" money="579559.187500">
         <players>
-            <player uniqueUserId="player" farmManager="true" lastNickname="Dmytro" timeLastConnected="2023/10/06 19:51" buyVehicle="true" sellVehicle="true" buyPlaceable="true" sellPlaceable="true" manageContracts="true" tradeAnimals="true" createFields="true" landscaping="true" hireAssistant="true" resetVehicle="true" manageProductions="true" cutTrees="true" manageRights="true" transferMoney="true" updateFarm="true" manageContracting="true"/>
+            <player uniqueUserId="player" farmManager="true" lastNickname="Dmytro" timeLastConnected="2024/01/07 02:08" buyVehicle="true" sellVehicle="true" buyPlaceable="true" sellPlaceable="true" manageContracts="true" tradeAnimals="true" createFields="true" landscaping="true" hireAssistant="true" resetVehicle="true" manageProductions="true" cutTrees="true" manageRights="true" transferMoney="true" updateFarm="true" manageContracting="true"/>
         </players>
         <statistics>
             <traveledDistance>8.443094</traveledDistance>
@@ -34,7 +34,7 @@
             <transportMissionCount>0</transportMissionCount>
             <revenue>0.000000</revenue>
             <expenses>0.000000</expenses>
-            <playTime>148.205841</playTime>
+            <playTime>148.949921</playTime>
             <plantedTreeCount>0</plantedTreeCount>
             <cutTreeCount>0</cutTreeCount>
             <woodTonsSold>0.000000</woodTonsSold>

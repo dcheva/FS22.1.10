@@ -1,0 +1,3925 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<economy>
+    <fillTypes>
+        <fillType fillType="UNKNOWN">
+            <history>
+                <period period="1">0</period>
+                <period period="2">0</period>
+                <period period="3">0</period>
+                <period period="4">0</period>
+                <period period="5">0</period>
+                <period period="6">0</period>
+                <period period="7">0</period>
+                <period period="8">0</period>
+                <period period="9">0</period>
+                <period period="10">0</period>
+                <period period="11">0</period>
+                <period period="12">0</period>
+            </history>
+        </fillType>
+        <fillType fillType="WHEAT">
+            <history>
+                <period period="1">337</period>
+                <period period="2">360</period>
+                <period period="3">333</period>
+                <period period="4">316</period>
+                <period period="5">286</period>
+                <period period="6">272</period>
+                <period period="7">289</period>
+                <period period="8">333</period>
+                <period period="9">363</period>
+                <period period="10">380</period>
+                <period period="11">407</period>
+                <period period="12">363</period>
+            </history>
+        </fillType>
+        <fillType fillType="BARLEY">
+            <history>
+                <period period="1">312</period>
+                <period period="2">334</period>
+                <period period="3">309</period>
+                <period period="4">294</period>
+                <period period="5">266</period>
+                <period period="6">253</period>
+                <period period="7">269</period>
+                <period period="8">309</period>
+                <period period="9">338</period>
+                <period period="10">353</period>
+                <period period="11">378</period>
+                <period period="12">338</period>
+            </history>
+        </fillType>
+        <fillType fillType="OAT">
+            <history>
+                <period period="1">532</period>
+                <period period="2">569</period>
+                <period period="3">526</period>
+                <period period="4">500</period>
+                <period period="5">452</period>
+                <period period="6">430</period>
+                <period period="7">457</period>
+                <period period="8">526</period>
+                <period period="9">574</period>
+                <period period="10">601</period>
+                <period period="11">643</period>
+                <period period="12">574</period>
+            </history>
+        </fillType>
+        <fillType fillType="CANOLA">
+            <history>
+                <period period="1">645</period>
+                <period period="2">596</period>
+                <period period="3">566</period>
+                <period period="4">512</period>
+                <period period="5">488</period>
+                <period period="6">518</period>
+                <period period="7">596</period>
+                <period period="8">651</period>
+                <period period="9">681</period>
+                <period period="10">729</period>
+                <period period="11">651</period>
+                <period period="12">602</period>
+            </history>
+        </fillType>
+        <fillType fillType="SORGHUM">
+            <history>
+                <period period="1">481</period>
+                <period period="2">447</period>
+                <period period="3">399</period>
+                <period period="4">365</period>
+                <period period="5">339</period>
+                <period period="6">339</period>
+                <period period="7">369</period>
+                <period period="8">412</period>
+                <period period="9">464</period>
+                <period period="10">498</period>
+                <period period="11">524</period>
+                <period period="12">520</period>
+            </history>
+        </fillType>
+        <fillType fillType="GRAPE">
+            <history>
+                <period period="1">633</period>
+                <period period="2">651</period>
+                <period period="3">723</period>
+                <period period="4">663</period>
+                <period period="5">621</period>
+                <period period="6">560</period>
+                <period period="7">524</period>
+                <period period="8">452</period>
+                <period period="9">506</period>
+                <period period="10">530</period>
+                <period period="11">572</period>
+                <period period="12">596</period>
+            </history>
+        </fillType>
+        <fillType fillType="OLIVE">
+            <history>
+                <period period="1">596</period>
+                <period period="2">633</period>
+                <period period="3">651</period>
+                <period period="4">723</period>
+                <period period="5">663</period>
+                <period period="6">621</period>
+                <period period="7">560</period>
+                <period period="8">524</period>
+                <period period="9">452</period>
+                <period period="10">506</period>
+                <period period="11">530</period>
+                <period period="12">572</period>
+            </history>
+        </fillType>
+        <fillType fillType="SUNFLOWER">
+            <history>
+                <period period="1">807</period>
+                <period period="2">787</period>
+                <period period="3">706</period>
+                <period period="4">585</period>
+                <period period="5">632</period>
+                <period period="6">666</period>
+                <period period="7">740</period>
+                <period period="8">747</period>
+                <period period="9">713</period>
+                <period period="10">437</period>
+                <period period="11">498</period>
+                <period period="12">753</period>
+            </history>
+        </fillType>
+        <fillType fillType="SOYBEAN">
+            <history>
+                <period period="1">770</period>
+                <period period="2">816</period>
+                <period period="3">902</period>
+                <period period="4">1104</period>
+                <period period="5">1237</period>
+                <period period="6">879</period>
+                <period period="7">676</period>
+                <period period="8">630</period>
+                <period period="9">599</period>
+                <period period="10">676</period>
+                <period period="11">575</period>
+                <period period="12">497</period>
+            </history>
+        </fillType>
+        <fillType fillType="MAIZE">
+            <history>
+                <period period="1">425</period>
+                <period period="2">410</period>
+                <period period="3">395</period>
+                <period period="4">433</period>
+                <period period="5">497</period>
+                <period period="6">372</period>
+                <period period="7">334</period>
+                <period period="8">269</period>
+                <period period="9">231</period>
+                <period period="10">349</period>
+                <period period="11">505</period>
+                <period period="12">372</period>
+            </history>
+        </fillType>
+        <fillType fillType="POTATO">
+            <history>
+                <period period="1">192</period>
+                <period period="2">178</period>
+                <period period="3">159</period>
+                <period period="4">146</period>
+                <period period="5">135</period>
+                <period period="6">135</period>
+                <period period="7">147</period>
+                <period period="8">165</period>
+                <period period="9">185</period>
+                <period period="10">199</period>
+                <period period="11">209</period>
+                <period period="12">208</period>
+            </history>
+        </fillType>
+        <fillType fillType="SUGARBEET">
+            <history>
+                <period period="1">136</period>
+                <period period="2">126</period>
+                <period period="3">113</period>
+                <period period="4">103</period>
+                <period period="5">96</period>
+                <period period="6">96</period>
+                <period period="7">104</period>
+                <period period="8">117</period>
+                <period period="9">131</period>
+                <period period="10">141</period>
+                <period period="11">148</period>
+                <period period="12">147</period>
+            </history>
+        </fillType>
+        <fillType fillType="SUGARBEET_CUT">
+            <history>
+                <period period="1">192</period>
+                <period period="2">178</period>
+                <period period="3">159</period>
+                <period period="4">146</period>
+                <period period="5">135</period>
+                <period period="6">135</period>
+                <period period="7">147</period>
+                <period period="8">165</period>
+                <period period="9">185</period>
+                <period period="10">199</period>
+                <period period="11">209</period>
+                <period period="12">208</period>
+            </history>
+        </fillType>
+        <fillType fillType="COTTON">
+            <history>
+                <period period="1">1389</period>
+                <period period="2">1289</period>
+                <period period="3">1277</period>
+                <period period="4">1277</period>
+                <period period="5">1151</period>
+                <period period="6">1126</period>
+                <period period="7">1089</period>
+                <period period="8">1277</period>
+                <period period="9">1277</period>
+                <period period="10">1302</period>
+                <period period="11">1226</period>
+                <period period="12">1339</period>
+            </history>
+        </fillType>
+        <fillType fillType="SUGARCANE">
+            <history>
+                <period period="1">111</period>
+                <period period="2">114</period>
+                <period period="3">120</period>
+                <period period="4">120</period>
+                <period period="5">124</period>
+                <period period="6">123</period>
+                <period period="7">124</period>
+                <period period="8">123</period>
+                <period period="9">121</period>
+                <period period="10">120</period>
+                <period period="11">115</period>
+                <period period="12">111</period>
+            </history>
+        </fillType>
+        <fillType fillType="SEEDS">
+            <history>
+                <period period="1">899</period>
+                <period period="2">963</period>
+                <period period="3">890</period>
+                <period period="4">845</period>
+                <period period="5">765</period>
+                <period period="6">728</period>
+                <period period="7">773</period>
+                <period period="8">890</period>
+                <period period="9">972</period>
+                <period period="10">1016</period>
+                <period period="11">1089</period>
+                <period period="12">972</period>
+            </history>
+        </fillType>
+        <fillType fillType="EGG">
+            <history>
+                <period period="1">884</period>
+                <period period="2">795</period>
+                <period period="3">1019</period>
+                <period period="4">1232</period>
+                <period period="5">1243</period>
+                <period period="6">1052</period>
+                <period period="7">1052</period>
+                <period period="8">1153</period>
+                <period period="9">1400</period>
+                <period period="10">1355</period>
+                <period period="11">1209</period>
+                <period period="12">1019</period>
+            </history>
+        </fillType>
+        <fillType fillType="WOOL">
+            <history>
+                <period period="1">1062</period>
+                <period period="2">1174</period>
+                <period period="3">1212</period>
+                <period period="4">1118</period>
+                <period period="5">930</period>
+                <period period="6">855</period>
+                <period period="7">761</period>
+                <period period="8">723</period>
+                <period period="9">799</period>
+                <period period="10">892</period>
+                <period period="11">874</period>
+                <period period="12">911</period>
+            </history>
+        </fillType>
+        <fillType fillType="MILK">
+            <history>
+                <period period="1">741</period>
+                <period period="2">706</period>
+                <period period="3">671</period>
+                <period period="4">629</period>
+                <period period="5">664</period>
+                <period period="6">664</period>
+                <period period="7">720</period>
+                <period period="8">763</period>
+                <period period="9">686</period>
+                <period period="10">671</period>
+                <period period="11">756</period>
+                <period period="12">749</period>
+            </history>
+        </fillType>
+        <fillType fillType="WATER">
+            <history>
+                <period period="1">95</period>
+                <period period="2">97</period>
+                <period period="3">100</period>
+                <period period="4">100</period>
+                <period period="5">104</period>
+                <period period="6">110</period>
+                <period period="7">114</period>
+                <period period="8">110</period>
+                <period period="9">110</period>
+                <period period="10">104</period>
+                <period period="11">100</period>
+                <period period="12">97</period>
+            </history>
+        </fillType>
+        <fillType fillType="FORAGE">
+            <history>
+                <period period="1">527</period>
+                <period period="2">499</period>
+                <period period="3">479</period>
+                <period period="4">460</period>
+                <period period="5">455</period>
+                <period period="6">455</period>
+                <period period="7">446</period>
+                <period period="8">508</period>
+                <period period="9">518</period>
+                <period period="10">547</period>
+                <period period="11">547</period>
+                <period period="12">537</period>
+            </history>
+        </fillType>
+        <fillType fillType="FORAGE_MIXING">
+            <history>
+                <period period="1">39</period>
+                <period period="2">39</period>
+                <period period="3">39</period>
+                <period period="4">39</period>
+                <period period="5">39</period>
+                <period period="6">39</period>
+                <period period="7">39</period>
+                <period period="8">39</period>
+                <period period="9">39</period>
+                <period period="10">39</period>
+                <period period="11">39</period>
+                <period period="12">39</period>
+            </history>
+        </fillType>
+        <fillType fillType="CHAFF">
+            <history>
+                <period period="1">45</period>
+                <period period="2">43</period>
+                <period period="3">41</period>
+                <period period="4">40</period>
+                <period period="5">41</period>
+                <period period="6">39</period>
+                <period period="7">39</period>
+                <period period="8">44</period>
+                <period period="9">45</period>
+                <period period="10">46</period>
+                <period period="11">47</period>
+                <period period="12">47</period>
+            </history>
+        </fillType>
+        <fillType fillType="TREESAPLINGS">
+            <history>
+                <period period="1">100</period>
+                <period period="2">100</period>
+                <period period="3">100</period>
+                <period period="4">100</period>
+                <period period="5">100</period>
+                <period period="6">100</period>
+                <period period="7">100</period>
+                <period period="8">100</period>
+                <period period="9">100</period>
+                <period period="10">100</period>
+                <period period="11">100</period>
+                <period period="12">100</period>
+            </history>
+        </fillType>
+        <fillType fillType="WOODCHIPS">
+            <history>
+                <period period="1">396</period>
+                <period period="2">316</period>
+                <period period="3">236</period>
+                <period period="4">195</period>
+                <period period="5">169</period>
+                <period period="6">169</period>
+                <period period="7">198</period>
+                <period period="8">255</period>
+                <period period="9">364</period>
+                <period period="10">457</period>
+                <period period="11">540</period>
+                <period period="12">531</period>
+            </history>
+        </fillType>
+        <fillType fillType="SILAGE">
+            <history>
+                <period period="1">179</period>
+                <period period="2">174</period>
+                <period period="3">164</period>
+                <period period="4">159</period>
+                <period period="5">153</period>
+                <period period="6">153</period>
+                <period period="7">159</period>
+                <period period="8">169</period>
+                <period period="9">179</period>
+                <period period="10">184</period>
+                <period period="11">189</period>
+                <period period="12">189</period>
+            </history>
+        </fillType>
+        <fillType fillType="OILSEEDRADISH">
+            <history>
+                <period period="1">250</period>
+                <period period="2">250</period>
+                <period period="3">250</period>
+                <period period="4">250</period>
+                <period period="5">250</period>
+                <period period="6">250</period>
+                <period period="7">250</period>
+                <period period="8">250</period>
+                <period period="9">250</period>
+                <period period="10">250</period>
+                <period period="11">250</period>
+                <period period="12">250</period>
+            </history>
+        </fillType>
+        <fillType fillType="POPLAR">
+            <history>
+                <period period="1">39</period>
+                <period period="2">39</period>
+                <period period="3">39</period>
+                <period period="4">39</period>
+                <period period="5">39</period>
+                <period period="6">39</period>
+                <period period="7">39</period>
+                <period period="8">39</period>
+                <period period="9">39</period>
+                <period period="10">39</period>
+                <period period="11">39</period>
+                <period period="12">39</period>
+            </history>
+        </fillType>
+        <fillType fillType="WOOD">
+            <history>
+                <period period="1">1000</period>
+                <period period="2">1000</period>
+                <period period="3">1000</period>
+                <period period="4">1000</period>
+                <period period="5">1000</period>
+                <period period="6">1000</period>
+                <period period="7">1000</period>
+                <period period="8">1000</period>
+                <period period="9">1000</period>
+                <period period="10">1000</period>
+                <period period="11">1000</period>
+                <period period="12">1000</period>
+            </history>
+        </fillType>
+        <fillType fillType="GRASS">
+            <history>
+                <period period="1">47</period>
+                <period period="2">45</period>
+                <period period="3">43</period>
+                <period period="4">41</period>
+                <period period="5">40</period>
+                <period period="6">40</period>
+                <period period="7">41</period>
+                <period period="8">44</period>
+                <period period="9">47</period>
+                <period period="10">48</period>
+                <period period="11">49</period>
+                <period period="12">49</period>
+            </history>
+        </fillType>
+        <fillType fillType="MEADOW">
+            <history>
+                <period period="1">0</period>
+                <period period="2">0</period>
+                <period period="3">0</period>
+                <period period="4">0</period>
+                <period period="5">0</period>
+                <period period="6">0</period>
+                <period period="7">0</period>
+                <period period="8">0</period>
+                <period period="9">0</period>
+                <period period="10">0</period>
+                <period period="11">0</period>
+                <period period="12">0</period>
+            </history>
+        </fillType>
+        <fillType fillType="GRASS_WINDROW">
+            <history>
+                <period period="1">47</period>
+                <period period="2">45</period>
+                <period period="3">43</period>
+                <period period="4">41</period>
+                <period period="5">40</period>
+                <period period="6">40</period>
+                <period period="7">41</period>
+                <period period="8">44</period>
+                <period period="9">47</period>
+                <period period="10">48</period>
+                <period period="11">49</period>
+                <period period="12">49</period>
+            </history>
+        </fillType>
+        <fillType fillType="DRYGRASS">
+            <history>
+                <period period="1">50</period>
+                <period period="2">48</period>
+                <period period="3">46</period>
+                <period period="4">44</period>
+                <period period="5">43</period>
+                <period period="6">43</period>
+                <period period="7">44</period>
+                <period period="8">47</period>
+                <period period="9">50</period>
+                <period period="10">51</period>
+                <period period="11">53</period>
+                <period period="12">53</period>
+            </history>
+        </fillType>
+        <fillType fillType="DRYGRASS_WINDROW">
+            <history>
+                <period period="1">58</period>
+                <period period="2">57</period>
+                <period period="3">53</period>
+                <period period="4">52</period>
+                <period period="5">50</period>
+                <period period="6">50</period>
+                <period period="7">52</period>
+                <period period="8">55</period>
+                <period period="9">58</period>
+                <period period="10">60</period>
+                <period period="11">62</period>
+                <period period="12">62</period>
+            </history>
+        </fillType>
+        <fillType fillType="STRAW">
+            <history>
+                <period period="1">41</period>
+                <period period="2">43</period>
+                <period period="3">40</period>
+                <period period="4">38</period>
+                <period period="5">34</period>
+                <period period="6">33</period>
+                <period period="7">35</period>
+                <period period="8">40</period>
+                <period period="9">44</period>
+                <period period="10">46</period>
+                <period period="11">49</period>
+                <period period="12">44</period>
+            </history>
+        </fillType>
+        <fillType fillType="DIESEL">
+            <history>
+                <period period="1">1190</period>
+                <period period="2">1190</period>
+                <period period="3">1190</period>
+                <period period="4">1190</period>
+                <period period="5">1190</period>
+                <period period="6">1190</period>
+                <period period="7">1190</period>
+                <period period="8">1190</period>
+                <period period="9">1190</period>
+                <period period="10">1190</period>
+                <period period="11">1190</period>
+                <period period="12">1190</period>
+            </history>
+        </fillType>
+        <fillType fillType="DEF">
+            <history>
+                <period period="1">1250</period>
+                <period period="2">1250</period>
+                <period period="3">1250</period>
+                <period period="4">1250</period>
+                <period period="5">1250</period>
+                <period period="6">1250</period>
+                <period period="7">1250</period>
+                <period period="8">1250</period>
+                <period period="9">1250</period>
+                <period period="10">1250</period>
+                <period period="11">1250</period>
+                <period period="12">1250</period>
+            </history>
+        </fillType>
+        <fillType fillType="AIR">
+            <history>
+                <period period="1">0</period>
+                <period period="2">0</period>
+                <period period="3">0</period>
+                <period period="4">0</period>
+                <period period="5">0</period>
+                <period period="6">0</period>
+                <period period="7">0</period>
+                <period period="8">0</period>
+                <period period="9">0</period>
+                <period period="10">0</period>
+                <period period="11">0</period>
+                <period period="12">0</period>
+            </history>
+        </fillType>
+        <fillType fillType="ELECTRICCHARGE">
+            <history>
+                <period period="1">349</period>
+                <period period="2">349</period>
+                <period period="3">349</period>
+                <period period="4">349</period>
+                <period period="5">349</period>
+                <period period="6">349</period>
+                <period period="7">349</period>
+                <period period="8">349</period>
+                <period period="9">349</period>
+                <period period="10">349</period>
+                <period period="11">349</period>
+                <period period="12">349</period>
+            </history>
+        </fillType>
+        <fillType fillType="METHANE">
+            <history>
+                <period period="1">740</period>
+                <period period="2">740</period>
+                <period period="3">740</period>
+                <period period="4">740</period>
+                <period period="5">740</period>
+                <period period="6">740</period>
+                <period period="7">740</period>
+                <period period="8">740</period>
+                <period period="9">740</period>
+                <period period="10">740</period>
+                <period period="11">740</period>
+                <period period="12">740</period>
+            </history>
+        </fillType>
+        <fillType fillType="SNOW">
+            <history>
+                <period period="1">0</period>
+                <period period="2">0</period>
+                <period period="3">0</period>
+                <period period="4">0</period>
+                <period period="5">0</period>
+                <period period="6">0</period>
+                <period period="7">0</period>
+                <period period="8">0</period>
+                <period period="9">0</period>
+                <period period="10">0</period>
+                <period period="11">0</period>
+                <period period="12">0</period>
+            </history>
+        </fillType>
+        <fillType fillType="ROADSALT">
+            <history>
+                <period period="1">0</period>
+                <period period="2">0</period>
+                <period period="3">0</period>
+                <period period="4">0</period>
+                <period period="5">0</period>
+                <period period="6">0</period>
+                <period period="7">0</period>
+                <period period="8">0</period>
+                <period period="9">0</period>
+                <period period="10">0</period>
+                <period period="11">0</period>
+                <period period="12">0</period>
+            </history>
+        </fillType>
+        <fillType fillType="FLOUR">
+            <history>
+                <period period="1">569</period>
+                <period period="2">609</period>
+                <period period="3">564</period>
+                <period period="4">535</period>
+                <period period="5">484</period>
+                <period period="6">461</period>
+                <period period="7">490</period>
+                <period period="8">564</period>
+                <period period="9">615</period>
+                <period period="10">644</period>
+                <period period="11">689</period>
+                <period period="12">615</period>
+            </history>
+        </fillType>
+        <fillType fillType="BREAD">
+            <history>
+                <period period="1">1519</period>
+                <period period="2">1626</period>
+                <period period="3">1504</period>
+                <period period="4">1428</period>
+                <period period="5">1292</period>
+                <period period="6">1231</period>
+                <period period="7">1307</period>
+                <period period="8">1504</period>
+                <period period="9">1641</period>
+                <period period="10">1717</period>
+                <period period="11">1839</period>
+                <period period="12">1641</period>
+            </history>
+        </fillType>
+        <fillType fillType="CAKE">
+            <history>
+                <period period="1">3497</period>
+                <period period="2">3332</period>
+                <period period="3">3167</period>
+                <period period="4">2969</period>
+                <period period="5">3134</period>
+                <period period="6">3134</period>
+                <period period="7">3398</period>
+                <period period="8">3597</period>
+                <period period="9">3234</period>
+                <period period="10">3167</period>
+                <period period="11">3564</period>
+                <period period="12">3531</period>
+            </history>
+        </fillType>
+        <fillType fillType="BUTTER">
+            <history>
+                <period period="1">953</period>
+                <period period="2">908</period>
+                <period period="3">863</period>
+                <period period="4">809</period>
+                <period period="5">854</period>
+                <period period="6">854</period>
+                <period period="7">926</period>
+                <period period="8">981</period>
+                <period period="9">881</period>
+                <period period="10">863</period>
+                <period period="11">972</period>
+                <period period="12">963</period>
+            </history>
+        </fillType>
+        <fillType fillType="CHEESE">
+            <history>
+                <period period="1">1907</period>
+                <period period="2">1817</period>
+                <period period="3">1727</period>
+                <period period="4">1619</period>
+                <period period="5">1709</period>
+                <period period="6">1709</period>
+                <period period="7">1853</period>
+                <period period="8">1962</period>
+                <period period="9">1763</period>
+                <period period="10">1727</period>
+                <period period="11">1944</period>
+                <period period="12">1926</period>
+            </history>
+        </fillType>
+        <fillType fillType="FABRIC">
+            <history>
+                <period period="1">3389</period>
+                <period period="2">3750</period>
+                <period period="3">3869</period>
+                <period period="4">3570</period>
+                <period period="5">2970</period>
+                <period period="6">2730</period>
+                <period period="7">2430</period>
+                <period period="8">2309</period>
+                <period period="9">2550</period>
+                <period period="10">2849</period>
+                <period period="11">2790</period>
+                <period period="12">2910</period>
+            </history>
+        </fillType>
+        <fillType fillType="CLOTHES">
+            <history>
+                <period period="1">9039</period>
+                <period period="2">10000</period>
+                <period period="3">10319</period>
+                <period period="4">9520</period>
+                <period period="5">7920</period>
+                <period period="6">7280</period>
+                <period period="7">6480</period>
+                <period period="8">6159</period>
+                <period period="9">6800</period>
+                <period period="10">7599</period>
+                <period period="11">7440</period>
+                <period period="12">7760</period>
+            </history>
+        </fillType>
+        <fillType fillType="SUGAR">
+            <history>
+                <period period="1">469</period>
+                <period period="2">479</period>
+                <period period="3">504</period>
+                <period period="4">504</period>
+                <period period="5">524</period>
+                <period period="6">519</period>
+                <period period="7">524</period>
+                <period period="8">519</period>
+                <period period="9">509</period>
+                <period period="10">504</period>
+                <period period="11">485</period>
+                <period period="12">469</period>
+            </history>
+        </fillType>
+        <fillType fillType="HONEY">
+            <history>
+                <period period="1">1120</period>
+                <period period="2">1080</period>
+                <period period="3">1009</period>
+                <period period="4">1000</period>
+                <period period="5">959</period>
+                <period period="6">930</period>
+                <period period="7">910</period>
+                <period period="8">939</period>
+                <period period="9">970</period>
+                <period period="10">1000</period>
+                <period period="11">1029</period>
+                <period period="12">1070</period>
+            </history>
+        </fillType>
+        <fillType fillType="CEREAL">
+            <history>
+                <period period="1">2631</period>
+                <period period="2">2537</period>
+                <period period="3">2255</period>
+                <period period="4">2349</period>
+                <period period="5">2208</period>
+                <period period="6">2396</period>
+                <period period="7">2138</period>
+                <period period="8">2373</period>
+                <period period="9">2279</period>
+                <period period="10">2349</period>
+                <period period="11">2420</period>
+                <period period="12">2514</period>
+            </history>
+        </fillType>
+        <fillType fillType="SUNFLOWER_OIL">
+            <history>
+                <period period="1">2136</period>
+                <period period="2">2082</period>
+                <period period="3">1868</period>
+                <period period="4">1548</period>
+                <period period="5">1673</period>
+                <period period="6">1762</period>
+                <period period="7">1958</period>
+                <period period="8">1975</period>
+                <period period="9">1886</period>
+                <period period="10">1156</period>
+                <period period="11">1317</period>
+                <period period="12">1993</period>
+            </history>
+        </fillType>
+        <fillType fillType="CANOLA_OIL">
+            <history>
+                <period period="1">1754</period>
+                <period period="2">1623</period>
+                <period period="3">1541</period>
+                <period period="4">1394</period>
+                <period period="5">1328</period>
+                <period period="6">1410</period>
+                <period period="7">1623</period>
+                <period period="8">1771</period>
+                <period period="9">1853</period>
+                <period period="10">1984</period>
+                <period period="11">1771</period>
+                <period period="12">1639</period>
+            </history>
+        </fillType>
+        <fillType fillType="OLIVE_OIL">
+            <history>
+                <period period="1">5623</period>
+                <period period="2">5963</period>
+                <period period="3">6134</period>
+                <period period="4">6816</period>
+                <period period="5">6247</period>
+                <period period="6">5850</period>
+                <period period="7">5282</period>
+                <period period="8">4941</period>
+                <period period="9">4259</period>
+                <period period="10">4771</period>
+                <period period="11">4998</period>
+                <period period="12">5395</period>
+            </history>
+        </fillType>
+        <fillType fillType="RAISINS">
+            <history>
+                <period period="1">1512</period>
+                <period period="2">1498</period>
+                <period period="3">1469</period>
+                <period period="4">1358</period>
+                <period period="5">1315</period>
+                <period period="6">1385</period>
+                <period period="7">1540</period>
+                <period period="8">1553</period>
+                <period period="9">1483</period>
+                <period period="10">1329</period>
+                <period period="11">1274</period>
+                <period period="12">1385</period>
+            </history>
+        </fillType>
+        <fillType fillType="GRAPEJUICE">
+            <history>
+                <period period="1">1631</period>
+                <period period="2">1663</period>
+                <period period="3">1679</period>
+                <period period="4">1584</period>
+                <period period="5">1504</period>
+                <period period="6">1584</period>
+                <period period="7">1631</period>
+                <period period="8">1679</period>
+                <period period="9">1728</period>
+                <period period="10">1616</period>
+                <period period="11">1535</period>
+                <period period="12">1792</period>
+            </history>
+        </fillType>
+        <fillType fillType="LETTUCE">
+            <history>
+                <period period="1">1039</period>
+                <period period="2">1029</period>
+                <period period="3">990</period>
+                <period period="4">980</period>
+                <period period="5">930</period>
+                <period period="6">980</period>
+                <period period="7">910</period>
+                <period period="8">890</period>
+                <period period="9">970</period>
+                <period period="10">999</period>
+                <period period="11">1069</period>
+                <period period="12">1118</period>
+            </history>
+        </fillType>
+        <fillType fillType="TOMATO">
+            <history>
+                <period period="1">524</period>
+                <period period="2">519</period>
+                <period period="3">500</period>
+                <period period="4">495</period>
+                <period period="5">469</period>
+                <period period="6">495</period>
+                <period period="7">460</period>
+                <period period="8">449</period>
+                <period period="9">490</period>
+                <period period="10">504</period>
+                <period period="11">540</period>
+                <period period="12">564</period>
+            </history>
+        </fillType>
+        <fillType fillType="STRAWBERRY">
+            <history>
+                <period period="1">262</period>
+                <period period="2">259</period>
+                <period period="3">250</period>
+                <period period="4">247</period>
+                <period period="5">234</period>
+                <period period="6">247</period>
+                <period period="7">230</period>
+                <period period="8">224</period>
+                <period period="9">245</period>
+                <period period="10">252</period>
+                <period period="11">270</period>
+                <period period="12">282</period>
+            </history>
+        </fillType>
+        <fillType fillType="CHOCOLATE">
+            <history>
+                <period period="1">1980</period>
+                <period period="2">2039</period>
+                <period period="3">2079</period>
+                <period period="4">2160</period>
+                <period period="5">1879</period>
+                <period period="6">1840</period>
+                <period period="7">1899</period>
+                <period period="8">1820</period>
+                <period period="9">1919</period>
+                <period period="10">2000</period>
+                <period period="11">2079</period>
+                <period period="12">2160</period>
+            </history>
+        </fillType>
+        <fillType fillType="BOARDS">
+            <history>
+                <period period="1">1143</period>
+                <period period="2">1195</period>
+                <period period="3">1325</period>
+                <period period="4">1351</period>
+                <period period="5">1429</period>
+                <period period="6">1338</period>
+                <period period="7">1312</period>
+                <period period="8">1260</period>
+                <period period="9">1234</period>
+                <period period="10">1208</period>
+                <period period="11">1182</period>
+                <period period="12">1169</period>
+            </history>
+        </fillType>
+        <fillType fillType="FURNITURE">
+            <history>
+                <period period="1">1759</period>
+                <period period="2">1840</period>
+                <period period="3">2039</period>
+                <period period="4">2079</period>
+                <period period="5">2200</period>
+                <period period="6">2059</period>
+                <period period="7">2019</period>
+                <period period="8">1940</period>
+                <period period="9">1899</period>
+                <period period="10">1860</period>
+                <period period="11">1820</period>
+                <period period="12">1799</period>
+            </history>
+        </fillType>
+        <fillType fillType="ROUNDBALE">
+            <history>
+                <period period="1">1000</period>
+                <period period="2">1000</period>
+                <period period="3">1000</period>
+                <period period="4">1000</period>
+                <period period="5">1000</period>
+                <period period="6">1000</period>
+                <period period="7">1000</period>
+                <period period="8">1000</period>
+                <period period="9">1000</period>
+                <period period="10">1000</period>
+                <period period="11">1000</period>
+                <period period="12">1000</period>
+            </history>
+        </fillType>
+        <fillType fillType="ROUNDBALE_GRASS">
+            <history>
+                <period period="1">1000</period>
+                <period period="2">1000</period>
+                <period period="3">1000</period>
+                <period period="4">1000</period>
+                <period period="5">1000</period>
+                <period period="6">1000</period>
+                <period period="7">1000</period>
+                <period period="8">1000</period>
+                <period period="9">1000</period>
+                <period period="10">1000</period>
+                <period period="11">1000</period>
+                <period period="12">1000</period>
+            </history>
+        </fillType>
+        <fillType fillType="ROUNDBALE_DRYGRASS">
+            <history>
+                <period period="1">1000</period>
+                <period period="2">1000</period>
+                <period period="3">1000</period>
+                <period period="4">1000</period>
+                <period period="5">1000</period>
+                <period period="6">1000</period>
+                <period period="7">1000</period>
+                <period period="8">1000</period>
+                <period period="9">1000</period>
+                <period period="10">1000</period>
+                <period period="11">1000</period>
+                <period period="12">1000</period>
+            </history>
+        </fillType>
+        <fillType fillType="ROUNDBALE_COTTON">
+            <history>
+                <period period="1">1000</period>
+                <period period="2">1000</period>
+                <period period="3">1000</period>
+                <period period="4">1000</period>
+                <period period="5">1000</period>
+                <period period="6">1000</period>
+                <period period="7">1000</period>
+                <period period="8">1000</period>
+                <period period="9">1000</period>
+                <period period="10">1000</period>
+                <period period="11">1000</period>
+                <period period="12">1000</period>
+            </history>
+        </fillType>
+        <fillType fillType="ROUNDBALE_WOOD">
+            <history>
+                <period period="1">1000</period>
+                <period period="2">1000</period>
+                <period period="3">1000</period>
+                <period period="4">1000</period>
+                <period period="5">1000</period>
+                <period period="6">1000</period>
+                <period period="7">1000</period>
+                <period period="8">1000</period>
+                <period period="9">1000</period>
+                <period period="10">1000</period>
+                <period period="11">1000</period>
+                <period period="12">1000</period>
+            </history>
+        </fillType>
+        <fillType fillType="SQUAREBALE">
+            <history>
+                <period period="1">1000</period>
+                <period period="2">1000</period>
+                <period period="3">1000</period>
+                <period period="4">1000</period>
+                <period period="5">1000</period>
+                <period period="6">1000</period>
+                <period period="7">1000</period>
+                <period period="8">1000</period>
+                <period period="9">1000</period>
+                <period period="10">1000</period>
+                <period period="11">1000</period>
+                <period period="12">1000</period>
+            </history>
+        </fillType>
+        <fillType fillType="SQUAREBALE_COTTON">
+            <history>
+                <period period="1">1000</period>
+                <period period="2">1000</period>
+                <period period="3">1000</period>
+                <period period="4">1000</period>
+                <period period="5">1000</period>
+                <period period="6">1000</period>
+                <period period="7">1000</period>
+                <period period="8">1000</period>
+                <period period="9">1000</period>
+                <period period="10">1000</period>
+                <period period="11">1000</period>
+                <period period="12">1000</period>
+            </history>
+        </fillType>
+        <fillType fillType="SQUAREBALE_WOOD">
+            <history>
+                <period period="1">1000</period>
+                <period period="2">1000</period>
+                <period period="3">1000</period>
+                <period period="4">1000</period>
+                <period period="5">1000</period>
+                <period period="6">1000</period>
+                <period period="7">1000</period>
+                <period period="8">1000</period>
+                <period period="9">1000</period>
+                <period period="10">1000</period>
+                <period period="11">1000</period>
+                <period period="12">1000</period>
+            </history>
+        </fillType>
+        <fillType fillType="FERTILIZER">
+            <history>
+                <period period="1">1600</period>
+                <period period="2">1600</period>
+                <period period="3">1600</period>
+                <period period="4">1600</period>
+                <period period="5">1600</period>
+                <period period="6">1600</period>
+                <period period="7">1600</period>
+                <period period="8">1600</period>
+                <period period="9">1600</period>
+                <period period="10">1600</period>
+                <period period="11">1600</period>
+                <period period="12">1600</period>
+            </history>
+        </fillType>
+        <fillType fillType="LIQUIDFERTILIZER">
+            <history>
+                <period period="1">1200</period>
+                <period period="2">1200</period>
+                <period period="3">1200</period>
+                <period period="4">1200</period>
+                <period period="5">1200</period>
+                <period period="6">1200</period>
+                <period period="7">1200</period>
+                <period period="8">1200</period>
+                <period period="9">1200</period>
+                <period period="10">1200</period>
+                <period period="11">1200</period>
+                <period period="12">1200</period>
+            </history>
+        </fillType>
+        <fillType fillType="MANURE">
+            <history>
+                <period period="1">34</period>
+                <period period="2">33</period>
+                <period period="3">32</period>
+                <period period="4">30</period>
+                <period period="5">29</period>
+                <period period="6">29</period>
+                <period period="7">30</period>
+                <period period="8">32</period>
+                <period period="9">34</period>
+                <period period="10">35</period>
+                <period period="11">36</period>
+                <period period="12">36</period>
+            </history>
+        </fillType>
+        <fillType fillType="LIQUIDMANURE">
+            <history>
+                <period period="1">34</period>
+                <period period="2">33</period>
+                <period period="3">32</period>
+                <period period="4">30</period>
+                <period period="5">29</period>
+                <period period="6">29</period>
+                <period period="7">30</period>
+                <period period="8">32</period>
+                <period period="9">34</period>
+                <period period="10">35</period>
+                <period period="11">36</period>
+                <period period="12">36</period>
+            </history>
+        </fillType>
+        <fillType fillType="DIGESTATE">
+            <history>
+                <period period="1">34</period>
+                <period period="2">33</period>
+                <period period="3">32</period>
+                <period period="4">30</period>
+                <period period="5">29</period>
+                <period period="6">29</period>
+                <period period="7">30</period>
+                <period period="8">32</period>
+                <period period="9">34</period>
+                <period period="10">35</period>
+                <period period="11">36</period>
+                <period period="12">36</period>
+            </history>
+        </fillType>
+        <fillType fillType="PIGFOOD">
+            <history>
+                <period period="1">800</period>
+                <period period="2">800</period>
+                <period period="3">800</period>
+                <period period="4">800</period>
+                <period period="5">800</period>
+                <period period="6">800</period>
+                <period period="7">800</period>
+                <period period="8">800</period>
+                <period period="9">800</period>
+                <period period="10">800</period>
+                <period period="11">800</period>
+                <period period="12">800</period>
+            </history>
+        </fillType>
+        <fillType fillType="TARP">
+            <history>
+                <period period="1">0</period>
+                <period period="2">0</period>
+                <period period="3">0</period>
+                <period period="4">0</period>
+                <period period="5">0</period>
+                <period period="6">0</period>
+                <period period="7">0</period>
+                <period period="8">0</period>
+                <period period="9">0</period>
+                <period period="10">0</period>
+                <period period="11">0</period>
+                <period period="12">0</period>
+            </history>
+        </fillType>
+        <fillType fillType="LIME">
+            <history>
+                <period period="1">224</period>
+                <period period="2">224</period>
+                <period period="3">224</period>
+                <period period="4">224</period>
+                <period period="5">224</period>
+                <period period="6">224</period>
+                <period period="7">224</period>
+                <period period="8">224</period>
+                <period period="9">224</period>
+                <period period="10">224</period>
+                <period period="11">224</period>
+                <period period="12">224</period>
+            </history>
+        </fillType>
+        <fillType fillType="HERBICIDE">
+            <history>
+                <period period="1">1200</period>
+                <period period="2">1200</period>
+                <period period="3">1200</period>
+                <period period="4">1200</period>
+                <period period="5">1200</period>
+                <period period="6">1200</period>
+                <period period="7">1200</period>
+                <period period="8">1200</period>
+                <period period="9">1200</period>
+                <period period="10">1200</period>
+                <period period="11">1200</period>
+                <period period="12">1200</period>
+            </history>
+        </fillType>
+        <fillType fillType="SILAGE_ADDITIVE">
+            <history>
+                <period period="1">20600</period>
+                <period period="2">20600</period>
+                <period period="3">20600</period>
+                <period period="4">20600</period>
+                <period period="5">20600</period>
+                <period period="6">20600</period>
+                <period period="7">20600</period>
+                <period period="8">20600</period>
+                <period period="9">20600</period>
+                <period period="10">20600</period>
+                <period period="11">20600</period>
+                <period period="12">20600</period>
+            </history>
+        </fillType>
+        <fillType fillType="MINERAL_FEED">
+            <history>
+                <period period="1">730</period>
+                <period period="2">781</period>
+                <period period="3">722</period>
+                <period period="4">686</period>
+                <period period="5">620</period>
+                <period period="6">591</period>
+                <period period="7">627</period>
+                <period period="8">722</period>
+                <period period="9">788</period>
+                <period period="10">824</period>
+                <period period="11">883</period>
+                <period period="12">788</period>
+            </history>
+        </fillType>
+        <fillType fillType="WEED">
+            <history>
+                <period period="1">0</period>
+                <period period="2">0</period>
+                <period period="3">0</period>
+                <period period="4">0</period>
+                <period period="5">0</period>
+                <period period="6">0</period>
+                <period period="7">0</period>
+                <period period="8">0</period>
+                <period period="9">0</period>
+                <period period="10">0</period>
+                <period period="11">0</period>
+                <period period="12">0</period>
+            </history>
+        </fillType>
+        <fillType fillType="STONE">
+            <history>
+                <period period="1">50</period>
+                <period period="2">50</period>
+                <period period="3">50</period>
+                <period period="4">50</period>
+                <period period="5">50</period>
+                <period period="6">50</period>
+                <period period="7">50</period>
+                <period period="8">50</period>
+                <period period="9">50</period>
+                <period period="10">50</period>
+                <period period="11">50</period>
+                <period period="12">50</period>
+            </history>
+        </fillType>
+        <fillType fillType="HORSE_PALOMINO">
+            <history>
+                <period period="1">0</period>
+                <period period="2">0</period>
+                <period period="3">0</period>
+                <period period="4">0</period>
+                <period period="5">0</period>
+                <period period="6">0</period>
+                <period period="7">0</period>
+                <period period="8">0</period>
+                <period period="9">0</period>
+                <period period="10">0</period>
+                <period period="11">0</period>
+                <period period="12">0</period>
+            </history>
+        </fillType>
+        <fillType fillType="HORSE_BLACK">
+            <history>
+                <period period="1">0</period>
+                <period period="2">0</period>
+                <period period="3">0</period>
+                <period period="4">0</period>
+                <period period="5">0</period>
+                <period period="6">0</period>
+                <period period="7">0</period>
+                <period period="8">0</period>
+                <period period="9">0</period>
+                <period period="10">0</period>
+                <period period="11">0</period>
+                <period period="12">0</period>
+            </history>
+        </fillType>
+        <fillType fillType="HORSE_BAY">
+            <history>
+                <period period="1">0</period>
+                <period period="2">0</period>
+                <period period="3">0</period>
+                <period period="4">0</period>
+                <period period="5">0</period>
+                <period period="6">0</period>
+                <period period="7">0</period>
+                <period period="8">0</period>
+                <period period="9">0</period>
+                <period period="10">0</period>
+                <period period="11">0</period>
+                <period period="12">0</period>
+            </history>
+        </fillType>
+        <fillType fillType="HORSE_PINTO">
+            <history>
+                <period period="1">0</period>
+                <period period="2">0</period>
+                <period period="3">0</period>
+                <period period="4">0</period>
+                <period period="5">0</period>
+                <period period="6">0</period>
+                <period period="7">0</period>
+                <period period="8">0</period>
+                <period period="9">0</period>
+                <period period="10">0</period>
+                <period period="11">0</period>
+                <period period="12">0</period>
+            </history>
+        </fillType>
+        <fillType fillType="HORSE_SEAL_BROWN">
+            <history>
+                <period period="1">0</period>
+                <period period="2">0</period>
+                <period period="3">0</period>
+                <period period="4">0</period>
+                <period period="5">0</period>
+                <period period="6">0</period>
+                <period period="7">0</period>
+                <period period="8">0</period>
+                <period period="9">0</period>
+                <period period="10">0</period>
+                <period period="11">0</period>
+                <period period="12">0</period>
+            </history>
+        </fillType>
+        <fillType fillType="HORSE_GRAY">
+            <history>
+                <period period="1">0</period>
+                <period period="2">0</period>
+                <period period="3">0</period>
+                <period period="4">0</period>
+                <period period="5">0</period>
+                <period period="6">0</period>
+                <period period="7">0</period>
+                <period period="8">0</period>
+                <period period="9">0</period>
+                <period period="10">0</period>
+                <period period="11">0</period>
+                <period period="12">0</period>
+            </history>
+        </fillType>
+        <fillType fillType="HORSE_DUN">
+            <history>
+                <period period="1">0</period>
+                <period period="2">0</period>
+                <period period="3">0</period>
+                <period period="4">0</period>
+                <period period="5">0</period>
+                <period period="6">0</period>
+                <period period="7">0</period>
+                <period period="8">0</period>
+                <period period="9">0</period>
+                <period period="10">0</period>
+                <period period="11">0</period>
+                <period period="12">0</period>
+            </history>
+        </fillType>
+        <fillType fillType="HORSE_CHESTNUT">
+            <history>
+                <period period="1">0</period>
+                <period period="2">0</period>
+                <period period="3">0</period>
+                <period period="4">0</period>
+                <period period="5">0</period>
+                <period period="6">0</period>
+                <period period="7">0</period>
+                <period period="8">0</period>
+                <period period="9">0</period>
+                <period period="10">0</period>
+                <period period="11">0</period>
+                <period period="12">0</period>
+            </history>
+        </fillType>
+        <fillType fillType="COW_SWISS_BROWN">
+            <history>
+                <period period="1">5000000</period>
+                <period period="2">5000000</period>
+                <period period="3">5000000</period>
+                <period period="4">5000000</period>
+                <period period="5">5000000</period>
+                <period period="6">5000000</period>
+                <period period="7">5000000</period>
+                <period period="8">5000000</period>
+                <period period="9">5000000</period>
+                <period period="10">5000000</period>
+                <period period="11">5000000</period>
+                <period period="12">5000000</period>
+            </history>
+        </fillType>
+        <fillType fillType="COW_HOLSTEIN">
+            <history>
+                <period period="1">5000000</period>
+                <period period="2">5000000</period>
+                <period period="3">5000000</period>
+                <period period="4">5000000</period>
+                <period period="5">5000000</period>
+                <period period="6">5000000</period>
+                <period period="7">5000000</period>
+                <period period="8">5000000</period>
+                <period period="9">5000000</period>
+                <period period="10">5000000</period>
+                <period period="11">5000000</period>
+                <period period="12">5000000</period>
+            </history>
+        </fillType>
+        <fillType fillType="COW_LIMOUSIN">
+            <history>
+                <period period="1">5000000</period>
+                <period period="2">5000000</period>
+                <period period="3">5000000</period>
+                <period period="4">5000000</period>
+                <period period="5">5000000</period>
+                <period period="6">5000000</period>
+                <period period="7">5000000</period>
+                <period period="8">5000000</period>
+                <period period="9">5000000</period>
+                <period period="10">5000000</period>
+                <period period="11">5000000</period>
+                <period period="12">5000000</period>
+            </history>
+        </fillType>
+        <fillType fillType="COW_ANGUS">
+            <history>
+                <period period="1">5000000</period>
+                <period period="2">5000000</period>
+                <period period="3">5000000</period>
+                <period period="4">5000000</period>
+                <period period="5">5000000</period>
+                <period period="6">5000000</period>
+                <period period="7">5000000</period>
+                <period period="8">5000000</period>
+                <period period="9">5000000</period>
+                <period period="10">5000000</period>
+                <period period="11">5000000</period>
+                <period period="12">5000000</period>
+            </history>
+        </fillType>
+        <fillType fillType="SHEEP_LANDRACE">
+            <history>
+                <period period="1">4000000</period>
+                <period period="2">4000000</period>
+                <period period="3">4000000</period>
+                <period period="4">4000000</period>
+                <period period="5">4000000</period>
+                <period period="6">4000000</period>
+                <period period="7">4000000</period>
+                <period period="8">4000000</period>
+                <period period="9">4000000</period>
+                <period period="10">4000000</period>
+                <period period="11">4000000</period>
+                <period period="12">4000000</period>
+            </history>
+        </fillType>
+        <fillType fillType="SHEEP_SWISS_MOUNTAIN">
+            <history>
+                <period period="1">4000000</period>
+                <period period="2">4000000</period>
+                <period period="3">4000000</period>
+                <period period="4">4000000</period>
+                <period period="5">4000000</period>
+                <period period="6">4000000</period>
+                <period period="7">4000000</period>
+                <period period="8">4000000</period>
+                <period period="9">4000000</period>
+                <period period="10">4000000</period>
+                <period period="11">4000000</period>
+                <period period="12">4000000</period>
+            </history>
+        </fillType>
+        <fillType fillType="SHEEP_STEINSCHAF">
+            <history>
+                <period period="1">4000000</period>
+                <period period="2">4000000</period>
+                <period period="3">4000000</period>
+                <period period="4">4000000</period>
+                <period period="5">4000000</period>
+                <period period="6">4000000</period>
+                <period period="7">4000000</period>
+                <period period="8">4000000</period>
+                <period period="9">4000000</period>
+                <period period="10">4000000</period>
+                <period period="11">4000000</period>
+                <period period="12">4000000</period>
+            </history>
+        </fillType>
+        <fillType fillType="SHEEP_BLACK_WELSH">
+            <history>
+                <period period="1">4000000</period>
+                <period period="2">4000000</period>
+                <period period="3">4000000</period>
+                <period period="4">4000000</period>
+                <period period="5">4000000</period>
+                <period period="6">4000000</period>
+                <period period="7">4000000</period>
+                <period period="8">4000000</period>
+                <period period="9">4000000</period>
+                <period period="10">4000000</period>
+                <period period="11">4000000</period>
+                <period period="12">4000000</period>
+            </history>
+        </fillType>
+        <fillType fillType="PIG_LANDRACE">
+            <history>
+                <period period="1">3000000</period>
+                <period period="2">3000000</period>
+                <period period="3">3000000</period>
+                <period period="4">3000000</period>
+                <period period="5">3000000</period>
+                <period period="6">3000000</period>
+                <period period="7">3000000</period>
+                <period period="8">3000000</period>
+                <period period="9">3000000</period>
+                <period period="10">3000000</period>
+                <period period="11">3000000</period>
+                <period period="12">3000000</period>
+            </history>
+        </fillType>
+        <fillType fillType="PIG_BLACK_PIED">
+            <history>
+                <period period="1">3000000</period>
+                <period period="2">3000000</period>
+                <period period="3">3000000</period>
+                <period period="4">3000000</period>
+                <period period="5">3000000</period>
+                <period period="6">3000000</period>
+                <period period="7">3000000</period>
+                <period period="8">3000000</period>
+                <period period="9">3000000</period>
+                <period period="10">3000000</period>
+                <period period="11">3000000</period>
+                <period period="12">3000000</period>
+            </history>
+        </fillType>
+        <fillType fillType="PIG_BERKSHIRE">
+            <history>
+                <period period="1">3000000</period>
+                <period period="2">3000000</period>
+                <period period="3">3000000</period>
+                <period period="4">3000000</period>
+                <period period="5">3000000</period>
+                <period period="6">3000000</period>
+                <period period="7">3000000</period>
+                <period period="8">3000000</period>
+                <period period="9">3000000</period>
+                <period period="10">3000000</period>
+                <period period="11">3000000</period>
+                <period period="12">3000000</period>
+            </history>
+        </fillType>
+        <fillType fillType="CHICKEN">
+            <history>
+                <period period="1">0</period>
+                <period period="2">0</period>
+                <period period="3">0</period>
+                <period period="4">0</period>
+                <period period="5">0</period>
+                <period period="6">0</period>
+                <period period="7">0</period>
+                <period period="8">0</period>
+                <period period="9">0</period>
+                <period period="10">0</period>
+                <period period="11">0</period>
+                <period period="12">0</period>
+            </history>
+        </fillType>
+        <fillType fillType="CHICKEN_ROOSTER">
+            <history>
+                <period period="1">0</period>
+                <period period="2">0</period>
+                <period period="3">0</period>
+                <period period="4">0</period>
+                <period period="5">0</period>
+                <period period="6">0</period>
+                <period period="7">0</period>
+                <period period="8">0</period>
+                <period period="9">0</period>
+                <period period="10">0</period>
+                <period period="11">0</period>
+                <period period="12">0</period>
+            </history>
+        </fillType>
+        <fillType fillType="SQUAREBALE_GRASS">
+            <history>
+                <period period="1">1000</period>
+                <period period="2">1000</period>
+                <period period="3">1000</period>
+                <period period="4">1000</period>
+                <period period="5">1000</period>
+                <period period="6">1000</period>
+                <period period="7">1000</period>
+                <period period="8">1000</period>
+                <period period="9">1000</period>
+                <period period="10">1000</period>
+                <period period="11">1000</period>
+                <period period="12">1000</period>
+            </history>
+        </fillType>
+        <fillType fillType="SQUAREBALE_DRYGRASS">
+            <history>
+                <period period="1">1000</period>
+                <period period="2">1000</period>
+                <period period="3">1000</period>
+                <period period="4">1000</period>
+                <period period="5">1000</period>
+                <period period="6">1000</period>
+                <period period="7">1000</period>
+                <period period="8">1000</period>
+                <period period="9">1000</period>
+                <period period="10">1000</period>
+                <period period="11">1000</period>
+                <period period="12">1000</period>
+            </history>
+        </fillType>
+        <fillType fillType="LIQUIDSEEDTREATMENT">
+            <history>
+                <period period="1">664</period>
+                <period period="2">679</period>
+                <period period="3">699</period>
+                <period period="4">699</period>
+                <period period="5">734</period>
+                <period period="6">770</period>
+                <period period="7">804</period>
+                <period period="8">770</period>
+                <period period="9">770</period>
+                <period period="10">734</period>
+                <period period="11">699</period>
+                <period period="12">679</period>
+            </history>
+        </fillType>
+        <fillType fillType="ARMOIRE">
+            <history>
+                <period period="1">2200</period>
+                <period period="2">2200</period>
+                <period period="3">2200</period>
+                <period period="4">2200</period>
+                <period period="5">2200</period>
+                <period period="6">2200</period>
+                <period period="7">2200</period>
+                <period period="8">2200</period>
+                <period period="9">2200</period>
+                <period period="10">2200</period>
+                <period period="11">2200</period>
+                <period period="12">2200</period>
+            </history>
+        </fillType>
+        <fillType fillType="BARREL">
+            <history>
+                <period period="1">1100</period>
+                <period period="2">1100</period>
+                <period period="3">1100</period>
+                <period period="4">1100</period>
+                <period period="5">1100</period>
+                <period period="6">1100</period>
+                <period period="7">1100</period>
+                <period period="8">1100</period>
+                <period period="9">1100</period>
+                <period period="10">1100</period>
+                <period period="11">1100</period>
+                <period period="12">1100</period>
+            </history>
+        </fillType>
+        <fillType fillType="BATHTUB">
+            <history>
+                <period period="1">1950</period>
+                <period period="2">1950</period>
+                <period period="3">1950</period>
+                <period period="4">1950</period>
+                <period period="5">1950</period>
+                <period period="6">1950</period>
+                <period period="7">1950</period>
+                <period period="8">1950</period>
+                <period period="9">1950</period>
+                <period period="10">1950</period>
+                <period period="11">1950</period>
+                <period period="12">1950</period>
+            </history>
+        </fillType>
+        <fillType fillType="BIRDHOUSE">
+            <history>
+                <period period="1">1519</period>
+                <period period="2">1519</period>
+                <period period="3">1519</period>
+                <period period="4">1519</period>
+                <period period="5">1519</period>
+                <period period="6">1519</period>
+                <period period="7">1519</period>
+                <period period="8">1519</period>
+                <period period="9">1519</period>
+                <period period="10">1519</period>
+                <period period="11">1519</period>
+                <period period="12">1519</period>
+            </history>
+        </fillType>
+        <fillType fillType="BOWL">
+            <history>
+                <period period="1">1649</period>
+                <period period="2">1649</period>
+                <period period="3">1649</period>
+                <period period="4">1649</period>
+                <period period="5">1649</period>
+                <period period="6">1649</period>
+                <period period="7">1649</period>
+                <period period="8">1649</period>
+                <period period="9">1649</period>
+                <period period="10">1649</period>
+                <period period="11">1649</period>
+                <period period="12">1649</period>
+            </history>
+        </fillType>
+        <fillType fillType="BUCKET">
+            <history>
+                <period period="1">1289</period>
+                <period period="2">1289</period>
+                <period period="3">1289</period>
+                <period period="4">1289</period>
+                <period period="5">1289</period>
+                <period period="6">1289</period>
+                <period period="7">1289</period>
+                <period period="8">1289</period>
+                <period period="9">1289</period>
+                <period period="10">1289</period>
+                <period period="11">1289</period>
+                <period period="12">1289</period>
+            </history>
+        </fillType>
+        <fillType fillType="CARTONROLL">
+            <history>
+                <period period="1">2900</period>
+                <period period="2">2900</period>
+                <period period="3">2900</period>
+                <period period="4">2900</period>
+                <period period="5">2900</period>
+                <period period="6">2900</period>
+                <period period="7">2900</period>
+                <period period="8">2900</period>
+                <period period="9">2900</period>
+                <period period="10">2900</period>
+                <period period="11">2900</period>
+                <period period="12">2900</period>
+            </history>
+        </fillType>
+        <fillType fillType="CATTREE">
+            <history>
+                <period period="1">3220</period>
+                <period period="2">3220</period>
+                <period period="3">3220</period>
+                <period period="4">3220</period>
+                <period period="5">3220</period>
+                <period period="6">3220</period>
+                <period period="7">3220</period>
+                <period period="8">3220</period>
+                <period period="9">3220</period>
+                <period period="10">3220</period>
+                <period period="11">3220</period>
+                <period period="12">3220</period>
+            </history>
+        </fillType>
+        <fillType fillType="CHAIR">
+            <history>
+                <period period="1">1549</period>
+                <period period="2">1549</period>
+                <period period="3">1549</period>
+                <period period="4">1549</period>
+                <period period="5">1549</period>
+                <period period="6">1549</period>
+                <period period="7">1549</period>
+                <period period="8">1549</period>
+                <period period="9">1549</period>
+                <period period="10">1549</period>
+                <period period="11">1549</period>
+                <period period="12">1549</period>
+            </history>
+        </fillType>
+        <fillType fillType="DOGHOUSE">
+            <history>
+                <period period="1">2450</period>
+                <period period="2">2450</period>
+                <period period="3">2450</period>
+                <period period="4">2450</period>
+                <period period="5">2450</period>
+                <period period="6">2450</period>
+                <period period="7">2450</period>
+                <period period="8">2450</period>
+                <period period="9">2450</period>
+                <period period="10">2450</period>
+                <period period="11">2450</period>
+                <period period="12">2450</period>
+            </history>
+        </fillType>
+        <fillType fillType="EASEL">
+            <history>
+                <period period="1">990</period>
+                <period period="2">990</period>
+                <period period="3">990</period>
+                <period period="4">990</period>
+                <period period="5">990</period>
+                <period period="6">990</period>
+                <period period="7">990</period>
+                <period period="8">990</period>
+                <period period="9">990</period>
+                <period period="10">990</period>
+                <period period="11">990</period>
+                <period period="12">990</period>
+            </history>
+        </fillType>
+        <fillType fillType="FLOORTILES">
+            <history>
+                <period period="1">1899</period>
+                <period period="2">1899</period>
+                <period period="3">1899</period>
+                <period period="4">1899</period>
+                <period period="5">1899</period>
+                <period period="6">1899</period>
+                <period period="7">1899</period>
+                <period period="8">1899</period>
+                <period period="9">1899</period>
+                <period period="10">1899</period>
+                <period period="11">1899</period>
+                <period period="12">1899</period>
+            </history>
+        </fillType>
+        <fillType fillType="METAL">
+            <history>
+                <period period="1">3000</period>
+                <period period="2">3000</period>
+                <period period="3">3000</period>
+                <period period="4">3000</period>
+                <period period="5">3000</period>
+                <period period="6">3000</period>
+                <period period="7">3000</period>
+                <period period="8">3000</period>
+                <period period="9">3000</period>
+                <period period="10">3000</period>
+                <period period="11">3000</period>
+                <period period="12">3000</period>
+            </history>
+        </fillType>
+        <fillType fillType="PAPERROLL">
+            <history>
+                <period period="1">3200</period>
+                <period period="2">3200</period>
+                <period period="3">3200</period>
+                <period period="4">3200</period>
+                <period period="5">3200</period>
+                <period period="6">3200</period>
+                <period period="7">3200</period>
+                <period period="8">3200</period>
+                <period period="9">3200</period>
+                <period period="10">3200</period>
+                <period period="11">3200</period>
+                <period period="12">3200</period>
+            </history>
+        </fillType>
+        <fillType fillType="PEPPERGRINDER">
+            <history>
+                <period period="1">1149</period>
+                <period period="2">1149</period>
+                <period period="3">1149</period>
+                <period period="4">1149</period>
+                <period period="5">1149</period>
+                <period period="6">1149</period>
+                <period period="7">1149</period>
+                <period period="8">1149</period>
+                <period period="9">1149</period>
+                <period period="10">1149</period>
+                <period period="11">1149</period>
+                <period period="12">1149</period>
+            </history>
+        </fillType>
+        <fillType fillType="PICTUREFRAME">
+            <history>
+                <period period="1">1154</period>
+                <period period="2">1154</period>
+                <period period="3">1154</period>
+                <period period="4">1154</period>
+                <period period="5">1154</period>
+                <period period="6">1154</period>
+                <period period="7">1154</period>
+                <period period="8">1154</period>
+                <period period="9">1154</period>
+                <period period="10">1154</period>
+                <period period="11">1154</period>
+                <period period="12">1154</period>
+            </history>
+        </fillType>
+        <fillType fillType="PLANKS">
+            <history>
+                <period period="1">1940</period>
+                <period period="2">1940</period>
+                <period period="3">1940</period>
+                <period period="4">1940</period>
+                <period period="5">1940</period>
+                <period period="6">1940</period>
+                <period period="7">1940</period>
+                <period period="8">1940</period>
+                <period period="9">1940</period>
+                <period period="10">1940</period>
+                <period period="11">1940</period>
+                <period period="12">1940</period>
+            </history>
+        </fillType>
+        <fillType fillType="PREFABWALL">
+            <history>
+                <period period="1">4949</period>
+                <period period="2">4949</period>
+                <period period="3">4949</period>
+                <period period="4">4949</period>
+                <period period="5">4949</period>
+                <period period="6">4949</period>
+                <period period="7">4949</period>
+                <period period="8">4949</period>
+                <period period="9">4949</period>
+                <period period="10">4949</period>
+                <period period="11">4949</period>
+                <period period="12">4949</period>
+            </history>
+        </fillType>
+        <fillType fillType="SHINGLE">
+            <history>
+                <period period="1">1299</period>
+                <period period="2">1299</period>
+                <period period="3">1299</period>
+                <period period="4">1299</period>
+                <period period="5">1299</period>
+                <period period="6">1299</period>
+                <period period="7">1299</period>
+                <period period="8">1299</period>
+                <period period="9">1299</period>
+                <period period="10">1299</period>
+                <period period="11">1299</period>
+                <period period="12">1299</period>
+            </history>
+        </fillType>
+        <fillType fillType="STAIRCASERAILING">
+            <history>
+                <period period="1">1100</period>
+                <period period="2">1100</period>
+                <period period="3">1100</period>
+                <period period="4">1100</period>
+                <period period="5">1100</period>
+                <period period="6">1100</period>
+                <period period="7">1100</period>
+                <period period="8">1100</period>
+                <period period="9">1100</period>
+                <period period="10">1100</period>
+                <period period="11">1100</period>
+                <period period="12">1100</period>
+            </history>
+        </fillType>
+        <fillType fillType="TABLE">
+            <history>
+                <period period="1">2450</period>
+                <period period="2">2450</period>
+                <period period="3">2450</period>
+                <period period="4">2450</period>
+                <period period="5">2450</period>
+                <period period="6">2450</period>
+                <period period="7">2450</period>
+                <period period="8">2450</period>
+                <period period="9">2450</period>
+                <period period="10">2450</period>
+                <period period="11">2450</period>
+                <period period="12">2450</period>
+            </history>
+        </fillType>
+        <fillType fillType="WOODBEAM">
+            <history>
+                <period period="1">2911</period>
+                <period period="2">2911</period>
+                <period period="3">2911</period>
+                <period period="4">2911</period>
+                <period period="5">2911</period>
+                <period period="6">2911</period>
+                <period period="7">2911</period>
+                <period period="8">2911</period>
+                <period period="9">2911</period>
+                <period period="10">2911</period>
+                <period period="11">2911</period>
+                <period period="12">2911</period>
+            </history>
+        </fillType>
+        <fillType fillType="IRONORE">
+            <history>
+                <period period="1">1000</period>
+                <period period="2">1000</period>
+                <period period="3">1000</period>
+                <period period="4">1000</period>
+                <period period="5">1000</period>
+                <period period="6">1000</period>
+                <period period="7">1000</period>
+                <period period="8">1000</period>
+                <period period="9">1000</period>
+                <period period="10">1000</period>
+                <period period="11">1000</period>
+                <period period="12">1000</period>
+            </history>
+        </fillType>
+        <fillType fillType="POTATOCHIPS">
+            <history>
+                <period period="1">1500</period>
+                <period period="2">1500</period>
+                <period period="3">1500</period>
+                <period period="4">1500</period>
+                <period period="5">1500</period>
+                <period period="6">1500</period>
+                <period period="7">1500</period>
+                <period period="8">1500</period>
+                <period period="9">1500</period>
+                <period period="10">1500</period>
+                <period period="11">1500</period>
+                <period period="12">1500</period>
+            </history>
+        </fillType>
+        <fillType fillType="PRESERVEDCARROTS">
+            <history>
+                <period period="1">800</period>
+                <period period="2">800</period>
+                <period period="3">800</period>
+                <period period="4">800</period>
+                <period period="5">800</period>
+                <period period="6">800</period>
+                <period period="7">800</period>
+                <period period="8">800</period>
+                <period period="9">800</period>
+                <period period="10">800</period>
+                <period period="11">800</period>
+                <period period="12">800</period>
+            </history>
+        </fillType>
+        <fillType fillType="PRESERVEDPARSNIP">
+            <history>
+                <period period="1">779</period>
+                <period period="2">779</period>
+                <period period="3">779</period>
+                <period period="4">779</period>
+                <period period="5">779</period>
+                <period period="6">779</period>
+                <period period="7">779</period>
+                <period period="8">779</period>
+                <period period="9">779</period>
+                <period period="10">779</period>
+                <period period="11">779</period>
+                <period period="12">779</period>
+            </history>
+        </fillType>
+        <fillType fillType="PRESERVEDBEETROOT">
+            <history>
+                <period period="1">779</period>
+                <period period="2">779</period>
+                <period period="3">779</period>
+                <period period="4">779</period>
+                <period period="5">779</period>
+                <period period="6">779</period>
+                <period period="7">779</period>
+                <period period="8">779</period>
+                <period period="9">779</period>
+                <period period="10">779</period>
+                <period period="11">779</period>
+                <period period="12">779</period>
+            </history>
+        </fillType>
+        <fillType fillType="SOUPCANSMIXED">
+            <history>
+                <period period="1">1200</period>
+                <period period="2">1200</period>
+                <period period="3">1200</period>
+                <period period="4">1200</period>
+                <period period="5">1200</period>
+                <period period="6">1200</period>
+                <period period="7">1200</period>
+                <period period="8">1200</period>
+                <period period="9">1200</period>
+                <period period="10">1200</period>
+                <period period="11">1200</period>
+                <period period="12">1200</period>
+            </history>
+        </fillType>
+        <fillType fillType="SOUPCANSCARROTS">
+            <history>
+                <period period="1">1049</period>
+                <period period="2">1049</period>
+                <period period="3">1049</period>
+                <period period="4">1049</period>
+                <period period="5">1049</period>
+                <period period="6">1049</period>
+                <period period="7">1049</period>
+                <period period="8">1049</period>
+                <period period="9">1049</period>
+                <period period="10">1049</period>
+                <period period="11">1049</period>
+                <period period="12">1049</period>
+            </history>
+        </fillType>
+        <fillType fillType="SOUPCANSPARSNIP">
+            <history>
+                <period period="1">1049</period>
+                <period period="2">1049</period>
+                <period period="3">1049</period>
+                <period period="4">1049</period>
+                <period period="5">1049</period>
+                <period period="6">1049</period>
+                <period period="7">1049</period>
+                <period period="8">1049</period>
+                <period period="9">1049</period>
+                <period period="10">1049</period>
+                <period period="11">1049</period>
+                <period period="12">1049</period>
+            </history>
+        </fillType>
+        <fillType fillType="SOUPCANSBEETROOT">
+            <history>
+                <period period="1">1000</period>
+                <period period="2">1000</period>
+                <period period="3">1000</period>
+                <period period="4">1000</period>
+                <period period="5">1000</period>
+                <period period="6">1000</period>
+                <period period="7">1000</period>
+                <period period="8">1000</period>
+                <period period="9">1000</period>
+                <period period="10">1000</period>
+                <period period="11">1000</period>
+                <period period="12">1000</period>
+            </history>
+        </fillType>
+        <fillType fillType="SOUPCANSPOTATO">
+            <history>
+                <period period="1">1149</period>
+                <period period="2">1149</period>
+                <period period="3">1149</period>
+                <period period="4">1149</period>
+                <period period="5">1149</period>
+                <period period="6">1149</period>
+                <period period="7">1149</period>
+                <period period="8">1149</period>
+                <period period="9">1149</period>
+                <period period="10">1149</period>
+                <period period="11">1149</period>
+                <period period="12">1149</period>
+            </history>
+        </fillType>
+        <fillType fillType="SEPARATED_MANURE">
+            <history>
+                <period period="1">31</period>
+                <period period="2">30</period>
+                <period period="3">29</period>
+                <period period="4">27</period>
+                <period period="5">26</period>
+                <period period="6">26</period>
+                <period period="7">27</period>
+                <period period="8">29</period>
+                <period period="9">31</period>
+                <period period="10">32</period>
+                <period period="11">33</period>
+                <period period="12">33</period>
+            </history>
+        </fillType>
+        <fillType fillType="UMBILICAL_HOSE">
+            <history>
+                <period period="1">0</period>
+                <period period="2">0</period>
+                <period period="3">0</period>
+                <period period="4">0</period>
+                <period period="5">0</period>
+                <period period="6">0</period>
+                <period period="7">0</period>
+                <period period="8">0</period>
+                <period period="9">0</period>
+                <period period="10">0</period>
+                <period period="11">0</period>
+                <period period="12">0</period>
+            </history>
+        </fillType>
+        <fillType fillType="SAND">
+            <history>
+                <period period="1">200</period>
+                <period period="2">200</period>
+                <period period="3">200</period>
+                <period period="4">200</period>
+                <period period="5">200</period>
+                <period period="6">200</period>
+                <period period="7">200</period>
+                <period period="8">200</period>
+                <period period="9">200</period>
+                <period period="10">200</period>
+                <period period="11">200</period>
+                <period period="12">200</period>
+            </history>
+        </fillType>
+        <fillType fillType="LINUM">
+            <history>
+                <period period="1">479</period>
+                <period period="2">513</period>
+                <period period="3">475</period>
+                <period period="4">451</period>
+                <period period="5">408</period>
+                <period period="6">388</period>
+                <period period="7">412</period>
+                <period period="8">475</period>
+                <period period="9">518</period>
+                <period period="10">542</period>
+                <period period="11">580</period>
+                <period period="12">518</period>
+            </history>
+        </fillType>
+        <fillType fillType="BUCKWHEAT">
+            <history>
+                <period period="1">631</period>
+                <period period="2">584</period>
+                <period period="3">554</period>
+                <period period="4">501</period>
+                <period period="5">477</period>
+                <period period="6">507</period>
+                <period period="7">584</period>
+                <period period="8">637</period>
+                <period period="9">666</period>
+                <period period="10">713</period>
+                <period period="11">637</period>
+                <period period="12">589</period>
+            </history>
+        </fillType>
+        <fillType fillType="PEAS">
+            <history>
+                <period period="1">618</period>
+                <period period="2">572</period>
+                <period period="3">543</period>
+                <period period="4">491</period>
+                <period period="5">468</period>
+                <period period="6">497</period>
+                <period period="7">572</period>
+                <period period="8">624</period>
+                <period period="9">653</period>
+                <period period="10">699</period>
+                <period period="11">624</period>
+                <period period="12">578</period>
+            </history>
+        </fillType>
+        <fillType fillType="WHEAT_REF">
+            <history>
+                <period period="1">437</period>
+                <period period="2">437</period>
+                <period period="3">437</period>
+                <period period="4">437</period>
+                <period period="5">437</period>
+                <period period="6">437</period>
+                <period period="7">437</period>
+                <period period="8">437</period>
+                <period period="9">437</period>
+                <period period="10">437</period>
+                <period period="11">437</period>
+                <period period="12">437</period>
+            </history>
+        </fillType>
+        <fillType fillType="BARLEY_REF">
+            <history>
+                <period period="1">412</period>
+                <period period="2">412</period>
+                <period period="3">412</period>
+                <period period="4">412</period>
+                <period period="5">412</period>
+                <period period="6">412</period>
+                <period period="7">412</period>
+                <period period="8">412</period>
+                <period period="9">412</period>
+                <period period="10">412</period>
+                <period period="11">412</period>
+                <period period="12">412</period>
+            </history>
+        </fillType>
+        <fillType fillType="RYE_REF">
+            <history>
+                <period period="1">397</period>
+                <period period="2">397</period>
+                <period period="3">397</period>
+                <period period="4">397</period>
+                <period period="5">397</period>
+                <period period="6">397</period>
+                <period period="7">397</period>
+                <period period="8">397</period>
+                <period period="9">397</period>
+                <period period="10">397</period>
+                <period period="11">397</period>
+                <period period="12">397</period>
+            </history>
+        </fillType>
+        <fillType fillType="OAT_REF">
+            <history>
+                <period period="1">632</period>
+                <period period="2">632</period>
+                <period period="3">632</period>
+                <period period="4">632</period>
+                <period period="5">632</period>
+                <period period="6">632</period>
+                <period period="7">632</period>
+                <period period="8">632</period>
+                <period period="9">632</period>
+                <period period="10">632</period>
+                <period period="11">632</period>
+                <period period="12">632</period>
+            </history>
+        </fillType>
+        <fillType fillType="CANOLA_REF">
+            <history>
+                <period period="1">703</period>
+                <period period="2">703</period>
+                <period period="3">703</period>
+                <period period="4">703</period>
+                <period period="5">703</period>
+                <period period="6">703</period>
+                <period period="7">703</period>
+                <period period="8">703</period>
+                <period period="9">703</period>
+                <period period="10">703</period>
+                <period period="11">703</period>
+                <period period="12">703</period>
+            </history>
+        </fillType>
+        <fillType fillType="SUNFLOWER_REF">
+            <history>
+                <period period="1">773</period>
+                <period period="2">773</period>
+                <period period="3">773</period>
+                <period period="4">773</period>
+                <period period="5">773</period>
+                <period period="6">773</period>
+                <period period="7">773</period>
+                <period period="8">773</period>
+                <period period="9">773</period>
+                <period period="10">773</period>
+                <period period="11">773</period>
+                <period period="12">773</period>
+            </history>
+        </fillType>
+        <fillType fillType="SOYBEAN_REF">
+            <history>
+                <period period="1">878</period>
+                <period period="2">878</period>
+                <period period="3">878</period>
+                <period period="4">878</period>
+                <period period="5">878</period>
+                <period period="6">878</period>
+                <period period="7">878</period>
+                <period period="8">878</period>
+                <period period="9">878</period>
+                <period period="10">878</period>
+                <period period="11">878</period>
+                <period period="12">878</period>
+            </history>
+        </fillType>
+        <fillType fillType="MAIZE_REF">
+            <history>
+                <period period="1">479</period>
+                <period period="2">479</period>
+                <period period="3">479</period>
+                <period period="4">479</period>
+                <period period="5">479</period>
+                <period period="6">479</period>
+                <period period="7">479</period>
+                <period period="8">479</period>
+                <period period="9">479</period>
+                <period period="10">479</period>
+                <period period="11">479</period>
+                <period period="12">479</period>
+            </history>
+        </fillType>
+        <fillType fillType="LINUM_REF">
+            <history>
+                <period period="1">579</period>
+                <period period="2">579</period>
+                <period period="3">579</period>
+                <period period="4">579</period>
+                <period period="5">579</period>
+                <period period="6">579</period>
+                <period period="7">579</period>
+                <period period="8">579</period>
+                <period period="9">579</period>
+                <period period="10">579</period>
+                <period period="11">579</period>
+                <period period="12">579</period>
+            </history>
+        </fillType>
+        <fillType fillType="BUCKWHEAT_REF">
+            <history>
+                <period period="1">680</period>
+                <period period="2">680</period>
+                <period period="3">680</period>
+                <period period="4">680</period>
+                <period period="5">680</period>
+                <period period="6">680</period>
+                <period period="7">680</period>
+                <period period="8">680</period>
+                <period period="9">680</period>
+                <period period="10">680</period>
+                <period period="11">680</period>
+                <period period="12">680</period>
+            </history>
+        </fillType>
+        <fillType fillType="PEAS_REF">
+            <history>
+                <period period="1">680</period>
+                <period period="2">680</period>
+                <period period="3">680</period>
+                <period period="4">680</period>
+                <period period="5">680</period>
+                <period period="6">680</period>
+                <period period="7">680</period>
+                <period period="8">680</period>
+                <period period="9">680</period>
+                <period period="10">680</period>
+                <period period="11">680</period>
+                <period period="12">680</period>
+            </history>
+        </fillType>
+        <fillType fillType="GRAINWASTE">
+            <history>
+                <period period="1">23</period>
+                <period period="2">23</period>
+                <period period="3">23</period>
+                <period period="4">23</period>
+                <period period="5">23</period>
+                <period period="6">23</period>
+                <period period="7">23</period>
+                <period period="8">23</period>
+                <period period="9">23</period>
+                <period period="10">23</period>
+                <period period="11">23</period>
+                <period period="12">23</period>
+            </history>
+        </fillType>
+        <fillType fillType="STRAWLINUM_WINDROW">
+            <history>
+                <period period="1">30</period>
+                <period period="2">33</period>
+                <period period="3">30</period>
+                <period period="4">29</period>
+                <period period="5">26</period>
+                <period period="6">25</period>
+                <period period="7">26</period>
+                <period period="8">30</period>
+                <period period="9">33</period>
+                <period period="10">35</period>
+                <period period="11">37</period>
+                <period period="12">33</period>
+            </history>
+        </fillType>
+        <fillType fillType="STRAWLINUM">
+            <history>
+                <period period="1">239</period>
+                <period period="2">256</period>
+                <period period="3">237</period>
+                <period period="4">225</period>
+                <period period="5">204</period>
+                <period period="6">194</period>
+                <period period="7">206</period>
+                <period period="8">237</period>
+                <period period="9">259</period>
+                <period period="10">271</period>
+                <period period="11">290</period>
+                <period period="12">259</period>
+            </history>
+        </fillType>
+        <fillType fillType="WHEAT_FLOUR">
+            <history>
+                <period period="1">569</period>
+                <period period="2">609</period>
+                <period period="3">564</period>
+                <period period="4">535</period>
+                <period period="5">484</period>
+                <period period="6">461</period>
+                <period period="7">490</period>
+                <period period="8">564</period>
+                <period period="9">615</period>
+                <period period="10">644</period>
+                <period period="11">689</period>
+                <period period="12">615</period>
+            </history>
+        </fillType>
+        <fillType fillType="BARLEY_FLOUR">
+            <history>
+                <period period="1">540</period>
+                <period period="2">577</period>
+                <period period="3">534</period>
+                <period period="4">507</period>
+                <period period="5">459</period>
+                <period period="6">437</period>
+                <period period="7">464</period>
+                <period period="8">534</period>
+                <period period="9">583</period>
+                <period period="10">610</period>
+                <period period="11">653</period>
+                <period period="12">583</period>
+            </history>
+        </fillType>
+        <fillType fillType="RYE_FLOUR">
+            <history>
+                <period period="1">524</period>
+                <period period="2">561</period>
+                <period period="3">519</period>
+                <period period="4">493</period>
+                <period period="5">446</period>
+                <period period="6">425</period>
+                <period period="7">451</period>
+                <period period="8">519</period>
+                <period period="9">566</period>
+                <period period="10">593</period>
+                <period period="11">635</period>
+                <period period="12">566</period>
+            </history>
+        </fillType>
+        <fillType fillType="OAT_FLOUR">
+            <history>
+                <period period="1">832</period>
+                <period period="2">890</period>
+                <period period="3">823</period>
+                <period period="4">782</period>
+                <period period="5">707</period>
+                <period period="6">673</period>
+                <period period="7">715</period>
+                <period period="8">823</period>
+                <period period="9">898</period>
+                <period period="10">940</period>
+                <period period="11">1006</period>
+                <period period="12">898</period>
+            </history>
+        </fillType>
+        <fillType fillType="SOYBEAN_FLOUR">
+            <history>
+                <period period="1">1070</period>
+                <period period="2">1144</period>
+                <period period="3">1059</period>
+                <period period="4">1005</period>
+                <period period="5">909</period>
+                <period period="6">866</period>
+                <period period="7">920</period>
+                <period period="8">1059</period>
+                <period period="9">1155</period>
+                <period period="10">1209</period>
+                <period period="11">1294</period>
+                <period period="12">1155</period>
+            </history>
+        </fillType>
+        <fillType fillType="MAIZE_FLOUR">
+            <history>
+                <period period="1">620</period>
+                <period period="2">663</period>
+                <period period="3">613</period>
+                <period period="4">582</period>
+                <period period="5">527</period>
+                <period period="6">502</period>
+                <period period="7">533</period>
+                <period period="8">613</period>
+                <period period="9">669</period>
+                <period period="10">700</period>
+                <period period="11">750</period>
+                <period period="12">669</period>
+            </history>
+        </fillType>
+        <fillType fillType="BRAN">
+            <history>
+                <period period="1">312</period>
+                <period period="2">312</period>
+                <period period="3">312</period>
+                <period period="4">312</period>
+                <period period="5">312</period>
+                <period period="6">312</period>
+                <period period="7">312</period>
+                <period period="8">312</period>
+                <period period="9">312</period>
+                <period period="10">312</period>
+                <period period="11">312</period>
+                <period period="12">312</period>
+            </history>
+        </fillType>
+        <fillType fillType="LINUM_OIL">
+            <history>
+                <period period="1">2369</period>
+                <period period="2">2535</period>
+                <period period="3">2346</period>
+                <period period="4">2227</period>
+                <period period="5">2014</period>
+                <period period="6">1919</period>
+                <period period="7">2038</period>
+                <period period="8">2346</period>
+                <period period="9">2559</period>
+                <period period="10">2678</period>
+                <period period="11">2867</period>
+                <period period="12">2559</period>
+            </history>
+        </fillType>
+        <fillType fillType="OILCAKE">
+            <history>
+                <period period="1">35</period>
+                <period period="2">35</period>
+                <period period="3">35</period>
+                <period period="4">35</period>
+                <period period="5">35</period>
+                <period period="6">35</period>
+                <period period="7">35</period>
+                <period period="8">35</period>
+                <period period="9">35</period>
+                <period period="10">35</period>
+                <period period="11">35</period>
+                <period period="12">35</period>
+            </history>
+        </fillType>
+        <fillType fillType="ARNOVKA">
+            <history>
+                <period period="1">537</period>
+                <period period="2">574</period>
+                <period period="3">531</period>
+                <period period="4">504</period>
+                <period period="5">456</period>
+                <period period="6">434</period>
+                <period period="7">461</period>
+                <period period="8">531</period>
+                <period period="9">579</period>
+                <period period="10">606</period>
+                <period period="11">649</period>
+                <period period="12">579</period>
+            </history>
+        </fillType>
+        <fillType fillType="BULGUR">
+            <history>
+                <period period="1">513</period>
+                <period period="2">548</period>
+                <period period="3">507</period>
+                <period period="4">482</period>
+                <period period="5">436</period>
+                <period period="6">415</period>
+                <period period="7">441</period>
+                <period period="8">507</period>
+                <period period="9">554</period>
+                <period period="10">579</period>
+                <period period="11">620</period>
+                <period period="12">554</period>
+            </history>
+        </fillType>
+        <fillType fillType="COUSCOUS">
+            <history>
+                <period period="1">519</period>
+                <period period="2">556</period>
+                <period period="3">514</period>
+                <period period="4">488</period>
+                <period period="5">441</period>
+                <period period="6">421</period>
+                <period period="7">447</period>
+                <period period="8">514</period>
+                <period period="9">561</period>
+                <period period="10">587</period>
+                <period period="11">629</period>
+                <period period="12">561</period>
+            </history>
+        </fillType>
+        <fillType fillType="SEMOLINA">
+            <history>
+                <period period="1">519</period>
+                <period period="2">556</period>
+                <period period="3">514</period>
+                <period period="4">488</period>
+                <period period="5">441</period>
+                <period period="6">421</period>
+                <period period="7">447</period>
+                <period period="8">514</period>
+                <period period="9">561</period>
+                <period period="10">587</period>
+                <period period="11">629</period>
+                <period period="12">561</period>
+            </history>
+        </fillType>
+        <fillType fillType="BARLEY_GROATS">
+            <history>
+                <period period="1">569</period>
+                <period period="2">609</period>
+                <period period="3">564</period>
+                <period period="4">535</period>
+                <period period="5">484</period>
+                <period period="6">461</period>
+                <period period="7">490</period>
+                <period period="8">564</period>
+                <period period="9">615</period>
+                <period period="10">644</period>
+                <period period="11">689</period>
+                <period period="12">615</period>
+            </history>
+        </fillType>
+        <fillType fillType="PERLOVKA">
+            <history>
+                <period period="1">523</period>
+                <period period="2">559</period>
+                <period period="3">517</period>
+                <period period="4">491</period>
+                <period period="5">444</period>
+                <period period="6">423</period>
+                <period period="7">449</period>
+                <period period="8">517</period>
+                <period period="9">564</period>
+                <period period="10">590</period>
+                <period period="11">632</period>
+                <period period="12">564</period>
+            </history>
+        </fillType>
+        <fillType fillType="OATMEAL">
+            <history>
+                <period period="1">731</period>
+                <period period="2">783</period>
+                <period period="3">724</period>
+                <period period="4">688</period>
+                <period period="5">622</period>
+                <period period="6">592</period>
+                <period period="7">629</period>
+                <period period="8">724</period>
+                <period period="9">790</period>
+                <period period="10">827</period>
+                <period period="11">885</period>
+                <period period="12">790</period>
+            </history>
+        </fillType>
+        <fillType fillType="PEA_GROATS">
+            <history>
+                <period period="1">790</period>
+                <period period="2">845</period>
+                <period period="3">782</period>
+                <period period="4">742</period>
+                <period period="5">671</period>
+                <period period="6">639</period>
+                <period period="7">679</period>
+                <period period="8">782</period>
+                <period period="9">853</period>
+                <period period="10">892</period>
+                <period period="11">955</period>
+                <period period="12">853</period>
+            </history>
+        </fillType>
+        <fillType fillType="BUCKWHEAT_GROATS">
+            <history>
+                <period period="1">899</period>
+                <period period="2">963</period>
+                <period period="3">890</period>
+                <period period="4">845</period>
+                <period period="5">765</period>
+                <period period="6">728</period>
+                <period period="7">773</period>
+                <period period="8">890</period>
+                <period period="9">972</period>
+                <period period="10">1016</period>
+                <period period="11">1089</period>
+                <period period="12">972</period>
+            </history>
+        </fillType>
+        <fillType fillType="KEFIR">
+            <history>
+                <period period="1">2543</period>
+                <period period="2">2424</period>
+                <period period="3">2304</period>
+                <period period="4">2160</period>
+                <period period="5">2280</period>
+                <period period="6">2280</period>
+                <period period="7">2472</period>
+                <period period="8">2616</period>
+                <period period="9">2352</period>
+                <period period="10">2304</period>
+                <period period="11">2592</period>
+                <period period="12">2568</period>
+            </history>
+        </fillType>
+        <fillType fillType="YOGURT">
+            <history>
+                <period period="1">2755</period>
+                <period period="2">2625</period>
+                <period period="3">2495</period>
+                <period period="4">2339</period>
+                <period period="5">2469</period>
+                <period period="6">2469</period>
+                <period period="7">2677</period>
+                <period period="8">2833</period>
+                <period period="9">2547</period>
+                <period period="10">2495</period>
+                <period period="11">2808</period>
+                <period period="12">2782</period>
+            </history>
+        </fillType>
+        <fillType fillType="MILK_PAK">
+            <history>
+                <period period="1">3073</period>
+                <period period="2">2929</period>
+                <period period="3">2784</period>
+                <period period="4">2610</period>
+                <period period="5">2755</period>
+                <period period="6">2755</period>
+                <period period="7">2987</period>
+                <period period="8">3161</period>
+                <period period="9">2842</period>
+                <period period="10">2784</period>
+                <period period="11">3132</period>
+                <period period="12">3103</period>
+            </history>
+        </fillType>
+        <fillType fillType="MALEK">
+            <history>
+                <period period="1">423</period>
+                <period period="2">404</period>
+                <period period="3">383</period>
+                <period period="4">359</period>
+                <period period="5">380</period>
+                <period period="6">380</period>
+                <period period="7">411</period>
+                <period period="8">436</period>
+                <period period="9">392</period>
+                <period period="10">383</period>
+                <period period="11">432</period>
+                <period period="12">428</period>
+            </history>
+        </fillType>
+        <fillType fillType="FISH">
+            <history>
+                <period period="1">1589</period>
+                <period period="2">1514</period>
+                <period period="3">1439</period>
+                <period period="4">1349</period>
+                <period period="5">1424</period>
+                <period period="6">1424</period>
+                <period period="7">1544</period>
+                <period period="8">1635</period>
+                <period period="9">1470</period>
+                <period period="10">1439</period>
+                <period period="11">1620</period>
+                <period period="12">1605</period>
+            </history>
+        </fillType>
+        <fillType fillType="MIXED_FEED_FISH">
+            <history>
+                <period period="1">850</period>
+                <period period="2">850</period>
+                <period period="3">850</period>
+                <period period="4">850</period>
+                <period period="5">850</period>
+                <period period="6">850</period>
+                <period period="7">850</period>
+                <period period="8">850</period>
+                <period period="9">850</period>
+                <period period="10">850</period>
+                <period period="11">850</period>
+                <period period="12">850</period>
+            </history>
+        </fillType>
+        <fillType fillType="STARCH">
+            <history>
+                <period period="1">845</period>
+                <period period="2">863</period>
+                <period period="3">908</period>
+                <period period="4">908</period>
+                <period period="5">944</period>
+                <period period="6">935</period>
+                <period period="7">944</period>
+                <period period="8">935</period>
+                <period period="9">917</period>
+                <period period="10">908</period>
+                <period period="11">873</period>
+                <period period="12">845</period>
+            </history>
+        </fillType>
+        <fillType fillType="MEZGA">
+            <history>
+                <period period="1">23</period>
+                <period period="2">23</period>
+                <period period="3">23</period>
+                <period period="4">23</period>
+                <period period="5">23</period>
+                <period period="6">23</period>
+                <period period="7">23</period>
+                <period period="8">23</period>
+                <period period="9">23</period>
+                <period period="10">23</period>
+                <period period="11">23</period>
+                <period period="12">23</period>
+            </history>
+        </fillType>
+        <fillType fillType="PULP">
+            <history>
+                <period period="1">13</period>
+                <period period="2">13</period>
+                <period period="3">13</period>
+                <period period="4">13</period>
+                <period period="5">13</period>
+                <period period="6">13</period>
+                <period period="7">13</period>
+                <period period="8">13</period>
+                <period period="9">13</period>
+                <period period="10">13</period>
+                <period period="11">13</period>
+                <period period="12">13</period>
+            </history>
+        </fillType>
+        <fillType fillType="REDCURRANT">
+            <history>
+                <period period="1">577</period>
+                <period period="2">571</period>
+                <period period="3">550</period>
+                <period period="4">544</period>
+                <period period="5">517</period>
+                <period period="6">544</period>
+                <period period="7">506</period>
+                <period period="8">494</period>
+                <period period="9">539</period>
+                <period period="10">555</period>
+                <period period="11">594</period>
+                <period period="12">621</period>
+            </history>
+        </fillType>
+        <fillType fillType="RASPBERRIES">
+            <history>
+                <period period="1">577</period>
+                <period period="2">571</period>
+                <period period="3">550</period>
+                <period period="4">544</period>
+                <period period="5">517</period>
+                <period period="6">544</period>
+                <period period="7">506</period>
+                <period period="8">494</period>
+                <period period="9">539</period>
+                <period period="10">555</period>
+                <period period="11">594</period>
+                <period period="12">621</period>
+            </history>
+        </fillType>
+        <fillType fillType="CUCUMBERS">
+            <history>
+                <period period="1">262</period>
+                <period period="2">259</period>
+                <period period="3">250</period>
+                <period period="4">247</period>
+                <period period="5">234</period>
+                <period period="6">247</period>
+                <period period="7">230</period>
+                <period period="8">224</period>
+                <period period="9">245</period>
+                <period period="10">252</period>
+                <period period="11">270</period>
+                <period period="12">282</period>
+            </history>
+        </fillType>
+        <fillType fillType="CORN_BREAD">
+            <history>
+                <period period="1">1175</period>
+                <period period="2">1164</period>
+                <period period="3">1120</period>
+                <period period="4">1108</period>
+                <period period="5">1052</period>
+                <period period="6">1108</period>
+                <period period="7">1030</period>
+                <period period="8">1007</period>
+                <period period="9">1097</period>
+                <period period="10">1131</period>
+                <period period="11">1209</period>
+                <period period="12">1265</period>
+            </history>
+        </fillType>
+        <fillType fillType="OATMEAL_COOKIES">
+            <history>
+                <period period="1">3779</period>
+                <period period="2">3743</period>
+                <period period="3">3599</period>
+                <period period="4">3563</period>
+                <period period="5">3383</period>
+                <period period="6">3563</period>
+                <period period="7">3311</period>
+                <period period="8">3239</period>
+                <period period="9">3527</period>
+                <period period="10">3635</period>
+                <period period="11">3888</period>
+                <period period="12">4067</period>
+            </history>
+        </fillType>
+        <fillType fillType="LOAF">
+            <history>
+                <period period="1">1501</period>
+                <period period="2">1487</period>
+                <period period="3">1430</period>
+                <period period="4">1415</period>
+                <period period="5">1344</period>
+                <period period="6">1415</period>
+                <period period="7">1315</period>
+                <period period="8">1287</period>
+                <period period="9">1401</period>
+                <period period="10">1444</period>
+                <period period="11">1544</period>
+                <period period="12">1615</period>
+            </history>
+        </fillType>
+        <fillType fillType="CHEESE_CAKE">
+            <history>
+                <period period="1">892</period>
+                <period period="2">883</period>
+                <period period="3">850</period>
+                <period period="4">841</period>
+                <period period="5">799</period>
+                <period period="6">841</period>
+                <period period="7">782</period>
+                <period period="8">765</period>
+                <period period="9">833</period>
+                <period period="10">858</period>
+                <period period="11">918</period>
+                <period period="12">960</period>
+            </history>
+        </fillType>
+        <fillType fillType="REDCURRANT_JAM">
+            <history>
+                <period period="1">1344</period>
+                <period period="2">1296</period>
+                <period period="3">1212</period>
+                <period period="4">1200</period>
+                <period period="5">1152</period>
+                <period period="6">1116</period>
+                <period period="7">1092</period>
+                <period period="8">1128</period>
+                <period period="9">1164</period>
+                <period period="10">1200</period>
+                <period period="11">1236</period>
+                <period period="12">1284</period>
+            </history>
+        </fillType>
+        <fillType fillType="STRAWBERRY_JAM">
+            <history>
+                <period period="1">1287</period>
+                <period period="2">1242</period>
+                <period period="3">1161</period>
+                <period period="4">1149</period>
+                <period period="5">1103</period>
+                <period period="6">1069</period>
+                <period period="7">1046</period>
+                <period period="8">1080</period>
+                <period period="9">1115</period>
+                <period period="10">1149</period>
+                <period period="11">1184</period>
+                <period period="12">1230</period>
+            </history>
+        </fillType>
+        <fillType fillType="RASPBERRY_JAM">
+            <history>
+                <period period="1">1232</period>
+                <period period="2">1188</period>
+                <period period="3">1111</period>
+                <period period="4">1100</period>
+                <period period="5">1055</period>
+                <period period="6">1023</period>
+                <period period="7">1001</period>
+                <period period="8">1034</period>
+                <period period="9">1067</period>
+                <period period="10">1100</period>
+                <period period="11">1132</period>
+                <period period="12">1177</period>
+            </history>
+        </fillType>
+        <fillType fillType="CUCUMBERS_PICKLED">
+            <history>
+                <period period="1">1344</period>
+                <period period="2">1296</period>
+                <period period="3">1212</period>
+                <period period="4">1200</period>
+                <period period="5">1152</period>
+                <period period="6">1116</period>
+                <period period="7">1092</period>
+                <period period="8">1128</period>
+                <period period="9">1164</period>
+                <period period="10">1200</period>
+                <period period="11">1236</period>
+                <period period="12">1284</period>
+            </history>
+        </fillType>
+        <fillType fillType="TOMATOES_PICKLED">
+            <history>
+                <period period="1">1232</period>
+                <period period="2">1188</period>
+                <period period="3">1111</period>
+                <period period="4">1100</period>
+                <period period="5">1055</period>
+                <period period="6">1023</period>
+                <period period="7">1001</period>
+                <period period="8">1034</period>
+                <period period="9">1067</period>
+                <period period="10">1100</period>
+                <period period="11">1132</period>
+                <period period="12">1177</period>
+            </history>
+        </fillType>
+        <fillType fillType="ASSORTED_PICKLED">
+            <history>
+                <period period="1">1567</period>
+                <period period="2">1512</period>
+                <period period="3">1413</period>
+                <period period="4">1399</period>
+                <period period="5">1343</period>
+                <period period="6">1301</period>
+                <period period="7">1274</period>
+                <period period="8">1315</period>
+                <period period="9">1358</period>
+                <period period="10">1399</period>
+                <period period="11">1441</period>
+                <period period="12">1498</period>
+            </history>
+        </fillType>
+        <fillType fillType="CANNED_FISH">
+            <history>
+                <period period="1">2015</period>
+                <period period="2">1944</period>
+                <period period="3">1817</period>
+                <period period="4">1799</period>
+                <period period="5">1727</period>
+                <period period="6">1673</period>
+                <period period="7">1638</period>
+                <period period="8">1691</period>
+                <period period="9">1746</period>
+                <period period="10">1799</period>
+                <period period="11">1853</period>
+                <period period="12">1926</period>
+            </history>
+        </fillType>
+        <fillType fillType="BOARDS01">
+            <history>
+                <period period="1">1143</period>
+                <period period="2">1195</period>
+                <period period="3">1325</period>
+                <period period="4">1351</period>
+                <period period="5">1429</period>
+                <period period="6">1338</period>
+                <period period="7">1312</period>
+                <period period="8">1260</period>
+                <period period="9">1234</period>
+                <period period="10">1208</period>
+                <period period="11">1182</period>
+                <period period="12">1169</period>
+            </history>
+        </fillType>
+        <fillType fillType="LPG">
+            <history>
+                <period period="1">921</period>
+                <period period="2">940</period>
+                <period period="3">970</period>
+                <period period="4">970</period>
+                <period period="5">1018</period>
+                <period period="6">1067</period>
+                <period period="7">1115</period>
+                <period period="8">1067</period>
+                <period period="9">1067</period>
+                <period period="10">1018</period>
+                <period period="11">970</period>
+                <period period="12">940</period>
+            </history>
+        </fillType>
+        <fillType fillType="BEAM">
+            <history>
+                <period period="1">573</period>
+                <period period="2">585</period>
+                <period period="3">616</period>
+                <period period="4">616</period>
+                <period period="5">640</period>
+                <period period="6">634</period>
+                <period period="7">640</period>
+                <period period="8">634</period>
+                <period period="9">622</period>
+                <period period="10">616</period>
+                <period period="11">591</period>
+                <period period="12">573</period>
+            </history>
+        </fillType>
+        <fillType fillType="CHIPBOARD">
+            <history>
+                <period period="1">714</period>
+                <period period="2">729</period>
+                <period period="3">767</period>
+                <period period="4">767</period>
+                <period period="5">797</period>
+                <period period="6">790</period>
+                <period period="7">797</period>
+                <period period="8">790</period>
+                <period period="9">775</period>
+                <period period="10">767</period>
+                <period period="11">737</period>
+                <period period="12">714</period>
+            </history>
+        </fillType>
+        <fillType fillType="EMPTYPALLETS">
+            <history>
+                <period period="1">704</period>
+                <period period="2">719</period>
+                <period period="3">757</period>
+                <period period="4">757</period>
+                <period period="5">787</period>
+                <period period="6">779</period>
+                <period period="7">787</period>
+                <period period="8">779</period>
+                <period period="9">764</period>
+                <period period="10">757</period>
+                <period period="11">727</period>
+                <period period="12">704</period>
+            </history>
+        </fillType>
+        <fillType fillType="RYE">
+            <history>
+                <period period="1">307</period>
+                <period period="2">328</period>
+                <period period="3">303</period>
+                <period period="4">288</period>
+                <period period="5">260</period>
+                <period period="6">248</period>
+                <period period="7">264</period>
+                <period period="8">303</period>
+                <period period="9">331</period>
+                <period period="10">346</period>
+                <period period="11">371</period>
+                <period period="12">331</period>
+            </history>
+        </fillType>
+        <fillType fillType="HOPS">
+            <history>
+                <period period="1">627</period>
+                <period period="2">582</period>
+                <period period="3">520</period>
+                <period period="4">476</period>
+                <period period="5">442</period>
+                <period period="6">442</period>
+                <period period="7">481</period>
+                <period period="8">537</period>
+                <period period="9">604</period>
+                <period period="10">649</period>
+                <period period="11">683</period>
+                <period period="12">677</period>
+            </history>
+        </fillType>
+        <fillType fillType="LAVENDER">
+            <history>
+                <period period="1">832</period>
+                <period period="2">772</period>
+                <period period="3">764</period>
+                <period period="4">764</period>
+                <period period="5">690</period>
+                <period period="6">674</period>
+                <period period="7">652</period>
+                <period period="8">764</period>
+                <period period="9">764</period>
+                <period period="10">779</period>
+                <period period="11">735</period>
+                <period period="12">802</period>
+            </history>
+        </fillType>
+        <fillType fillType="LAVENDELDUFT">
+            <history>
+                <period period="1">2682</period>
+                <period period="2">2735</period>
+                <period period="3">2761</period>
+                <period period="4">2603</period>
+                <period period="5">2472</period>
+                <period period="6">2603</period>
+                <period period="7">2682</period>
+                <period period="8">2656</period>
+                <period period="9">2708</period>
+                <period period="10">2656</period>
+                <period period="11">2524</period>
+                <period period="12">2472</period>
+            </history>
+        </fillType>
+        <fillType fillType="TOBACCO">
+            <history>
+                <period period="1">587</period>
+                <period period="2">628</period>
+                <period period="3">581</period>
+                <period period="4">551</period>
+                <period period="5">498</period>
+                <period period="6">475</period>
+                <period period="7">504</period>
+                <period period="8">581</period>
+                <period period="9">633</period>
+                <period period="10">663</period>
+                <period period="11">710</period>
+                <period period="12">633</period>
+            </history>
+        </fillType>
+        <fillType fillType="HEMP">
+            <history>
+                <period period="1">370</period>
+                <period period="2">395</period>
+                <period period="3">366</period>
+                <period period="4">347</period>
+                <period period="5">314</period>
+                <period period="6">299</period>
+                <period period="7">318</period>
+                <period period="8">366</period>
+                <period period="9">399</period>
+                <period period="10">418</period>
+                <period period="11">447</period>
+                <period period="12">399</period>
+            </history>
+        </fillType>
+        <fillType fillType="HEMP_OIL">
+            <history>
+                <period period="1">2140</period>
+                <period period="2">2289</period>
+                <period period="3">2118</period>
+                <period period="4">2011</period>
+                <period period="5">1819</period>
+                <period period="6">1733</period>
+                <period period="7">1840</period>
+                <period period="8">2118</period>
+                <period period="9">2311</period>
+                <period period="10">2418</period>
+                <period period="11">2589</period>
+                <period period="12">2311</period>
+            </history>
+        </fillType>
+        <fillType fillType="RYE_BREAD">
+            <history>
+                <period period="1">1154</period>
+                <period period="2">1143</period>
+                <period period="3">1100</period>
+                <period period="4">1089</period>
+                <period period="5">1034</period>
+                <period period="6">1089</period>
+                <period period="7">1012</period>
+                <period period="8">989</period>
+                <period period="9">1078</period>
+                <period period="10">1111</period>
+                <period period="11">1188</period>
+                <period period="12">1243</period>
+            </history>
+        </fillType>
+        <fillType fillType="ZER_BREAD">
+            <history>
+                <period period="1">944</period>
+                <period period="2">935</period>
+                <period period="3">899</period>
+                <period period="4">890</period>
+                <period period="5">845</period>
+                <period period="6">890</period>
+                <period period="7">827</period>
+                <period period="8">809</period>
+                <period period="9">881</period>
+                <period period="10">908</period>
+                <period period="11">972</period>
+                <period period="12">1016</period>
+            </history>
+        </fillType>
+        <fillType fillType="HONEY_BREAD">
+            <history>
+                <period period="1">1018</period>
+                <period period="2">1008</period>
+                <period period="3">970</period>
+                <period period="4">960</period>
+                <period period="5">911</period>
+                <period period="6">960</period>
+                <period period="7">892</period>
+                <period period="8">873</period>
+                <period period="9">950</period>
+                <period period="10">979</period>
+                <period period="11">1047</period>
+                <period period="12">1096</period>
+            </history>
+        </fillType>
+        <fillType fillType="MILK_SG">
+            <history>
+                <period period="1">3706</period>
+                <period period="2">3603</period>
+                <period period="3">3264</period>
+                <period period="4">3060</period>
+                <period period="5">3230</period>
+                <period period="6">3230</period>
+                <period period="7">3502</period>
+                <period period="8">3706</period>
+                <period period="9">3332</period>
+                <period period="10">3264</period>
+                <period period="11">3672</period>
+                <period period="12">3638</period>
+            </history>
+        </fillType>
+        <fillType fillType="PAPER">
+            <history>
+                <period period="1">817</period>
+                <period period="2">835</period>
+                <period period="3">878</period>
+                <period period="4">878</period>
+                <period period="5">913</period>
+                <period period="6">904</period>
+                <period period="7">913</period>
+                <period period="8">904</period>
+                <period period="9">887</period>
+                <period period="10">878</period>
+                <period period="11">843</period>
+                <period period="12">817</period>
+            </history>
+        </fillType>
+        <fillType fillType="CARTON">
+            <history>
+                <period period="1">1200</period>
+                <period period="2">1200</period>
+                <period period="3">1200</period>
+                <period period="4">1200</period>
+                <period period="5">1200</period>
+                <period period="6">1200</period>
+                <period period="7">1200</period>
+                <period period="8">1200</period>
+                <period period="9">1200</period>
+                <period period="10">1200</period>
+                <period period="11">1200</period>
+                <period period="12">1200</period>
+            </history>
+        </fillType>
+        <fillType fillType="KLOPAPIER">
+            <history>
+                <period period="1">1799</period>
+                <period period="2">1799</period>
+                <period period="3">1799</period>
+                <period period="4">1799</period>
+                <period period="5">1799</period>
+                <period period="6">1799</period>
+                <period period="7">1799</period>
+                <period period="8">1799</period>
+                <period period="9">1799</period>
+                <period period="10">1799</period>
+                <period period="11">1799</period>
+                <period period="12">1799</period>
+            </history>
+        </fillType>
+        <fillType fillType="AROMAPAPIER">
+            <history>
+                <period period="1">1950</period>
+                <period period="2">1950</period>
+                <period period="3">1950</period>
+                <period period="4">1950</period>
+                <period period="5">1950</period>
+                <period period="6">1950</period>
+                <period period="7">1950</period>
+                <period period="8">1950</period>
+                <period period="9">1950</period>
+                <period period="10">1950</period>
+                <period period="11">1950</period>
+                <period period="12">1950</period>
+            </history>
+        </fillType>
+        <fillType fillType="WHEAT_SOL">
+            <history>
+                <period period="1">537</period>
+                <period period="2">537</period>
+                <period period="3">537</period>
+                <period period="4">537</period>
+                <period period="5">537</period>
+                <period period="6">537</period>
+                <period period="7">537</period>
+                <period period="8">537</period>
+                <period period="9">537</period>
+                <period period="10">537</period>
+                <period period="11">537</period>
+                <period period="12">537</period>
+            </history>
+        </fillType>
+        <fillType fillType="BARLEY_SOL">
+            <history>
+                <period period="1">513</period>
+                <period period="2">513</period>
+                <period period="3">513</period>
+                <period period="4">513</period>
+                <period period="5">513</period>
+                <period period="6">513</period>
+                <period period="7">513</period>
+                <period period="8">513</period>
+                <period period="9">513</period>
+                <period period="10">513</period>
+                <period period="11">513</period>
+                <period period="12">513</period>
+            </history>
+        </fillType>
+        <fillType fillType="RYE_SOL">
+            <history>
+                <period period="1">497</period>
+                <period period="2">497</period>
+                <period period="3">497</period>
+                <period period="4">497</period>
+                <period period="5">497</period>
+                <period period="6">497</period>
+                <period period="7">497</period>
+                <period period="8">497</period>
+                <period period="9">497</period>
+                <period period="10">497</period>
+                <period period="11">497</period>
+                <period period="12">497</period>
+            </history>
+        </fillType>
+        <fillType fillType="BEER_0">
+            <history>
+                <period period="1">3099</period>
+                <period period="2">3099</period>
+                <period period="3">3099</period>
+                <period period="4">3099</period>
+                <period period="5">3099</period>
+                <period period="6">3099</period>
+                <period period="7">3099</period>
+                <period period="8">3099</period>
+                <period period="9">3099</period>
+                <period period="10">3099</period>
+                <period period="11">3099</period>
+                <period period="12">3099</period>
+            </history>
+        </fillType>
+        <fillType fillType="BEER_0WH">
+            <history>
+                <period period="1">3069</period>
+                <period period="2">3069</period>
+                <period period="3">3069</period>
+                <period period="4">3069</period>
+                <period period="5">3069</period>
+                <period period="6">3069</period>
+                <period period="7">3069</period>
+                <period period="8">3069</period>
+                <period period="9">3069</period>
+                <period period="10">3069</period>
+                <period period="11">3069</period>
+                <period period="12">3069</period>
+            </history>
+        </fillType>
+        <fillType fillType="BEER_0RA">
+            <history>
+                <period period="1">3230</period>
+                <period period="2">3230</period>
+                <period period="3">3230</period>
+                <period period="4">3230</period>
+                <period period="5">3230</period>
+                <period period="6">3230</period>
+                <period period="7">3230</period>
+                <period period="8">3230</period>
+                <period period="9">3230</period>
+                <period period="10">3230</period>
+                <period period="11">3230</period>
+                <period period="12">3230</period>
+            </history>
+        </fillType>
+        <fillType fillType="BEER_7M">
+            <history>
+                <period period="1">2940</period>
+                <period period="2">2940</period>
+                <period period="3">2940</period>
+                <period period="4">2940</period>
+                <period period="5">2940</period>
+                <period period="6">2940</period>
+                <period period="7">2940</period>
+                <period period="8">2940</period>
+                <period period="9">2940</period>
+                <period period="10">2940</period>
+                <period period="11">2940</period>
+                <period period="12">2940</period>
+            </history>
+        </fillType>
+        <fillType fillType="YAVA">
+            <history>
+                <period period="1">3259</period>
+                <period period="2">3259</period>
+                <period period="3">3259</period>
+                <period period="4">3259</period>
+                <period period="5">3259</period>
+                <period period="6">3259</period>
+                <period period="7">3259</period>
+                <period period="8">3259</period>
+                <period period="9">3259</period>
+                <period period="10">3259</period>
+                <period period="11">3259</period>
+                <period period="12">3259</period>
+            </history>
+        </fillType>
+        <fillType fillType="PRIMA">
+            <history>
+                <period period="1">2980</period>
+                <period period="2">2980</period>
+                <period period="3">2980</period>
+                <period period="4">2980</period>
+                <period period="5">2980</period>
+                <period period="6">2980</period>
+                <period period="7">2980</period>
+                <period period="8">2980</period>
+                <period period="9">2980</period>
+                <period period="10">2980</period>
+                <period period="11">2980</period>
+                <period period="12">2980</period>
+            </history>
+        </fillType>
+        <fillType fillType="BELOMOR">
+            <history>
+                <period period="1">2430</period>
+                <period period="2">2430</period>
+                <period period="3">2430</period>
+                <period period="4">2430</period>
+                <period period="5">2430</period>
+                <period period="6">2430</period>
+                <period period="7">2430</period>
+                <period period="8">2430</period>
+                <period period="9">2430</period>
+                <period period="10">2430</period>
+                <period period="11">2430</period>
+                <period period="12">2430</period>
+            </history>
+        </fillType>
+        <fillType fillType="PEACONS">
+            <history>
+                <period period="1">1200</period>
+                <period period="2">1200</period>
+                <period period="3">1200</period>
+                <period period="4">1200</period>
+                <period period="5">1200</period>
+                <period period="6">1200</period>
+                <period period="7">1200</period>
+                <period period="8">1200</period>
+                <period period="9">1200</period>
+                <period period="10">1200</period>
+                <period period="11">1200</period>
+                <period period="12">1200</period>
+            </history>
+        </fillType>
+        <fillType fillType="MAIZECONS">
+            <history>
+                <period period="1">1250</period>
+                <period period="2">1250</period>
+                <period period="3">1250</period>
+                <period period="4">1250</period>
+                <period period="5">1250</period>
+                <period period="6">1250</period>
+                <period period="7">1250</period>
+                <period period="8">1250</period>
+                <period period="9">1250</period>
+                <period period="10">1250</period>
+                <period period="11">1250</period>
+                <period period="12">1250</period>
+            </history>
+        </fillType>
+        <fillType fillType="MEAT">
+            <history>
+                <period period="1">1335</period>
+                <period period="2">1272</period>
+                <period period="3">1209</period>
+                <period period="4">1133</period>
+                <period period="5">1196</period>
+                <period period="6">1196</period>
+                <period period="7">1297</period>
+                <period period="8">1373</period>
+                <period period="9">1234</period>
+                <period period="10">1209</period>
+                <period period="11">1360</period>
+                <period period="12">1348</period>
+            </history>
+        </fillType>
+        <fillType fillType="PORKCHOP">
+            <history>
+                <period period="1">1324</period>
+                <period period="2">1262</period>
+                <period period="3">1199</period>
+                <period period="4">1124</period>
+                <period period="5">1187</period>
+                <period period="6">1187</period>
+                <period period="7">1287</period>
+                <period period="8">1362</period>
+                <period period="9">1225</period>
+                <period period="10">1199</period>
+                <period period="11">1350</period>
+                <period period="12">1337</period>
+            </history>
+        </fillType>
+        <fillType fillType="BEEFTRIPE">
+            <history>
+                <period period="1">1483</period>
+                <period period="2">1413</period>
+                <period period="3">1343</period>
+                <period period="4">1259</period>
+                <period period="5">1329</period>
+                <period period="6">1329</period>
+                <period period="7">1441</period>
+                <period period="8">1526</period>
+                <period period="9">1372</period>
+                <period period="10">1343</period>
+                <period period="11">1512</period>
+                <period period="12">1498</period>
+            </history>
+        </fillType>
+        <fillType fillType="JAMBON">
+            <history>
+                <period period="1">1240</period>
+                <period period="2">1181</period>
+                <period period="3">1123</period>
+                <period period="4">1052</period>
+                <period period="5">1111</period>
+                <period period="6">1111</period>
+                <period period="7">1205</period>
+                <period period="8">1275</period>
+                <period period="9">1146</period>
+                <period period="10">1123</period>
+                <period period="11">1263</period>
+                <period period="12">1251</period>
+            </history>
+        </fillType>
+        <fillType fillType="LEATHER">
+            <history>
+                <period period="1">3860</period>
+                <period period="2">4130</period>
+                <period period="3">3821</period>
+                <period period="4">3628</period>
+                <period period="5">3281</period>
+                <period period="6">3126</period>
+                <period period="7">3319</period>
+                <period period="8">3821</period>
+                <period period="9">4168</period>
+                <period period="10">4361</period>
+                <period period="11">4670</period>
+                <period period="12">4168</period>
+            </history>
+        </fillType>
+        <fillType fillType="GOLD">
+            <history>
+                <period period="1">2740</period>
+                <period period="2">2740</period>
+                <period period="3">2740</period>
+                <period period="4">2740</period>
+                <period period="5">2740</period>
+                <period period="6">2740</period>
+                <period period="7">2740</period>
+                <period period="8">2740</period>
+                <period period="9">2740</period>
+                <period period="10">2740</period>
+                <period period="11">2740</period>
+                <period period="12">2740</period>
+            </history>
+        </fillType>
+        <fillType fillType="CONCENTRATE">
+            <history>
+                <period period="1">860</period>
+                <period period="2">860</period>
+                <period period="3">860</period>
+                <period period="4">860</period>
+                <period period="5">860</period>
+                <period period="6">860</period>
+                <period period="7">860</period>
+                <period period="8">860</period>
+                <period period="9">860</period>
+                <period period="10">860</period>
+                <period period="11">860</period>
+                <period period="12">860</period>
+            </history>
+        </fillType>
+        <fillType fillType="GOLDBAR">
+            <history>
+                <period period="1">10060</period>
+                <period period="2">10060</period>
+                <period period="3">10060</period>
+                <period period="4">10060</period>
+                <period period="5">10060</period>
+                <period period="6">10060</period>
+                <period period="7">10060</period>
+                <period period="8">10060</period>
+                <period period="9">10060</period>
+                <period period="10">10060</period>
+                <period period="11">10060</period>
+                <period period="12">10060</period>
+            </history>
+        </fillType>
+        <fillType fillType="BEETROOT">
+            <history>
+                <period period="1">136</period>
+                <period period="2">131</period>
+                <period period="3">126</period>
+                <period period="4">139</period>
+                <period period="5">159</period>
+                <period period="6">119</period>
+                <period period="7">107</period>
+                <period period="8">86</period>
+                <period period="9">74</period>
+                <period period="10">112</period>
+                <period period="11">162</period>
+                <period period="12">119</period>
+            </history>
+        </fillType>
+        <fillType fillType="CARROT">
+            <history>
+                <period period="1">147</period>
+                <period period="2">142</period>
+                <period period="3">137</period>
+                <period period="4">150</period>
+                <period period="5">172</period>
+                <period period="6">129</period>
+                <period period="7">116</period>
+                <period period="8">93</period>
+                <period period="9">80</period>
+                <period period="10">121</period>
+                <period period="11">175</period>
+                <period period="12">129</period>
+            </history>
+        </fillType>
+        <fillType fillType="PARSNIP">
+            <history>
+                <period period="1">146</period>
+                <period period="2">141</period>
+                <period period="3">136</period>
+                <period period="4">149</period>
+                <period period="5">171</period>
+                <period period="6">128</period>
+                <period period="7">115</period>
+                <period period="8">93</period>
+                <period period="9">79</period>
+                <period period="10">120</period>
+                <period period="11">174</period>
+                <period period="12">128</period>
+            </history>
+        </fillType>
+    </fillTypes>
+</economy>

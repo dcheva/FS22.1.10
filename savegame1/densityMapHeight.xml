@@ -58,4 +58,6 @@
     <tipTypeMapping fillType="HORSEGRASS_FERMENTED" index="56"/>
     <tipTypeMapping fillType="IRONORE" index="57"/>
     <tipTypeMapping fillType="SEPARATED_MANURE" index="58"/>
+    <tipTypeMapping fillType="BEETROOT" index="59"/>
+    <tipTypeMapping fillType="PARSNIP" index="60"/>
 </tipTypeMappings>

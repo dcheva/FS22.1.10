@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<vehicles>
+    <vehicle modName="FS22_YagodnoeEXT" filename="$moddir$FS22_YagodnoeEXT/maps/placeables/trainSystem/locomotive02/locomotive02.xml" id="1" isAbsolute="true" age="0.000000" price="164000.000000" farmId="0" propertyState="0" operatingTime="341.849792" selectedObjectIndex="5" subSelectedObjectIndex="1">
+        <component index="1" position="-1467.787109375 89.082916259766 -1563.4775390625" rotation="0 -62.004710002375 0"/>
+        <configuration name="motor" id="1"/>
+        <configuration name="wheel" id="1"/>
+        <boughtConfiguration name="motor" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <wheels lastWheelConfiguration="1"/>
+        <enterable activeCameraIndex="1" isTabbable="false">
+            <camera rotation="-24.000002375408 180.00000500896 0" translation="0 0 16" zoom="16.000010" fovY="0.950021"/>
+            <camera rotation="-5.0000002814333 180.00000500896 0" translation="0.0040000001899898 0.040019098669291 0.022079600021243" zoom="0.045891" fovY="1.047198"/>
+        </enterable>
+        <drivable cruiseControl="120" cruiseControlReverse="120"/>
+        <attacherJoints comboDirection="-1"/>
+    </vehicle>
+    <vehicle modName="FS22_YagodnoeEXT" filename="$moddir$FS22_YagodnoeEXT/maps/placeables/trainSystem/wagonGrain/wagonGrain.xml" id="2" isAbsolute="true" age="0.000000" price="1.000000" farmId="0" propertyState="0" operatingTime="341.849792">
+        <component index="1" position="-1452.3254394531 89.082908630371 -1571.6975097656" rotation="0 -62.003207360758 0"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="fillVolume" id="1"/>
+        <configuration name="wheel" id="1"/>
+        <configuration name="trailer" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="trailer" id="1"/>
+        <wheels lastWheelConfiguration="1"/>
+        <attacherJoints comboDirection="-1"/>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+        <trailer doorState="false" tipAnimationTime="0.000000" tipState="0"/>
+    </vehicle>
+    <vehicle modName="FS22_YagodnoeEXT" filename="$moddir$FS22_YagodnoeEXT/maps/placeables/trainSystem/wagonWoodChips/wagonWoodChips.xml" id="3" isAbsolute="true" age="0.000000" price="1.000000" farmId="0" propertyState="0" operatingTime="341.849792">
+        <component index="1" position="-1440.8203125 89.082908630371 -1577.8142089844" rotation="0 -62.002148681436 0"/>
+        <configuration name="fillUnit" id="1"/>
+        <configuration name="fillVolume" id="1"/>
+        <configuration name="wheel" id="1"/>
+        <configuration name="trailer" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="trailer" id="1"/>
+        <wheels lastWheelConfiguration="1"/>
+        <attacherJoints comboDirection="-1"/>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+        <trailer doorState="false" tipAnimationTime="0.000000" tipState="0"/>
+    </vehicle>
+    <vehicle modName="FS22_YagodnoeEXT" filename="$moddir$FS22_YagodnoeEXT/maps/placeables/trainSystem/wagonSugarbeets/wagonSugarbeets.xml" id="4" isAbsolute="true" age="0.000000" price="1.000000" farmId="0" propertyState="0" operatingTime="341.849792">
+        <component index="1" position="-1429.7065429688 89.082908630371 -1583.7231445313" rotation="0 -62.009559436686 0"/>
+        <configuration name="trailer" id="1"/>
+        <configuration name="cover" id="1"/>
+        <configuration name="fillVolume" id="1"/>
+        <configuration name="wheel" id="1"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="trailer" id="1"/>
+        <boughtConfiguration name="cover" id="1"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <wheels lastWheelConfiguration="1"/>
+        <attacherJoints comboDirection="-1"/>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+        <trailer doorState="false" tipAnimationTime="0.000000" tipState="0"/>
+        <cover state="0"/>
+    </vehicle>
+    <vehicle modName="FS22_YagodnoeEXT" filename="$moddir$FS22_YagodnoeEXT/maps/placeables/trainSystem/wagonSugarbeets01/wagonSugarbeets01.xml" id="5" isAbsolute="true" age="0.000000" price="1.000000" farmId="0" propertyState="0" operatingTime="341.849792">
+        <component index="1" position="-1417.59765625 89.082908630371 -1590.1563720703" rotation="-4.4842553535756e-05 -62.246368925399 0"/>
+        <configuration name="trailer" id="1"/>
+        <configuration name="cover" id="1"/>
+        <configuration name="fillVolume" id="1"/>
+        <configuration name="wheel" id="1"/>
+        <configuration name="fillUnit" id="1"/>
+        <boughtConfiguration name="trailer" id="1"/>
+        <boughtConfiguration name="cover" id="1"/>
+        <boughtConfiguration name="fillVolume" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="fillUnit" id="1"/>
+        <wheels lastWheelConfiguration="1"/>
+        <attacherJoints comboDirection="-1"/>
+        <fillUnit>
+            <unit index="1" fillType="UNKNOWN" fillLevel="0.000000"/>
+        </fillUnit>
+        <trailer doorState="false" tipAnimationTime="0.000000" tipState="0"/>
+        <cover state="0"/>
+    </vehicle>
+    <vehicle modName="FS22_YagodnoeEXT" filename="$moddir$FS22_YagodnoeEXT/maps/placeables/trainSystem/wagonPlatforma/wagonPlatforma.xml" id="6" isAbsolute="true" age="0.000000" price="1.000000" farmId="0" propertyState="0" operatingTime="341.849792">
+        <component index="1" position="-1404.9935302734 89.082908630371 -1596.6531982422" rotation="0 -69.005674392206 0"/>
+        <configuration name="wheel" id="1"/>
+        <configuration name="tensionBelts" id="1"/>
+        <boughtConfiguration name="wheel" id="1"/>
+        <boughtConfiguration name="tensionBelts" id="1"/>
+        <wheels lastWheelConfiguration="1"/>
+        <attacherJoints comboDirection="-1"/>
+        <tensionBelts>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+            <belt isActive="false"/>
+        </tensionBelts>
+    </vehicle>
+    <attachments rootVehicleId="1">
+        <attachment attachmentId="2" inputJointDescIndex="1" jointIndex="1" moveDown="false"/>
+    </attachments>
+    <attachments rootVehicleId="2">
+        <attachment attachmentId="3" inputJointDescIndex="1" jointIndex="1" moveDown="false"/>
+    </attachments>
+    <attachments rootVehicleId="3">
+        <attachment attachmentId="4" inputJointDescIndex="1" jointIndex="1" moveDown="false"/>
+    </attachments>
+    <attachments rootVehicleId="4">
+        <attachment attachmentId="5" inputJointDescIndex="1" jointIndex="1" moveDown="false"/>
+    </attachments>
+    <attachments rootVehicleId="5">
+        <attachment attachmentId="6" inputJointDescIndex="1" jointIndex="1" moveDown="false"/>
+    </attachments>
+</vehicles>

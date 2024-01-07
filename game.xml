@@ -22,7 +22,7 @@
         </scalability>
         <renderer>D3D_12</renderer>
     </graphic>
-    <audio enable="true" volume="0.500000"/>
+    <audio enable="true" volume="1.000000"/>
     <input>
         <joystick enable="true" vibration="false" deadzone="0.14"/>
         <mouse enable="true"/>
@@ -38,5 +38,5 @@
         <controls>false</controls>
         <openDevConsole onWarnings="false" onErrors="false"/>
     </development>
-    <startMode>1</startMode>
+    <startMode>5</startMode>
 </game>

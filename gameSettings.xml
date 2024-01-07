@@ -26,15 +26,15 @@
     <volume>
         <music>0.000000</music>
         <vehicle>1.000000</vehicle>
-        <environment>0.700000</environment>
-        <radio>0.600000</radio>
-        <gui>0.500000</gui>
+        <environment>1.000000</environment>
+        <radio>0.500000</radio>
+        <gui>1.000000</gui>
         <voice>1.000000</voice>
         <voiceInput>1.000000</voiceInput>
     </volume>
-    <soundPlayer allowStreams="false"/>
-    <radioIsActive>false</radioIsActive>
-    <radioVehicleOnly>true</radioVehicleOnly>
+    <soundPlayer allowStreams="true"/>
+    <radioIsActive>true</radioIsActive>
+    <radioVehicleOnly>false</radioVehicleOnly>
     <voice mode="2" inputSensitivity="1"/>
     <units>
         <money>1</money>
@@ -42,8 +42,8 @@
         <fahrenheit>false</fahrenheit>
         <acre>false</acre>
     </units>
-    <isTrainTabbable>true</isTrainTabbable>
-    <showTriggerMarker>true</showTriggerMarker>
+    <isTrainTabbable>false</isTrainTabbable>
+    <showTriggerMarker>false</showTriggerMarker>
     <showHelpTrigger>true</showHelpTrigger>
     <showFieldInfo>true</showFieldInfo>
     <showHelpIcons>true</showHelpIcons>
@@ -55,7 +55,7 @@
     <ingameMapState>3</ingameMapState>
     <ingameMapFilters>0</ingameMapFilters>
     <directionChangeMode>2</directionChangeMode>
-    <gearShiftMode>2</gearShiftMode>
+    <gearShiftMode>1</gearShiftMode>
     <hudSpeedGauge>2</hudSpeedGauge>
     <woodHarvesterAutoCut>true</woodHarvesterAutoCut>
     <shownFreemodeWarning>false</shownFreemodeWarning>
@@ -71,4 +71,9 @@
     <realBeaconLights>false</realBeaconLights>
     <cameraBobbing>true</cameraBobbing>
     <lastPlayerStyle filename="dataS/character/humans/player/player01.xml" bottomConfigId="jeans" bottomConfigColor="1" faceConfigId="head01" faceConfigColor="1" footwearConfigId="workBoots2" footwearConfigColor="1" hairStyleConfigId="hair02" hairStyleConfigColor="6" topConfigId="denimJacket" topConfigColor="1"/>
+    <precisionFarming initialized="true">
+        <settings>
+            <inputHelpDisplay state="true"/>
+        </settings>
+    </precisionFarming>
 </gameSettings>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<missions>
+    <mission type="fertilize" reward="32073" status="0" success="false">
+        <field id="16" sprayFactor="0.000000" spraySet="false" plowFactor="0.000000" state="2" vehicleGroup="2" vehicleUseCost="5672.861816" growthState="4" limeFactor="1.000000" weedFactor="1.000000" stubbleFactor="0.000000" fruitTypeName="SORGHUM"/>
+    </mission>
+    <mission type="plow" reward="32809" status="0" success="false">
+        <field id="30" sprayFactor="0.000000" spraySet="false" plowFactor="0.000000" state="2" vehicleGroup="1" vehicleUseCost="4062.135986" growthState="6" limeFactor="0.000000" weedFactor="0.500000" stubbleFactor="0.000000" fruitTypeName="PEAS"/>
+    </mission>
+</missions>
