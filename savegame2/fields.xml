@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <fields>
-    <field id="1" plannedFruit="TOBACCO"/>
-    <field id="2" plannedFruit="BEETROOT"/>
+    <field id="1" plannedFruit="FALLOW"/>
+    <field id="2" plannedFruit="FALLOW"/>
     <field id="3" plannedFruit="CANOLA"/>
     <field id="4" plannedFruit="POTATO"/>
     <field id="5" plannedFruit="COTTON"/>
@@ -10,50 +10,50 @@
     <field id="8" plannedFruit="MAIZE"/>
     <field id="9" plannedFruit="SUNFLOWER"/>
     <field id="10" plannedFruit="PEAS"/>
-    <field id="11" plannedFruit="TOBACCO"/>
+    <field id="11" plannedFruit="FALLOW"/>
     <field id="12" plannedFruit="POTATO"/>
     <field id="13" plannedFruit="SOYBEAN"/>
     <field id="14" plannedFruit="SORGHUM"/>
     <field id="15" plannedFruit="SOYBEAN"/>
     <field id="16" plannedFruit="SORGHUM"/>
     <field id="17" plannedFruit="OAT"/>
-    <field id="18" plannedFruit="RYE"/>
-    <field id="19" plannedFruit="TOBACCO"/>
+    <field id="18" plannedFruit="FALLOW"/>
+    <field id="19" plannedFruit="FALLOW"/>
     <field id="20" plannedFruit="COTTON"/>
     <field id="21" plannedFruit="GRASS"/>
     <field id="22" plannedFruit="POTATO"/>
     <field id="23" plannedFruit="LINUM"/>
     <field id="24" plannedFruit="SORGHUM"/>
     <field id="25" plannedFruit="WHEAT"/>
-    <field id="26" plannedFruit="RYE"/>
+    <field id="26" plannedFruit="FALLOW"/>
     <field id="27" plannedFruit="SORGHUM"/>
     <field id="28" plannedFruit="MAIZE"/>
     <field id="29" plannedFruit="GRASS"/>
     <field id="30" plannedFruit="PEAS"/>
-    <field id="31" plannedFruit="RYE"/>
+    <field id="31" plannedFruit="FALLOW"/>
     <field id="32" plannedFruit="GRASS"/>
-    <field id="33" plannedFruit="TOBACCO"/>
+    <field id="33" plannedFruit="FALLOW"/>
     <field id="34" plannedFruit="GRASS"/>
     <field id="35" plannedFruit="BUCKWHEAT"/>
     <field id="36" plannedFruit="SUGARBEET"/>
-    <field id="37" plannedFruit="TOBACCO"/>
+    <field id="37" plannedFruit="FALLOW"/>
     <field id="38" plannedFruit="BUCKWHEAT"/>
     <field id="39" plannedFruit="SOYBEAN"/>
     <field id="40" plannedFruit="BUCKWHEAT"/>
     <field id="41" plannedFruit="WHEAT"/>
     <field id="42" plannedFruit="COTTON"/>
-    <field id="43" plannedFruit="HOPS"/>
+    <field id="43" plannedFruit="FALLOW"/>
     <field id="44" plannedFruit="BUCKWHEAT"/>
     <field id="45" plannedFruit="PEAS"/>
     <field id="46" plannedFruit="CANOLA"/>
     <field id="47" plannedFruit="OAT"/>
     <field id="48" plannedFruit="SUGARBEET"/>
-    <field id="49" plannedFruit="HOPS"/>
+    <field id="49" plannedFruit="FALLOW"/>
     <field id="50" plannedFruit="SUGARBEET"/>
     <field id="51" plannedFruit="BUCKWHEAT"/>
     <field id="52" plannedFruit="COTTON"/>
     <field id="53" plannedFruit="CANOLA"/>
-    <field id="54" plannedFruit="PARSNIP"/>
+    <field id="54" plannedFruit="FALLOW"/>
     <field id="55" plannedFruit="FALLOW"/>
     <field id="56" plannedFruit="FALLOW"/>
     <field id="57" plannedFruit="FALLOW"/>

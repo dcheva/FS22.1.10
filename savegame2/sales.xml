@@ -1,9 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <sales>
-    <item timeLeft="39" isGenerated="true" xmlFilename="data/vehicles/kuhn/maxima3TIL/maxima3TIL.xml" age="24" price="20958" damage="0.583189" wear="0.822658" operatingTime="86809.140625"/>
-    <item timeLeft="37" isGenerated="true" xmlFilename="C:/Games/Farming Simulator 22/pdlc/premiumExpansion/vehicles/samasz/kdd941STH/kdd941STH.xml" age="8" price="41608" damage="0.545413" wear="0.587337" operatingTime="18193.900391"/>
-    <item timeLeft="33" isGenerated="true" xmlFilename="C:/Games/Farming Simulator 22/pdlc/premiumExpansion/vehicles/fiat/series90/series90.xml" age="26" price="38277" damage="0.580763" wear="0.839189" operatingTime="100501.281250">
+    <item timeLeft="36" isGenerated="true" xmlFilename="data/vehicles/kuhn/maxima3TIL/maxima3TIL.xml" age="24" price="20958" damage="0.583189" wear="0.822658" operatingTime="86809.140625"/>
+    <item timeLeft="34" isGenerated="true" xmlFilename="C:/Games/Farming Simulator 22/pdlc/premiumExpansion/vehicles/samasz/kdd941STH/kdd941STH.xml" age="8" price="41608" damage="0.545413" wear="0.587337" operatingTime="18193.900391"/>
+    <item timeLeft="30" isGenerated="true" xmlFilename="C:/Games/Farming Simulator 22/pdlc/premiumExpansion/vehicles/fiat/series90/series90.xml" age="26" price="38277" damage="0.580763" wear="0.839189" operatingTime="100501.281250">
         <boughtConfiguration name="wheel" id="BKT_BROAD2"/>
     </item>
-    <item timeLeft="31" isGenerated="true" xmlFilename="data/vehicles/poettinger/faro4010D/faro4010D.xml" age="6" price="41187" damage="0.292633" wear="0.873639" operatingTime="22684.636719"/>
+    <item timeLeft="28" isGenerated="true" xmlFilename="data/vehicles/poettinger/faro4010D/faro4010D.xml" age="6" price="41187" damage="0.292633" wear="0.873639" operatingTime="22684.636719"/>
+    <item timeLeft="37" isGenerated="true" xmlFilename="data/vehicles/grimme/rootster604/rootster604.xml" age="39" price="28319" damage="0.500583" wear="0.921216" operatingTime="138179.343750"/>
 </sales>

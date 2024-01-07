@@ -11,7 +11,7 @@
         <trafficEnabled>true</trafficEnabled>
         <stopAndGoBraking>true</stopAndGoBraking>
         <trailerFillLimit>true</trailerFillLimit>
-        <automaticMotorStartEnabled>true</automaticMotorStartEnabled>
+        <automaticMotorStartEnabled>false</automaticMotorStartEnabled>
         <growthMode>1</growthMode>
         <plannedDaysPerPeriod>1</plannedDaysPerPeriod>
         <fruitDestruction>true</fruitDestruction>
@@ -43,7 +43,7 @@
         <difficulty>2</difficulty>
         <economicDifficulty>2</economicDifficulty>
         <dirtInterval>3</dirtInterval>
-        <timeScale>0.500000</timeScale>
+        <timeScale>1.000000</timeScale>
         <autoSaveInterval>5.000000</autoSaveInterval>
     </settings>
     <guidedTour active="false" currentStepIndex="0" state=""/>
@@ -51,10 +51,10 @@
         <foundHelpIcons>00000000000000000000</foundHelpIcons>
     </map>
     <statistics>
-        <money>1500000</money>
-        <playTime>5.697497</playTime>
+        <money>507405</money>
+        <playTime>206.969589</playTime>
     </statistics>
-    <slotSystem slotUsage="391"/>
+    <slotSystem slotUsage="486"/>
     <mapsSplitShapeFileIds count="1">
         <id id="0"/>
     </mapsSplitShapeFileIds>
@@ -63,20 +63,45 @@
         <foliageType name="carrot" filename="data/foliage/carrot/carrot.xml"/>
         <foliageType name="parsnip" filename="data/foliage/parsnip/parsnip.xml"/>
     </foliageTypes>
+    <mod modName="FS22_StrautmannTeraVitesse5201" title="Strautmann Tera-Vitesse CFS 5201 DO" version="1.0.0.0" required="false" fileHash="778acef70b1e7744288886ad3fa974aa"/>
     <mod modName="pdlc_pumpsAndHosesPack" title="Pumps N&apos; Hoses Pack" version="1.3.0.0" required="false" fileHash="adb7dc9e042517eb87fd0537c17ea4af"/>
-    <mod modName="FS22_VehicleControlAddon" title="Vehicle Control Addon" version="9.1.3.2" required="false" fileHash="09e6dc35c6ac51ce485115c11b95fe6f"/>
-    <mod modName="pdlc_antonioCarraroPack" title="Antonio Carraro Pack" version="1.1.1.0" required="false" fileHash="a80574947b37ccca8cbf015ecca117cf"/>
-    <mod modName="pdlc_goeweilPack" title="GÖWEIL Pack" version="1.1.0.0" required="false" fileHash="3a3d0faadae2e6ed5e34b3a623113721"/>
-    <mod modName="pdlc_vermeerPack" title="Vermeer Pack" version="1.0.1.0" required="false" fileHash="536fa70e7a69d1b5c979743bc848cf68"/>
-    <mod modName="pdlc_eroPack" title="ERO Grapeliner Series 7000" version="1.0.0.0" required="false" fileHash="4fb071c73b67044650ed003f0323462e"/>
-    <mod modName="pdlc_kubotaPack" title="Kubota Pack" version="1.2.0.0" required="false" fileHash="a3c96144c51ba3ebb79aa95c5b647c17"/>
+    <mod modName="FS22_UniversalAutoloadModhubAddon" title="Универсальная Aвтозагрузка ModHub Add-on" version="1.3.0.0" required="false" fileHash="893b0cff4bcf2629cb0a8e7cd983a896"/>
+    <mod modName="FS22_MapObjectsHider" title="Map Objects Hider" version="1.0.2.0" required="false" fileHash="47120092bf2b7720341698ac2e680e60"/>
+    <mod modName="FS22_MX_Pack" title="MX Pack" version="1.1.0.0" required="false" fileHash="863efd53ac64600bcd12313bb3674b7d"/>
+    <mod modName="FS22_precisionFarming" title="Precision Farming DLC" version="1.0.2.1" required="false" fileHash="5359be9ae727974edde9f964b4739661"/>
+    <mod modName="FS22_GrimmePack" title="Grimme Pack" version="1.0.0.1" required="false" fileHash="55bb950650ac774996c788162b772958"/>
     <mod modName="FS22_YagodnoeEXT" title="Село Ягодное Ext" version="1.5.0.0" required="true" fileHash="nil"/>
-    <mod modName="FS22_Courseplay" title="CoursePlay" version="7.4.0.2" required="false" fileHash="0aabddfcd2c4e18e1d7e14b48bac7227"/>
-    <mod modName="pdlc_forestryPack" title="Platinum Expansion" version="1.3.0.0" required="false" fileHash="329e90792fd90c2ca716253d202aa7a4"/>
-    <mod modName="pdlc_horschAgrovation" title="HORSCH AgroVation Pack" version="1.2.0.0" required="false" fileHash="32bbc579a93af4ea866ce59a690e7461"/>
-    <mod modName="pdlc_oxboPack" title="OXBO Pack" version="1.0.0.0" required="false" fileHash="a13d85053dd4e6f813a1cd9dbf571f63"/>
-    <mod modName="pdlc_premiumExpansion" title="Premium Expansion" version="1.1.0.0" required="false" fileHash="a72b2af5d72cfe322e3c36bb027ddc4e"/>
-    <mod modName="pdlc_hayAndForagePack" title="Hay &amp; Forage Pack" version="1.0.0.0" required="false" fileHash="02c05fd4394ca1e6859575dbc4a34345"/>
+    <mod modName="FS22_PerardPack" title="Perard Pack" version="1.1.0.3" required="false" fileHash="fda059ba6308f7ddf49f582bddc6a34b"/>
+    <mod modName="pdlc_vermeerPack" title="Vermeer Pack" version="1.0.1.0" required="false" fileHash="536fa70e7a69d1b5c979743bc848cf68"/>
+    <mod modName="FS22_ValentiniRipper5500" title="Valentini Ripper 5500" version="1.0.5.0" required="false" fileHash="97e69613545894411dd197366a148ef6"/>
+    <mod modName="FS22_FollowMe" title="Follow Me" version="1.3.0.0" required="false" fileHash="ce58863310be46e9312afd3afdaa1aad"/>
+    <mod modName="pdlc_eroPack" title="ERO Grapeliner Series 7000" version="1.0.0.0" required="false" fileHash="4fb071c73b67044650ed003f0323462e"/>
     <mod modName="pdlc_agiPack" title="AGI Pack" version="1.1.0.0" required="false" fileHash="1e34e6da3250471b406a092063173ec0"/>
+    <mod modName="FS22_JohnDeere_712" title="John Deere 712 Mulch Tiller" version="1.0.0.0" required="false" fileHash="222143c9d3adb0ae1def7738833f54f8"/>
+    <mod modName="FS22_maag_Pack" title="Ma/ag Pack" version="1.2.5.0" required="false" fileHash="e6965790003fa676d73c181df2d28d0b"/>
+    <mod modName="FS22_Pack_Autoload" title="Autoload Pack" version="1.0.1.0" required="false" fileHash="df64c6f23ca595e49e6f3ea8056336a8"/>
+    <mod modName="pdlc_hayAndForagePack" title="Hay &amp; Forage Pack" version="1.0.0.0" required="false" fileHash="02c05fd4394ca1e6859575dbc4a34345"/>
+    <mod modName="FS22_HTS_22_79_MultiLandPlus" title="ANNABURGER HTS 22.79 MultiLand Plus" version="1.3.1.2" required="false" fileHash="ea468b1f966e280366d056f2a11cbef2"/>
+    <mod modName="pdlc_forestryPack" title="Platinum Expansion" version="1.3.0.0" required="false" fileHash="329e90792fd90c2ca716253d202aa7a4"/>
+    <mod modName="pdlc_goeweilPack" title="GÖWEIL Pack" version="1.1.0.0" required="false" fileHash="3a3d0faadae2e6ed5e34b3a623113721"/>
+    <mod modName="pdlc_premiumExpansion" title="Premium Expansion" version="1.1.0.0" required="false" fileHash="a72b2af5d72cfe322e3c36bb027ddc4e"/>
+    <mod modName="FS22_PowerTools" title="Power Tools" version="1.3.0.0" required="false" fileHash="5fdb7efb6900b70140e5e1f7dc8225fb"/>
+    <mod modName="FS22_smallSiloSet" title="Small Silo Set With Buying Station" version="1.0.2.0" required="false" fileHash="c0c9fc1aa2b841945ac4e682509d3076"/>
+    <mod modName="FS22_Lizard_Silo_System" title="Silo System Package" version="1.1.0.0" required="false" fileHash="ab3062c37f8d7492b427d72249e856a5"/>
+    <mod modName="FS22_VehicleControlAddon" title="Vehicle Control Addon" version="9.1.3.2" required="false" fileHash="nil"/>
+    <mod modName="FS22_UniversalAutoload" title="Универсальная Автозагрузка" version="1.5.0.0" required="false" fileHash="6732c72168e0564d4ea1f2673f8c66ef"/>
+    <mod modName="FS22_Raisinproductionpack" title="Grape Production Pack" version="2.0.0.1" required="false" fileHash="de99d7f6d572d2d34fdfc53ec17dfb95"/>
+    <mod modName="FS22_siloWood" title="Silos Multi Fruit" version="1.1.0.0" required="false" fileHash="bbb78fb626d30e6f8f95142b69ba4c3c"/>
+    <mod modName="pdlc_kubotaPack" title="Kubota Pack" version="1.2.0.0" required="false" fileHash="a3c96144c51ba3ebb79aa95c5b647c17"/>
+    <mod modName="pdlc_oxboPack" title="OXBO Pack" version="1.0.0.0" required="false" fileHash="a13d85053dd4e6f813a1cd9dbf571f63"/>
+    <mod modName="pdlc_antonioCarraroPack" title="Antonio Carraro Pack" version="1.1.1.0" required="false" fileHash="a80574947b37ccca8cbf015ecca117cf"/>
+    <mod modName="FS22_Multifruit_Buying_Station" title="Multifruit Buying Station" version="1.0.3.1" required="false" fileHash="ad65d5ed578f2a2944155315a1241c76"/>
+    <mod modName="FS22_baleAutoload_TrailerPack" title="Autoload Bale Trailer Pack" version="1.1.0.0" required="false" fileHash="5e964449d2e21ce002202b3624ea248b"/>
+    <mod modName="pdlc_horschAgrovation" title="HORSCH AgroVation Pack" version="1.2.0.0" required="false" fileHash="32bbc579a93af4ea866ce59a690e7461"/>
+    <mod modName="FS22_508L_Torion639" title="CLAAS Torion 639 / Liebherr 508L" version="1.0.0.0" required="false" fileHash="919504f4e48487cc4c370ca85ab6ad82"/>
+    <mod modName="FS22_aPalletAutoLoader" title="Автопогрузка" version="1.12.0.0" required="false" fileHash="cbea8a628f223c918f48b952668f0f9e"/>
+    <mod modName="FS22_Courseplay" title="CoursePlay" version="7.4.0.2" required="false" fileHash="nil"/>
+    <mod modName="FS22_KroegerPWO24_Autoload" title="Kroeger PWO 24 Bale Autoload" version="1.0.0.0" required="false" fileHash="ed1c077415605d72ad798aa6d7fe18bf"/>
     <mod modName="pdlc_claasSaddleTracPack" title="CLAAS XERION SADDLE TRAC Pack" version="1.1.0.0" required="false" fileHash="49bfa385ca90594408a7f75db8783578"/>
+    <mod modName="FS22_MaizePlus" title="MaizePlus" version="1.2.0.0" required="false" fileHash="e9e5d480a48563c60cd97e1f8e6e3607"/>
 </careerSavegame>
