@@ -7,17 +7,19 @@
             <height>1080</height>
             <brightness>1</brightness>
             <fullscreenMode>windowed</fullscreenMode>
-            <vsync adaptive="true">false</vsync>
+            <vsync adaptive="true">true</vsync>
             <userConfirmed>true</userConfirmed>
             <previousWidth>1280</previousWidth>
             <previousHeight>720</previousHeight>
         </display>
         <scalability>
             <performanceClass>High</performanceClass>
-            <viewDistanceCoeff>1.250000</viewDistanceCoeff>
+            <postProcessAA>Off</postProcessAA>
+            <fidelityFxSR20>Balanced</fidelityFxSR20>
+            <sharpness>0.800000</sharpness>
+            <foliageViewDistanceCoeff>1.500000</foliageViewDistanceCoeff>
             <volumeMeshTessellationCoeff>1.000000</volumeMeshTessellationCoeff>
             <anisotropy>8</anisotropy>
-            <postProcessAA>Off</postProcessAA>
             <ssaoQuality>11</ssaoQuality>
         </scalability>
         <renderer>D3D_12</renderer>
@@ -38,5 +40,5 @@
         <controls>false</controls>
         <openDevConsole onWarnings="false" onErrors="false"/>
     </development>
-    <startMode>5</startMode>
+    <startMode>6</startMode>
 </game>

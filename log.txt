@@ -30,7 +30,7 @@ Render System
 Started 3 threads for threadpool 'Render threadpool'
 Hardware Profile
   Level: Custom High
-  View Distance Factor: 1.250000
+  View Distance Factor: 1.100000
   Shadow Quality: 1.000000 Base-Size: 2048 Filter-Size: 16
   Shadow Focus Box: false
   Foliage Shadows: true
@@ -40,7 +40,7 @@ Hardware Profile
   Terrain LOD Distance Factor: 1.500000
   Terrain Quality: 3
   Foliage View Distance Factor: 1.400000
-  Volume Mesh Tessellation Factor: 1.000000
+  Volume Mesh Tessellation Factor: 0.850000
   Tyre Tracks Segments Factor: 2.000000
   Max. Number of Shadow Lights: 3
   Max. Number of Lights: 256
@@ -50,12 +50,12 @@ Hardware Profile
   Post Process AA: Off
   DLSS Quality: Off
   AMD FidelityFx SR Quality: Off
-  AMD FidelityFx SR 2.0 Quality: Off
+  AMD FidelityFx SR 2.0 Quality: Balanced
   Intel XeSS Quality: Off
-  Sharpness: 1.00
+  Sharpness: 0.80
   Recommended Window Size: 1280 x 720px
   Bloom Quality: 4
-  SSAO Quality: 11
+  SSAO Quality: 15
   SSAO Resolution Scaling: 0.500000
   DOF: Enabled
   Half Resolution DOF: Disabled
@@ -96,7 +96,7 @@ Farming Simulator 22 (Steam)
   Version: 1.13.1.0 b27674
   Available Languages: en de jp pl cz fr es ru it pt hu nl cs ct br tr ro kr ea da fi no sv fc
   Language: ru
-  Time: 2024-01-07 02:06:50
+  Time: 2024-01-07 03:00:36
   ModDesc Version: 79
   Mod Directory: D:/Documents/My Games/FarmingSimulator2022/mods/
 Extra Content: Unlocked 'MACK_BLACK_ANTHEM'
@@ -130,20 +130,19 @@ Available dlc: (Hash: 32bbc579a93af4ea866ce59a690e7461) (Version: 1.2.0.0) pdlc_
 Available dlc: (Hash: a3c96144c51ba3ebb79aa95c5b647c17) (Version: 1.2.0.0) pdlc_kubotaPack
 ExtraContent: Unlocked 'KUBOTA'
 Available dlc: (Hash: a13d85053dd4e6f813a1cd9dbf571f63) (Version: 1.0.0.0) pdlc_oxboPack
-dataS/character/humans/player/animations.i3d (314.05 ms)
+dataS/character/humans/player/animations.i3d (371.22 ms)
 Available dlc: (Hash: a72b2af5d72cfe322e3c36bb027ddc4e) (Version: 1.1.0.0) pdlc_premiumExpansion
-dataS/character/humans/player/vehicleCharacterAnimations.i3d (6.89 ms)
+dataS/character/humans/player/vehicleCharacterAnimations.i3d (9.34 ms)
 Available dlc: (Hash: adb7dc9e042517eb87fd0537c17ea4af) (Version: 1.3.0.0) pdlc_pumpsAndHosesPack
 Available dlc: (Hash: 536fa70e7a69d1b5c979743bc848cf68) (Version: 1.0.1.0) pdlc_vermeerPack
 ExtraContent: Unlocked 'VERMEER'
 Available mod: (Hash: aaf9774b334344c00056e322a27a576e) (Version: 1.0.3.0) baleStacking
-dataS/character/humans/npc/animations.i3d (35.87 ms)
+dataS/character/humans/npc/animations.i3d (43.17 ms)
 Available mod: (Hash: 0855fc7ef09b8d4f9b915d2312930ae5) (Version: 1.0.3.0) arena
 Available mod: (Hash: 30831b6bb1401a8eab3a96c08fb5ece0) (Version: 1.0.0.0) FS19_siloWood
 Error: Unsupported mod description version in mod FS19_siloWood
 Available mod: (Hash: 919504f4e48487cc4c370ca85ab6ad82) (Version: 1.0.0.0) FS22_508L_Torion639
 Available mod: (Hash: cbea8a628f223c918f48b952668f0f9e) (Version: 1.12.0.0) FS22_aPalletAutoLoader
-Available mod: (Hash: 57515aa8afedfd87570642ddf7c77c8a) (Version: 1.4.3.0) FS22_A_ProductionRevamp
 Available mod: (Hash: 5e964449d2e21ce002202b3624ea248b) (Version: 1.1.0.0) FS22_baleAutoload_TrailerPack
 Available mod:  (Version: 7.4.0.2) FS22_Courseplay
 Warning: Only zip mods are supported in multiplayer. You need to zip the mod FS22_Courseplay to use it in multiplayer.
@@ -180,1214 +179,288 @@ Warning: Only zip mods are supported in multiplayer. You need to zip the mod FS2
   Warning: Missing l10n 'input_vcaFoldB' in mod 'FS22_VehicleControlAddon'
   Warning: Missing l10n 'input_vcaGearSplitUp' in mod 'FS22_VehicleControlAddon'
   Warning: Missing l10n 'input_vcaGearSplitDown' in mod 'FS22_VehicleControlAddon'
-2024-01-07 02:08   Loaded 'vehicle' specializations
-2024-01-07 02:08   Loaded 'placeable' specializations
-2024-01-07 02:08   Loaded vehicle types
-2024-01-07 02:08   Loaded placeable types
-2024-01-07 02:08   Info:   Loaded construction brush types
-2024-01-07 02:08   Load dlc: pdlc_agiPack
-2024-01-07 02:08   Load dlc: pdlc_antonioCarraroPack
-2024-01-07 02:08   Load dlc: pdlc_claasSaddleTracPack
-2024-01-07 02:08   Load dlc: pdlc_eroPack
-2024-01-07 02:08   Load dlc: pdlc_forestryPack
-2024-01-07 02:08   Load dlc: pdlc_goeweilPack
-2024-01-07 02:08   Load dlc: pdlc_hayAndForagePack
-2024-01-07 02:08   Load dlc: pdlc_horschAgrovation
-2024-01-07 02:08   Load dlc: pdlc_kubotaPack
-2024-01-07 02:08   Load dlc: pdlc_oxboPack
-2024-01-07 02:08   Load dlc: pdlc_premiumExpansion
-2024-01-07 02:08   Load dlc: pdlc_pumpsAndHosesPack
-2024-01-07 02:08   Load dlc: pdlc_vermeerPack
-2024-01-07 02:08   Load mod: FS22_508L_Torion639
-2024-01-07 02:08 ::INFO:: from the AddConfiguration.lua: Set max number of configurations to 4 096
-2024-01-07 02:08   Load mod: FS22_A_ProductionRevamp
-2024-01-07 02:08 Production Revamp: XML-Paths registered
-2024-01-07 02:08 Production Revamp: ProductionPoint Load overwritten
-2024-01-07 02:08 Production Revamp: ProductionPoint delete prepended
-2024-01-07 02:08 Production Revamp: ProductionPoint Update overwritten
-2024-01-07 02:08 Production Revamp: Production Point Load and Save XML overwritten
-2024-01-07 02:08 Production Revamp: Production Point Write/Read Stream Overwritten
-2024-01-07 02:08 Production Revamp: Missionfix - SellingStation overwritten
-2024-01-07 02:08 Production Revamp: Added new statistic for finances
-2024-01-07 02:08 Production Revamp: Loading complete
-2024-01-07 02:08 Production Revamp: Loading Pallet/Bale Spawner complete
-2024-01-07 02:08 Production Revamp: Added functions for buying Inputs in Production Gui
-2024-01-07 02:08 Production Revamp: ProductionPoint Set & Get DistributionMode Overwritten
-2024-01-07 02:08 Production Revamp: ProductionChain Distribution System overwritten
-2024-01-07 02:08 Production Revamp: Added functions for changing and reading Input Priority
-2024-01-07 02:08 Production Revamp: Changed Production(180), Pallet(unlimited) and FillType(512) Limit
-2024-01-07 02:08 Production Revamp: Production Gui overwritten #2
-2024-01-07 02:08 Production Revamp: Production Gui overwritten
-2024-01-07 02:08 Production Revamp: Added extendet functionalities
-2024-01-07 02:08 FS22_A_ProductionRevamp - init SiloObjectFillLevelSpecialization(Version: 0.3.3.1)
-2024-01-07 02:08 FS22_A_ProductionRevamp - init SiloDisplaySpecialization(Version: 1.0.0.0)
-2024-01-07 02:08 FS22_A_ProductionRevamp - init ProductionObjectFillLevelSpecialization(Version: 0.1.1.1)
-2024-01-07 02:08 FS22_A_ProductionRevamp - init ProductionDisplaySpecialization(Version: 1.0.0.0)
-2024-01-07 02:08 FS22_A_ProductionRevamp - init SiloPalletSpawnerSpecialization(Version: 2.4.2.0)
-2024-01-07 02:08   Load mod: FS22_aPalletAutoLoader
-2024-01-07 02:08   Load mod: FS22_baleAutoload_TrailerPack
-2024-01-07 02:08   Load mod: FS22_Courseplay
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_Courseplay/img/signs/normal.i3d (1.50 ms)
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_Courseplay/img/signs/start.i3d (0.60 ms)
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_Courseplay/img/signs/stop.i3d (0.70 ms)
-2024-01-07 02:08   Load mod: FS22_FollowMe
-2024-01-07 02:08   Load mod: FS22_GrimmePack
-2024-01-07 02:08   Load mod: FS22_HTS_22_79_MultiLandPlus
-2024-01-07 02:08   Load mod: FS22_JohnDeere_712
-2024-01-07 02:08   Load mod: FS22_KroegerPWO24_Autoload
-2024-01-07 02:08   Load mod: FS22_Lizard_Silo_System
-2024-01-07 02:08   Load mod: FS22_maag_Pack
-2024-01-07 02:08   Load mod: FS22_MaizePlus
-2024-01-07 02:08   Info: Maize Plus loaded
-2024-01-07 02:08   Load mod: FS22_MapObjectsHider
-2024-01-07 02:08   Load mod: FS22_Multifruit_Buying_Station
-2024-01-07 02:08   Load mod: FS22_MX_Pack
-2024-01-07 02:08   Load mod: FS22_Pack_Autoload
-2024-01-07 02:08   Load mod: FS22_PerardPack
-2024-01-07 02:08   Load mod: FS22_PowerTools
-2024-01-07 02:08 Load mod: Power Tools (v1.3.0.0) by w33zl
-2024-01-07 02:08   Load mod: FS22_precisionFarming
-2024-01-07 02:08   Load mod: FS22_Raisinproductionpack
-2024-01-07 02:08   Load mod: FS22_siloWood
-2024-01-07 02:08   Load mod: FS22_smallSiloSet
-2024-01-07 02:08   Load mod: FS22_StrautmannTeraVitesse5201
-2024-01-07 02:08   Load mod: FS22_The_Old_Stream_Farm
-2024-01-07 02:08   Load mod: FS22_UniversalAutoload
-2024-01-07 02:08   Load mod: FS22_UniversalAutoloadModhubAddon
-2024-01-07 02:08   Load mod: FS22_ValentiniRipper5500
-2024-01-07 02:08   Load mod: FS22_VehicleControlAddon
-2024-01-07 02:08   Info: FS22_FollowMe.followVehicle specialization added to: woodTruck, teleHandler, forwarder, selfPropelledManureBarrel, carFillable, pdlc_agiPack.seedTreater, combineDrivable, pdlc_antonioCarraroPack.tractorReverseDrivingFoldable, FS22_PerardPack.conveyorPipe, pdlc_oxboPack.vineHarvesterExtended, woodCrusherTrailerDrivable, loaderVehicle, pdlc_forestryPack.forwarderExtended, FS22_GrimmePack.motorizedConveyorBelt, woodCrusherDrivable, FS22_508L_Torion639.Torion639, pdlc_forestryPack.selfPropelledFellerBuncher, woodHarvester, selfPropelledSprayer, pdlc_forestryPack.tractorForestry, selfPropelledMower, car, pdlc_premiumExpansion.combineDrivableCutter, pdlc_forestryPack.dumper, pdlc_oxboPack.selfPropelledSprayerExtended, pdlc_oxboPack.vineHarvesterExtendedOverloading, pdlc_forestryPack.forestryExcavatorHarvester, pdlc_forestryPack.forestryExcavatorGrapple, pdlc_forestryPack.forestryExcavator, tractor, balerDrivable, selfPropelledLeveler, tractorReverseDriving, cottonHarvester, conveyorBelt, drivableMixerWagon, combineCutterFruitPreparer, baseDrivable, pdlc_forestryPack.woodHarvesterExtended, vineHarvester, pickupConveyorBelt.
-2024-01-07 02:08   adding vehicleControlAddon to vehicleType 'woodTruck'
-2024-01-07 02:08   adding vehicleControlAddon to vehicleType 'teleHandler'
-2024-01-07 02:08   adding vehicleControlAddon to vehicleType 'forwarder'
-2024-01-07 02:08   adding vehicleControlAddon to vehicleType 'selfPropelledManureBarrel'
-2024-01-07 02:08   adding vehicleControlAddon to vehicleType 'carFillable'
-2024-01-07 02:08   adding vehicleControlAddon to vehicleType 'pdlc_agiPack.seedTreater'
-2024-01-07 02:08   adding vehicleControlAddon to vehicleType 'handToolMower'
-2024-01-07 02:08   adding vehicleControlAddon to vehicleType 'combineDrivable'
-2024-01-07 02:08   adding vehicleControlAddon to vehicleType 'pdlc_antonioCarraroPack.tractorReverseDrivingFoldable'
-2024-01-07 02:08   adding vehicleControlAddon to vehicleType 'FS22_PerardPack.conveyorPipe'
-2024-01-07 02:08   adding vehicleControlAddon to vehicleType 'pdlc_oxboPack.vineHarvesterExtended'
-2024-01-07 02:08   adding vehicleControlAddon to vehicleType 'pdlc_hayAndForagePack.handToolMowerExtended'
-2024-01-07 02:08   adding vehicleControlAddon to vehicleType 'loaderVehicle'
-2024-01-07 02:08   adding vehicleControlAddon to vehicleType 'pdlc_hayAndForagePack.handToolWindrower'
-2024-01-07 02:08   adding vehicleControlAddon to vehicleType 'pdlc_forestryPack.forwarderExtended'
-2024-01-07 02:08   adding vehicleControlAddon to vehicleType 'FS22_GrimmePack.motorizedConveyorBelt'
-2024-01-07 02:08   adding vehicleControlAddon to vehicleType 'woodCrusherDrivable'
-2024-01-07 02:08   adding vehicleControlAddon to vehicleType 'FS22_508L_Torion639.Torion639'
-2024-01-07 02:08   adding vehicleControlAddon to vehicleType 'pdlc_forestryPack.selfPropelledFellerBuncher'
-2024-01-07 02:08   adding vehicleControlAddon to vehicleType 'woodHarvester'
-2024-01-07 02:08   adding vehicleControlAddon to vehicleType 'pdlc_pumpsAndHosesPack.schoutenSelfPropelledTrailerPump'
-2024-01-07 02:08   adding vehicleControlAddon to vehicleType 'selfPropelledSprayer'
-2024-01-07 02:08   adding vehicleControlAddon to vehicleType 'pdlc_forestryPack.tractorForestry'
-2024-01-07 02:08   adding vehicleControlAddon to vehicleType 'selfPropelledMower'
-2024-01-07 02:08   adding vehicleControlAddon to vehicleType 'car'
-2024-01-07 02:08   adding vehicleControlAddon to vehicleType 'pdlc_premiumExpansion.combineDrivableCutter'
-2024-01-07 02:08   adding vehicleControlAddon to vehicleType 'pdlc_forestryPack.dumper'
-2024-01-07 02:08   adding vehicleControlAddon to vehicleType 'pdlc_oxboPack.selfPropelledSprayerExtended'
-2024-01-07 02:08   adding vehicleControlAddon to vehicleType 'pdlc_oxboPack.vineHarvesterExtendedOverloading'
-2024-01-07 02:08   adding vehicleControlAddon to vehicleType 'pdlc_forestryPack.forestryExcavatorHarvester'
-2024-01-07 02:08   adding vehicleControlAddon to vehicleType 'pdlc_forestryPack.forestryExcavatorGrapple'
-2024-01-07 02:08   adding vehicleControlAddon to vehicleType 'pdlc_forestryPack.forestryExcavator'
-2024-01-07 02:08   adding vehicleControlAddon to vehicleType 'tractor'
-2024-01-07 02:08   adding vehicleControlAddon to vehicleType 'balerDrivable'
-2024-01-07 02:08   adding vehicleControlAddon to vehicleType 'selfPropelledLeveler'
-2024-01-07 02:08   adding vehicleControlAddon to vehicleType 'tractorReverseDriving'
-2024-01-07 02:08   adding vehicleControlAddon to vehicleType 'cottonHarvester'
-2024-01-07 02:08   adding vehicleControlAddon to vehicleType 'conveyorBelt'
-2024-01-07 02:08   adding vehicleControlAddon to vehicleType 'drivableMixerWagon'
-2024-01-07 02:08   adding vehicleControlAddon to vehicleType 'combineCutterFruitPreparer'
-2024-01-07 02:08   adding vehicleControlAddon to vehicleType 'baseDrivable'
-2024-01-07 02:08   adding vehicleControlAddon to vehicleType 'pdlc_forestryPack.woodHarvesterExtended'
-2024-01-07 02:08   adding vehicleControlAddon to vehicleType 'vineHarvester'
-2024-01-07 02:08   adding vehicleControlAddon to vehicleType 'inlineWrapper'
-2024-01-07 02:08   adding vehicleControlAddon to vehicleType 'pickupConveyorBelt'
-2024-01-07 02:08   Register configuration 'baseColor'
-2024-01-07 02:08   Register configuration 'design'
-2024-01-07 02:08   Register configuration 'designColor'
-2024-01-07 02:08   Register configuration 'vehicleType'
-2024-01-07 02:08   Register configuration 'design2'
-2024-01-07 02:08   Register configuration 'design3'
-2024-01-07 02:08   Register configuration 'design4'
-2024-01-07 02:08   Register configuration 'design5'
-2024-01-07 02:08   Register configuration 'design6'
-2024-01-07 02:08   Register configuration 'design7'
-2024-01-07 02:08   Register configuration 'design8'
-2024-01-07 02:08   Register configuration 'ai'
-2024-01-07 02:08 data/shared/ai/trafficCollision.i3d (0.46 ms)
-2024-01-07 02:08   Register configuration 'inputAttacherJoint'
-2024-01-07 02:08   Register configuration 'attacherJoint'
-2024-01-07 02:08   Register workAreaType 'BALER'
-2024-01-07 02:08   Register configuration 'wrappingColor'
-2024-01-07 02:08   Register configuration 'wrappingAnimation'
-2024-01-07 02:08   Register configuration 'baseMaterial'
-2024-01-07 02:08   Register configuration 'designMaterial'
-2024-01-07 02:08   Register configuration 'designMaterial2'
-2024-01-07 02:08   Register configuration 'designMaterial3'
-2024-01-07 02:08   Register configuration 'multipleItemPurchaseAmount'
-2024-01-07 02:08   Register workAreaType 'COMBINECHOPPER'
-2024-01-07 02:08   Register workAreaType 'COMBINESWATH'
-2024-01-07 02:08   Register configuration 'cover'
-2024-01-07 02:08   Register workAreaType 'CULTIVATOR'
-2024-01-07 02:08   Register workAreaType 'CUTTER'
-2024-01-07 02:08   Register configuration 'dischargeable'
-2024-01-07 02:08   Register configuration 'fillUnit'
-2024-01-07 02:08   Register configuration 'fillVolume'
-2024-01-07 02:08   Register configuration 'folding'
-2024-01-07 02:08   Register workAreaType 'FORAGEWAGON'
-2024-01-07 02:08   Register configuration 'frontloader'
-2024-01-07 02:08   Register workAreaType 'FRUITPREPARER'
-2024-01-07 02:08   Register configuration 'motor'
-2024-01-07 02:08   Register workAreaType 'MULCHER'
-2024-01-07 02:08   Register workAreaType 'MOWER'
-2024-01-07 02:08   Register configuration 'pipe'
-2024-01-07 02:08   Register configuration 'plow'
-2024-01-07 02:08   Register workAreaType 'PLOW'
-2024-01-07 02:08   Register configuration 'powerConsumer'
-2024-01-07 02:08   Register configuration 'ridgeMarker'
-2024-01-07 02:08   Register workAreaType 'RIDGEMARKER'
-2024-01-07 02:08   Register configuration 'roller'
-2024-01-07 02:08   Register workAreaType 'ROLLER'
-2024-01-07 02:08   Register workAreaType 'SALTSPREADER'
-2024-01-07 02:08   Register workAreaType 'SOWINGMACHINE'
-2024-01-07 02:08   Register workAreaType 'SPRAYER'
-2024-01-07 02:08   Register workAreaType 'STONEPICKER'
-2024-01-07 02:08   Register workAreaType 'STUMPCUTTER'
-2024-01-07 02:08   Register workAreaType 'TEDDER'
-2024-01-07 02:08   Register configuration 'tensionBelts'
-2024-01-07 02:08   Register configuration 'trailer'
-2024-01-07 02:08   Register configuration 'treeSaplingType'
-2024-01-07 02:08   Register configuration 'variableWorkWidth'
-2024-01-07 02:08   Register workAreaType 'WEEDER'
-2024-01-07 02:08   Register configuration 'wheel'
-2024-01-07 02:08   Register configuration 'rimColor'
-2024-01-07 02:08   Register workAreaType 'WINDROWER'
-2024-01-07 02:08   Register workAreaType 'DEFAULT'
-2024-01-07 02:08   Register workAreaType 'AUXILIARY'
-2024-01-07 02:08   Register configuration 'workArea'
-2024-01-07 02:08   Register configuration 'workMode'
-2024-01-07 02:08   Register configuration 'usedComponents'
-2024-01-07 02:08   Register configuration 'treeAutomaticArmControl'
-2024-01-07 02:08   Register configuration 'winch'
-2024-01-07 02:08   Register configuration 'woodContainer'
-2024-01-07 02:08   Register configuration 'enterablePassenger'
-2024-01-07 02:08   Register configuration 'slopeCompensationExtended'
-2024-01-07 02:08   Register workAreaType 'COMBINEHAULMDROP'
-2024-01-07 02:08   Register workAreaType 'RIDGEFORMER'
-2024-01-07 02:08   Register configuration 'umbilicalReel'
-2024-01-07 02:08   Register configuration 'Hersteller'
-2024-01-07 02:08 init aPalletAutoLoader
-2024-01-07 02:08   Register configuration 'aPalletAutoLoader'
-2024-01-07 02:08   Register configuration 'cropSensor'
-2024-01-07 02:08   Register configuration 'manureSensor'
-2024-01-07 02:08   Register configuration 'weedSpotSpray'
-2024-01-07 02:08   Register configuration 'universalAutoload'
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_precisionFarming/vehicles/fritzmeier/isariaProCompact/isariaProCompact.i3d (30.43 ms)
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_precisionFarming/vehicles/johnDeere/manureSensing/manureSensing.i3d (5.47 ms)
-2024-01-07 02:08   Info: Loading ConnectionHoses from 'data/shared/connectionHoses/connectionHoses.xml'
-2024-01-07 02:08   Info: Loading ConnectionHoses from 'C:/Games/Farming Simulator 22/pdlc/forestryPack/shared/connectionHoses/connectionHoses.xml'
-2024-01-07 02:08 data/shared/connectionHoses/hoses.i3d (1.54 ms)
-2024-01-07 02:08 data/shared/connectionHoses/connectors.i3d (4.91 ms)
-2024-01-07 02:08 data/shared/connectionHoses/hoseMaterialHolder.i3d (1.24 ms)
-2024-01-07 02:08 C:/Games/Farming Simulator 22/pdlc/forestryPack/shared/connectionHoses/hoseMaterialHolder.i3d (4.59 ms)
-2024-01-07 02:08   Warning: Unknown FillType 'CRACKEDCORN' in fillTypeCategory 'LOC_GRAINMILL'!
-2024-01-07 02:08   Warning: Unknown FillType 'CORNMEAL' in fillTypeCategory 'LOC_GRAINMILL'!
-2024-01-07 02:08   Warning: Unknown FillType 'CRISPS' in fillTypeCategory 'LOC_PACKING'!
-2024-01-07 02:08   Warning: Unknown FillType 'KETCHUP' in fillTypeCategory 'LOC_PACKING'!
-2024-01-07 02:08   Warning: Unknown FillType 'SALAD' in fillTypeCategory 'LOC_PACKING'!
-2024-01-07 02:08   Warning: Unknown FillType 'SYRUP' in fillTypeCategory 'LOC_PACKING'!
-2024-01-07 02:08   Warning: Unknown FillType 'PELLETS' in fillTypeCategory 'LOC_PACKING'!
-2024-01-07 02:08   Warning: Unknown FillType 'SOYMILK' in fillTypeCategory 'LOC_PACKING'!
-2024-01-07 02:08   Warning: Unknown FillType 'FOOD' in fillTypeCategory 'LOC_PACKING'!
-2024-01-07 02:08   Warning: Unknown FillType 'OBJECT' in fillTypeCategory 'LOC_PACKING'!
-2024-01-07 02:08   Warning: Unknown FillType 'LIQUID' in fillTypeCategory 'LOC_PACKING'!
-2024-01-07 02:08   Warning: Unknown FillType 'REP' in fillTypeCategory 'LOC_PACKING'!
-2024-01-07 02:08   Warning: Unknown FillType 'FRENCHFRIES' in fillTypeCategory 'LOC_FARMPROD'!
-2024-01-07 02:08   Warning: Unknown FillType 'SORTEDPOTATOES' in fillTypeCategory 'LOC_FARMPROD'!
-2024-01-07 02:08   Warning: Unknown FillType 'NOODLES' in fillTypeCategory 'LOC_FARMPROD'!
-2024-01-07 02:08   Warning: Unknown FillType 'TOMATOSAUCE' in fillTypeCategory 'LOC_FARMPROD'!
-2024-01-07 02:08   Warning: Unknown FillType 'MIXSALAD' in fillTypeCategory 'LOC_FARMPROD'!
-2024-01-07 02:08   Warning: Unknown FillType 'OATDRINK' in fillTypeCategory 'LOC_FARMPROD'!
-2024-01-07 02:08   Warning: Unknown FillType 'OATMEAL' in fillTypeCategory 'LOC_FARMPROD'!
-2024-01-07 02:08   Warning: Unknown FillType 'POPCORN' in fillTypeCategory 'LOC_FARMPROD'!
-2024-01-07 02:08   Warning: Unknown FillType 'SOYDRINK' in fillTypeCategory 'LOC_FARMPROD'!
-2024-01-07 02:08   Warning: Unknown FillType 'STRAWBERRYICECREAM' in fillTypeCategory 'LOC_FARMPROD'!
-2024-01-07 02:08   Warning: Unknown FillType 'DONUT_GLAZED' in fillTypeCategory 'LOC_DONUT'!
-2024-01-07 02:08   Warning: Unknown FillType 'DONUT_STRAWBERRY' in fillTypeCategory 'LOC_DONUT'!
-2024-01-07 02:08   Warning: Unknown FillType 'DONUT_CHOCOLATE' in fillTypeCategory 'LOC_DONUT'!
-2024-01-07 02:08   Warning: Unknown FillType 'DONUTS' in fillTypeCategory 'LOC_DONUT'!
-2024-01-07 02:08   Warning: Unknown FillType 'MAPLESYRUP' in fillTypeCategory 'LOC_OTHERS'!
-2024-01-07 02:08   Warning: Unknown FillType 'WASTEPOTATO' in fillTypeCategory 'LOC_SEEDPOTATO'!
-2024-01-07 02:08   Warning: Unknown FillType 'SEEDPOTATO' in fillTypeCategory 'LOC_SEEDPOTATO'!
-2024-01-07 02:08   Warning: Unknown FillType 'PREMIUMPOTATO' in fillTypeCategory 'LOC_SEEDPOTATO'!
-2024-01-07 02:08   Warning: Unknown FillType 'PREMIUMBAGGED' in fillTypeCategory 'LOC_SEEDPOTATO'!
-2024-01-07 02:08   Warning: Unknown FillType 'BAGGEDSEEDPOTATO' in fillTypeCategory 'LOC_SEEDPOTATO'!
-2024-01-07 02:08   Warning: Unknown FillType 'EMPTYPALLET' in fillTypeCategory 'LOC_PAPER'!
-2024-01-07 02:08   Warning: Unknown FillType 'PAPER' in fillTypeCategory 'LOC_PAPER'!
-2024-01-07 02:08   Warning: Unknown FillType 'CARDBOARD' in fillTypeCategory 'LOC_PAPER'!
-2024-01-07 02:08   Warning: Unknown FillType 'OATMILK' in fillTypeCategory 'LOC_PLANTY'!
-2024-01-07 02:08   Warning: Unknown FillType 'SOYACUISINE' in fillTypeCategory 'LOC_PLANTY'!
-2024-01-07 02:08   Warning: Unknown FillType 'SKYR' in fillTypeCategory 'LOC_PLANTY'!
-2024-01-07 02:08   Warning: Unknown FillType 'TOFU' in fillTypeCategory 'LOC_PLANTY'!
-2024-01-07 02:08   Warning: Unknown FillType 'TOFUROSSO' in fillTypeCategory 'LOC_PLANTY'!
-2024-01-07 02:08   Warning: Unknown FillType 'SMOKEDTOFU' in fillTypeCategory 'LOC_PLANTY'!
-2024-01-07 02:08   Warning: Unknown FillType 'BEAMS' in fillTypeCategory 'LOC_BARREL'!
-2024-01-07 02:08   Warning: Unknown FillType 'EMPTYBARREL' in fillTypeCategory 'LOC_BARREL'!
-2024-01-07 02:08   Warning: Unknown FillType 'BARKMULCH' in fillTypeCategory 'LOC_BARREL'!
-2024-01-07 02:08   Warning: Unknown FillType 'CRISPS' in fillTypeCategory 'LOC_REFER'!
-2024-01-07 02:08   Warning: Unknown FillType 'FRENCHFRIES' in fillTypeCategory 'LOC_REFER'!
-2024-01-07 02:08   Warning: Unknown FillType 'KETCHUP' in fillTypeCategory 'LOC_REFER'!
-2024-01-07 02:08   Warning: Unknown FillType 'SALAD' in fillTypeCategory 'LOC_REFER'!
-2024-01-07 02:08   Warning: Unknown FillType 'SYRUP' in fillTypeCategory 'LOC_REFER'!
-2024-01-07 02:08   Warning: Unknown FillType 'MAPLESYRUP' in fillTypeCategory 'LOC_REFER'!
-2024-01-07 02:08   Warning: Unknown FillType 'SOYMILK' in fillTypeCategory 'LOC_REFER'!
-2024-01-07 02:08   Warning: Unknown FillType 'FOOD' in fillTypeCategory 'LOC_REFER'!
-2024-01-07 02:08   Warning: Unknown FillType 'LIQUID' in fillTypeCategory 'LOC_REFER'!
-2024-01-07 02:08   Warning: Unknown FillType 'NOODLES' in fillTypeCategory 'LOC_REFER'!
-2024-01-07 02:08   Warning: Unknown FillType 'TOMATOSAUCE' in fillTypeCategory 'LOC_REFER'!
-2024-01-07 02:08   Warning: Unknown FillType 'MIXSALAD' in fillTypeCategory 'LOC_REFER'!
-2024-01-07 02:08   Warning: Unknown FillType 'SOYDRINK' in fillTypeCategory 'LOC_REFER'!
-2024-01-07 02:08   Warning: Unknown FillType 'STRAWBERRYICECREAM' in fillTypeCategory 'LOC_REFER'!
-2024-01-07 02:08   Warning: Unknown FillType 'DONUT_GLAZED' in fillTypeCategory 'LOC_REFER'!
-2024-01-07 02:08   Warning: Unknown FillType 'DONUT_STRAWBERRY' in fillTypeCategory 'LOC_REFER'!
-2024-01-07 02:08   Warning: Unknown FillType 'DONUT_CHOCOLATE' in fillTypeCategory 'LOC_REFER'!
-2024-01-07 02:08   Warning: Unknown FillType 'DONUTS' in fillTypeCategory 'LOC_REFER'!
-2024-01-07 02:08   Warning: Unknown FillType 'TOFU' in fillTypeCategory 'LOC_REFER'!
-2024-01-07 02:08   Warning: Unknown FillType 'TOFUROSSO' in fillTypeCategory 'LOC_REFER'!
-2024-01-07 02:08   Warning: Unknown FillType 'SMOKEDTOFU' in fillTypeCategory 'LOC_REFER'!
-2024-01-07 02:08   Warning: Unknown FillType 'COFFEE' in fillTypeCategory 'LOC_SA'!
-2024-01-07 02:08   Warning: Unknown FillType 'ROASTED_COFFEE' in fillTypeCategory 'LOC_SA'!
-2024-01-07 02:08   Warning: Unknown FillType 'MINERAL' in fillTypeCategory 'LOC_CORONELLA'!
-2024-01-07 02:08   Warning: Unknown FillType 'ALMOND' in fillTypeCategory 'LOC_CORONELLA'!
-2024-01-07 02:08   Warning: Unknown FillType 'CLEAN_OLIVE' in fillTypeCategory 'LOC_CORONELLA'!
-2024-01-07 02:08   Warning: Unknown FillType 'OLIVES_LEAVES' in fillTypeCategory 'LOC_CORONELLA'!
-2024-01-07 02:08   Warning: Unknown FillType 'COMPOST' in fillTypeCategory 'LOC_CORONELLA'!
-2024-01-07 02:08   Warning: Unknown FillType 'PALLET' in fillTypeCategory 'LOC_CORONELLA'!
-2024-01-07 02:08   Warning: Unknown FillType 'MELON' in fillTypeCategory 'LOC_CORONELLA'!
-2024-01-07 02:08   Warning: Unknown FillType 'SANDIA' in fillTypeCategory 'LOC_CORONELLA'!
-2024-01-07 02:08   Warning: Unknown FillType 'PAPEL' in fillTypeCategory 'LOC_CORONELLA'!
-2024-01-07 02:08   Warning: Unknown FillType 'CARTON' in fillTypeCategory 'LOC_CORONELLA'!
-2024-01-07 02:08   Warning: Unknown FillType 'OIL_SUNFLOWER' in fillTypeCategory 'LOC_CORONELLA'!
-2024-01-07 02:08   Warning: Unknown FillType 'OIL_CANOLA' in fillTypeCategory 'LOC_CORONELLA'!
-2024-01-07 02:08   Warning: Unknown FillType 'OIL_OLIVE' in fillTypeCategory 'LOC_CORONELLA'!
-2024-01-07 02:08   Warning: Unknown FillType 'OIL_ALMOND' in fillTypeCategory 'LOC_CORONELLA'!
-2024-01-07 02:08   Warning: Unknown FillType 'OIL_MAIZE' in fillTypeCategory 'LOC_CORONELLA'!
-2024-01-07 02:08   Warning: Unknown FillType 'BIOGAS' in fillTypeCategory 'LOC_CORONELLA'!
-2024-01-07 02:08   Warning: Unknown FillType 'BOX' in fillTypeCategory 'LOC_CORONELLA'!
-2024-01-07 02:08   Warning: Unknown FillType 'DONUTS' in fillTypeCategory 'LOC_CORONELLA'!
-2024-01-07 02:08   Warning: Unknown FillType 'CEREALCHOCO' in fillTypeCategory 'LOC_CORONELLA'!
-2024-01-07 02:08   Warning: Unknown FillType 'SHEEPCHEESE' in fillTypeCategory 'LOC_CORONELLA'!
-2024-01-07 02:08   Warning: Unknown FillType 'MERMELADAFRESA' in fillTypeCategory 'LOC_CORONELLA'!
-2024-01-07 02:08   Warning: Unknown FillType 'MERMELADATOMATE' in fillTypeCategory 'LOC_CORONELLA'!
-2024-01-07 02:08   Warning: Unknown FillType 'ZUMOTOMATE' in fillTypeCategory 'LOC_CORONELLA'!
-2024-01-07 02:08   Warning: Unknown FillType 'BATIDOFRESA' in fillTypeCategory 'LOC_CORONELLA'!
-2024-01-07 02:08   Warning: Unknown FillType 'BATIDOCHOCOLATE' in fillTypeCategory 'LOC_CORONELLA'!
-2024-01-07 02:08   Warning: Unknown FillType 'BATIDO2' in fillTypeCategory 'LOC_CORONELLA'!
-2024-01-07 02:08   Warning: Unknown FillType 'BUTTEROIL' in fillTypeCategory 'LOC_CORONELLA'!
-2024-01-07 02:08   Warning: Unknown FillType 'PELLETS' in fillTypeCategory 'LOC_CORONELLA'!
-2024-01-07 02:08   Warning: Unknown FillType 'CHIPS' in fillTypeCategory 'LOC_CORONELLA'!
-2024-01-07 02:08   Warning: Unknown FillType 'PIPE' in fillTypeCategory 'LOC_PINEY'!
-2024-01-07 02:08   Warning: Unknown FillType 'STEEL' in fillTypeCategory 'LOC_PINEY'!
-2024-01-07 02:08   Warning: Unknown FillType 'GOLD' in fillTypeCategory 'LOC_PINEY'!
-2024-01-07 02:08   Warning: Unknown FillType 'GOLDBAR' in fillTypeCategory 'LOC_PINEY'!
-2024-01-07 02:08   Warning: Unknown FillType 'CEMENT' in fillTypeCategory 'LOC_PINEY'!
-2024-01-07 02:08   Warning: Unknown FillType 'BRICKS' in fillTypeCategory 'LOC_PINEY'!
-2024-01-07 02:08   Warning: Unknown FillType 'ASPHALTPALLET' in fillTypeCategory 'LOC_PINEY'!
-2024-01-07 02:08 data/objects/roundbales/roundbale125/roundbale125.i3d (5.12 ms)
-2024-01-07 02:08 data/objects/roundbales/roundbale150/roundbale150.i3d (4.98 ms)
-2024-01-07 02:08 data/objects/roundbales/roundbale180/roundbale180.i3d (3.39 ms)
-2024-01-07 02:08 data/objects/squarebales/squarebale240/squarebale240.i3d (6.81 ms)
-2024-01-07 02:08 data/objects/squarebales/squarebale220/squarebale220.i3d (3.74 ms)
-2024-01-07 02:08 data/objects/squarebales/squarebale180/squarebale180.i3d (3.52 ms)
-2024-01-07 02:08 data/objects/squarebales/squarebale120/squarebale120.i3d (4.08 ms)
-2024-01-07 02:08 data/objects/squarebales/squarebale120/packedSquareBale120.i3d (5.78 ms)
-2024-01-07 02:08 data/objects/cottonModules/cottonRoundbale238.i3d (1.13 ms)
-2024-01-07 02:08 data/objects/cottonModules/cottonSquarebale488.i3d (1.37 ms)
-2024-01-07 02:08 data/objects/roundbales/biomass/biomassBale125.i3d (1.78 ms)
-2024-01-07 02:08 data/shared/aiMarker.i3d (0.17 ms)
-2024-01-07 02:08 dataS/character/animals/wild/crow/crow.i3d (8.24 ms)
-2024-01-07 02:08   Info: resetSplitShapes()
-2024-01-07 02:08 data/shared/alphabet/fontMaterialHolder.i3d (35.86 ms)
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_The_Old_Stream_Farm/maps/licensePlates/licensePlatesFR.i3d (3.52 ms)
-2024-01-07 02:08 data/effects/cutter/maize/maize_harvestReadyDry.i3d (19.71 ms)
-2024-01-07 02:08 data/effects/cutter/sunflower/sunflower_harvestReady.i3d (9.95 ms)
-2024-01-07 02:08 data/effects/cutter/maize/maize_harvestReadyGreen.i3d (7.50 ms)
-2024-01-07 02:08 data/effects/cutter/grass/grass_greenBig.i3d (11.66 ms)
-2024-01-07 02:08 data/effects/cutter/grass/grass_harvestReady.i3d (6.98 ms)
-2024-01-07 02:08 data/effects/cutter/sunflower/sunflower_greenBig.i3d (18.27 ms)
-2024-01-07 02:08 data/effects/cutter/wheat/wheat_greenBig.i3d (13.02 ms)
-2024-01-07 02:08 data/effects/cutter/wheat/wheat_harvestReady.i3d (8.57 ms)
-2024-01-07 02:08 data/effects/cutter/barley/barley_greenBig.i3d (11.53 ms)
-2024-01-07 02:08 data/effects/cutter/barley/barley_harvestReady.i3d (10.68 ms)
-2024-01-07 02:08 data/effects/cutter/oat/oat_greenBig.i3d (10.34 ms)
-2024-01-07 02:08 data/effects/cutter/oat/oat_harvestReady.i3d (11.42 ms)
-2024-01-07 02:08 data/effects/cutter/canola/canola_greenBig.i3d (11.68 ms)
-2024-01-07 02:08 data/effects/cutter/canola/canola_harvestReady.i3d (10.81 ms)
-2024-01-07 02:08 data/effects/cutter/soybean/soybean_greenBig.i3d (22.26 ms)
-2024-01-07 02:08 data/effects/cutter/soybean/soybean_harvestReady.i3d (20.42 ms)
-2024-01-07 02:08 data/effects/cutter/sorghum/sorghum_greenBig.i3d (11.55 ms)
-2024-01-07 02:08 data/effects/cutter/sorghum/sorghum_harvestReady.i3d (15.47 ms)
-2024-01-07 02:08 data/effects/cutter/maize/maize_fruits.i3d (3.13 ms)
-2024-01-07 02:08 data/effects/cutter/sunflower/sunflower_fruits.i3d (2.34 ms)
-2024-01-07 02:08 data/effects/cutter/maize/maize_threshing.i3d (1.98 ms)
-2024-01-07 02:08 data/effects/cutter/sunflower/sunflower_threshing.i3d (1.66 ms)
-2024-01-07 02:08 data/effects/fertilizer/fertilizer.i3d (8.80 ms)
-2024-01-07 02:08 data/effects/chopper/strawChopper.i3d (16.33 ms)
-2024-01-07 02:08 data/effects/tedder/tedder.i3d (17.90 ms)
-2024-01-07 02:08 data/effects/windrower/windrower.i3d (19.23 ms)
-2024-01-07 02:08 data/effects/cultivator/cultivator.i3d (22.95 ms)
-2024-01-07 02:08 data/effects/plow/plow.i3d (16.56 ms)
-2024-01-07 02:08 data/effects/pickup/pickupIN.i3d (24.97 ms)
-2024-01-07 02:08 data/effects/pickup/pickupOUT.i3d (5.11 ms)
-2024-01-07 02:08 data/effects/mower/mower.i3d (15.37 ms)
-2024-01-07 02:08 data/effects/mixerWagon/mixerWagon.i3d (7.64 ms)
-2024-01-07 02:08 data/effects/grape/grape_fruitsLeaves.i3d (13.72 ms)
-2024-01-07 02:08 data/effects/grape/grape_fruitsClean.i3d (4.47 ms)
-2024-01-07 02:08 data/effects/grape/grape_fruitsHarvested.i3d (4.01 ms)
-2024-01-07 02:08 data/effects/grape/grape_threshing.i3d (2.38 ms)
-2024-01-07 02:08 data/effects/grape/grape_prePruner.i3d (2.33 ms)
-2024-01-07 02:08 data/effects/olive/olive_fruitsLeaves.i3d (11.59 ms)
-2024-01-07 02:08 data/effects/olive/olive_fruitsClean.i3d (9.48 ms)
-2024-01-07 02:08 data/effects/olive/olive_threshing.i3d (13.29 ms)
-2024-01-07 02:08 data/effects/manure/manure.i3d (14.15 ms)
-2024-01-07 02:08 data/effects/stone/small/stone.i3d (5.39 ms)
-2024-01-07 02:08 data/effects/stone/medium/stone.i3d (2.28 ms)
-2024-01-07 02:08 data/effects/stone/big/stone.i3d (2.28 ms)
-2024-01-07 02:08 data/effects/wood/wood_cutter.i3d (1.73 ms)
-2024-01-07 02:08 data/effects/sugarcane/sugarcane_prepareFruit.i3d (1.86 ms)
-2024-01-07 02:08 data/effects/sugarcane/sugarcane_chopper.i3d (2.94 ms)
-2024-01-07 02:08 data/effects/sugarcane/sugarcane_chaffer.i3d (0.95 ms)
-2024-01-07 02:08 data/effects/sugarcane/sugarcane_cutter.i3d (1.44 ms)
-2024-01-07 02:08 data/effects/snow/snowPieces.i3d (8.37 ms)
-2024-01-07 02:08 data/sky/sky.i3d (0.67 ms)
-2024-01-07 02:08 data/effects/snow/snowDust.i3d (4.07 ms)
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_MaizePlus/data/effects/mixerWagon/mixerWagon.i3d (45.79 ms)
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_MaizePlus/data/effects/mower/mower.i3d (26.83 ms)
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_MaizePlus/data/effects/pickup/pickupIN.i3d (18.92 ms)
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_MaizePlus/data/effects/pickup/pickupOUT.i3d (1.22 ms)
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_MaizePlus/data/effects/tedder/tedder.i3d (6.46 ms)
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_MaizePlus/data/effects/windrower/windrower.i3d (11.79 ms)
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_MaizePlus/data/effects/strawblower/strawChopper.i3d (41.95 ms)
-2024-01-07 02:08 data/effects/topLifting/beetRoot/beetRoot_fruitsLeaves.i3d (8.75 ms)
-2024-01-07 02:08 data/effects/topLifting/beetRoot/beetRoot_fruitsClean.i3d (3.66 ms)
-2024-01-07 02:08 data/effects/topLifting/beetRoot/beetRoot_threshing.i3d (3.57 ms)
-2024-01-07 02:08 data/effects/topLifting/carrot/carrot_fruitsLeaves.i3d (5.77 ms)
-2024-01-07 02:08 data/effects/topLifting/carrot/carrot_fruitsClean.i3d (1.13 ms)
-2024-01-07 02:08 data/effects/topLifting/carrot/carrot_threshing.i3d (7.16 ms)
-2024-01-07 02:08 data/effects/topLifting/parsnip/parsnip_fruitsLeaves.i3d (5.96 ms)
-2024-01-07 02:08 data/effects/topLifting/parsnip/parsnip_fruitsClean.i3d (1.26 ms)
-2024-01-07 02:08 data/effects/topLifting/parsnip/parsnip_threshing.i3d (7.15 ms)
-2024-01-07 02:08 C:/Games/Farming Simulator 22/pdlc/pumpsAndHosesPack/data/shared/hose/hose.i3d (47.02 ms)
-2024-01-07 02:08 C:/Games/Farming Simulator 22/pdlc/pumpsAndHosesPack/data/shared/hose/umbilicalHoses.i3d (28.27 ms)
-2024-01-07 02:08 data/sky/rain.i3d (0.80 ms)
-2024-01-07 02:08 data/sky/snow.i3d (0.55 ms)
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_The_Old_Stream_Farm/maps/map.i3d (2626.18 ms)
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_The_Old_Stream_Farm/maps/sounds.i3d (29.26 ms)
-2024-01-07 02:08 data/foliage/decoFoliage/decoFoliageFR.i3d (31.58 ms)
-2024-01-07 02:08 data/foliage/groundFoliage/groundFoliage.i3d (42.05 ms)
-2024-01-07 02:08 data/foliage/decoBush/decoBush.i3d (19.76 ms)
-2024-01-07 02:08 data/foliage/meadow/meadowFR.i3d (105.85 ms)
-2024-01-07 02:08 data/foliage/grass/grass.i3d (2.82 ms)
-2024-01-07 02:08 data/foliage/wheat/wheat.i3d (17.46 ms)
-2024-01-07 02:08 data/foliage/canola/canola.i3d (8.59 ms)
-2024-01-07 02:08 data/foliage/barley/barley.i3d (16.63 ms)
-2024-01-07 02:08 data/foliage/maize/maize.i3d (27.69 ms)
-2024-01-07 02:08 data/foliage/potato/potato.i3d (17.89 ms)
-2024-01-07 02:08 data/foliage/potato/potatoHaulm.i3d (1.04 ms)
-2024-01-07 02:08 data/foliage/sugarbeet/sugarbeet.i3d (10.02 ms)
-2024-01-07 02:08 data/foliage/sugarbeet/sugarbeetHaulm.i3d (0.79 ms)
-2024-01-07 02:08 data/foliage/sunflower/sunflower.i3d (12.98 ms)
-2024-01-07 02:08 data/foliage/soybean/soybean.i3d (16.08 ms)
-2024-01-07 02:08 data/foliage/oilseedRadish/oilseedRadish.i3d (1.85 ms)
-2024-01-07 02:08 data/foliage/poplar/poplar.i3d (2.83 ms)
-2024-01-07 02:08 data/foliage/oat/oat.i3d (3.36 ms)
-2024-01-07 02:08 data/foliage/sugarcane/sugarcane.i3d (4.79 ms)
-2024-01-07 02:08 data/foliage/sugarcane/sugarCaneHaulm.i3d (0.74 ms)
-2024-01-07 02:08 data/foliage/cotton/cotton.i3d (11.77 ms)
-2024-01-07 02:08 data/foliage/sorghum/sorghum.i3d (15.11 ms)
-2024-01-07 02:08 data/foliage/olive/olive.i3d (6.41 ms)
-2024-01-07 02:08 data/foliage/grape/grape.i3d (0.39 ms)
-2024-01-07 02:08 Info: transform group 'D:/Documents/My Games/FarmingSimulator2022/savegame1/densityMap_fruits.gdm' has elements very far out from the cell edge (56.51% expansion)
-2024-01-07 02:08 data/foliage/weed/weed.i3d (10.10 ms)
-2024-01-07 02:08 data/foliage/stone/stone.i3d (1.69 ms)
-2024-01-07 02:08 FoliageTransformGroup 'D:/Documents/My Games/FarmingSimulator2022/savegame1/densityMap_fruits.gdm' may need space for up to 3849004 instances (1819 per cell x 2116 cells)
-2024-01-07 02:08 FoliageTransformGroup 'D:/Documents/My Games/FarmingSimulator2022/savegame1/densityMap_weed.gdm' may need space for up to 524288 instances (512 per cell x 1024 cells)
-2024-01-07 02:08 FoliageTransformGroup 'D:/Documents/My Games/FarmingSimulator2022/savegame1/densityMap_stones.gdm' may need space for up to 524288 instances (512 per cell x 1024 cells)
-2024-01-07 02:08 :24 [info lp5030] Current mod name: FS22_Courseplay, Current version: 7.4.0.2, last version: 7.4.0.2
-2024-01-07 02:08 :24 [courses lp5030] Created directory at D:/Documents/My Games/FarmingSimulator2022/modSettings/FS22_Courseplay/Courses/FS22_The_Old_Stream_Farm.SampleModMap
-2024-01-07 02:08 :24 [courses lp5030] Created directory at D:/Documents/My Games/FarmingSimulator2022/modSettings/FS22_Courseplay/Courses/FS22_The_Old_Stream_Farm.SampleModMap/Singleplayer
-2024-01-07 02:08 :24 [courses lp5030] Created directory at D:/Documents/My Games/FarmingSimulator2022/modSettings/FS22_Courseplay/CustomFields/FS22_The_Old_Stream_Farm.SampleModMap
-2024-01-07 02:08 :24 [info lp5030] Loading vehicle configuration from D:/Documents/My Games/FarmingSimulator2022/mods/FS22_Courseplay/config/VehicleConfigurations.xml ...
-2024-01-07 02:08 :24 [info lp5030] Registered baleCollectorOffset
-2024-01-07 02:08 :24 [info lp5030] Registered lowerEarly
-2024-01-07 02:08 :24 [info lp5030] Registered loadingShovelOffset
-2024-01-07 02:08 :24 [info lp5030] Registered unloadOffsetX
-2024-01-07 02:08 :24 [info lp5030] Registered turnRadius
-2024-01-07 02:08 :24 [info lp5030] Registered workingWidth
-2024-01-07 02:08 :24 [info lp5030] Registered articulatedAxisReverseNodeInverted
-2024-01-07 02:08 :24 [info lp5030] Registered armMovingToolIx
-2024-01-07 02:08 :24 [info lp5030] Registered movingToolIx
-2024-01-07 02:08 :24 [info lp5030] Registered fixWheelLoaderDirectionNodeByMovingToolIx
-2024-01-07 02:08 :24 [info lp5030] Registered basePipeMovingToolIndex
-2024-01-07 02:08 :24 [info lp5030] Registered useVehicleSizeForMarkers
-2024-01-07 02:08 :24 [info lp5030] Registered shovelMovingToolIx
-2024-01-07 02:08 :24 [info lp5030] Registered ignorePipeMovingToolIndex
-2024-01-07 02:08 :24 [info lp5030] Registered directionNodeOffsetZ
-2024-01-07 02:08 :24 [info lp5030] Registered toolOffsetX
-2024-01-07 02:08 :24 [info lp5030] Registered ignoreBaleCollisionForward
-2024-01-07 02:08 :24 [info lp5030] Registered implementWheelAlwaysOnGround
-2024-01-07 02:08 :24 [info lp5030] Registered balerUnloadDistance
-2024-01-07 02:08 :24 [info lp5030] Registered ignoreCollisionBoxesWhenFolded
-2024-01-07 02:08 :24 [info lp5030] Registered disableUnfolding
-2024-01-07 02:08 :24 [info lp5030] Registered disablePipeMovingToolCorrection
-2024-01-07 02:08 :24 [info lp5030] Registered childPipeMovingToolIndex
-2024-01-07 02:08 :24 [info lp5030] Registered raiseLate
-2024-01-07 02:08 :24 [info lp5030] Registered noReverse
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for braud9070L.xml
-2024-01-07 02:08 :24 [info lp5030] \__ turnRadius = 5.0
-2024-01-07 02:08 :24 [info lp5030] \__ useVehicleSizeForMarkers = true
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for braud9090X.xml
-2024-01-07 02:08 :24 [info lp5030] \__ turnRadius = 5.0
-2024-01-07 02:08 :24 [info lp5030] \__ useVehicleSizeForMarkers = true
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for ventor4150.xml
-2024-01-07 02:08 :24 [info lp5030] \__ lowerEarly = true
-2024-01-07 02:08 :24 [info lp5030] \__ raiseLate = true
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for evo290.xml
-2024-01-07 02:08 :24 [info lp5030] \__ toolOffsetX = -2.1
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for duett7300.xml
-2024-01-07 02:08 :24 [info lp5030] \__ workingWidth = 7.3
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for stego485Pro.xml
-2024-01-07 02:08 :24 [info lp5030] \__ workingWidth = 4.8
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for planter1775NT.xml
-2024-01-07 02:08 :24 [info lp5030] \__ turnRadius = 12.0
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for planter4900.xml
-2024-01-07 02:08 :24 [info lp5030] \__ turnRadius = 12.0
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for pov5xl.xml
-2024-01-07 02:08 :24 [info lp5030] \__ lowerEarly = true
-2024-01-07 02:08 :24 [info lp5030] \__ raiseLate = true
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for rbm2000.xml
-2024-01-07 02:08 :24 [info lp5030] \__ turnRadius = 10.0
-2024-01-07 02:08 :24 [info lp5030] \__ toolOffsetX = -2.7
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for citan15001C.xml
-2024-01-07 02:08 :24 [info lp5030] \__ implementWheelAlwaysOnGround = true
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for fsx6372.xml
-2024-01-07 02:08 :24 [info lp5030] \__ turnRadius = 12.0
-2024-01-07 02:08 :24 [info lp5030] \__ toolOffsetX = -2.4
-2024-01-07 02:08 :24 [info lp5030] \__ balerUnloadDistance = -3.8
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for rootster604.xml
-2024-01-07 02:08 :24 [info lp5030] \__ noReverse = true
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for SE260.xml
-2024-01-07 02:08 :24 [info lp5030] \__ toolOffsetX = -1.8
-2024-01-07 02:08 :24 [info lp5030] \__ noReverse = true
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for keiler2.xml
-2024-01-07 02:08 :24 [info lp5030] \__ toolOffsetX = -2.0
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for nawaRoMaus.xml
-2024-01-07 02:08 :24 [info lp5030] \__ workingWidth = 8.0
-2024-01-07 02:08 :24 [info lp5030] \__ armMovingToolIx = 2.0
-2024-01-07 02:08 :24 [info lp5030] \__ movingToolIx = 1.0
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for maus5.xml
-2024-01-07 02:08 :24 [info lp5030] \__ workingWidth = 10.2
-2024-01-07 02:08 :24 [info lp5030] \__ armMovingToolIx = 2.0
-2024-01-07 02:08 :24 [info lp5030] \__ movingToolIx = 1.0
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for sw4014.xml
-2024-01-07 02:08 :24 [info lp5030] \__ toolOffsetX = -2.5
-2024-01-07 02:08 :24 [info lp5030] \__ noReverse = true
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for kuhnDeltis1302.xml
-2024-01-07 02:08 :24 [info lp5030] \__ ignoreCollisionBoxesWhenFolded = true
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for kuhnMetris4102.xml
-2024-01-07 02:08 :24 [info lp5030] \__ ignoreCollisionBoxesWhenFolded = true
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for poettingerNovaCatX8.xml
-2024-01-07 02:08 :24 [info lp5030] \__ workingWidth = 8.4
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for navigator6000.xml
-2024-01-07 02:08 :24 [info lp5030] \__ ignoreCollisionBoxesWhenFolded = true
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for salford4204.xml
-2024-01-07 02:08 :24 [info lp5030] \__ turnRadius = 3.0
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for salford8312.xml
-2024-01-07 02:08 :24 [info lp5030] \__ turnRadius = 9.0
-2024-01-07 02:08 :24 [info lp5030] \__ noReverse = true
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for titan11.xml
-2024-01-07 02:08 :24 [info lp5030] \__ turnRadius = 7.5
-2024-01-07 02:08 :24 [info lp5030] \__ implementWheelAlwaysOnGround = true
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for titan18.xml
-2024-01-07 02:08 :24 [info lp5030] \__ lowerEarly = true
-2024-01-07 02:08 :24 [info lp5030] \__ turnRadius = 7.5
-2024-01-07 02:08 :24 [info lp5030] \__ implementWheelAlwaysOnGround = true
-2024-01-07 02:08 :24 [info lp5030] \__ raiseLate = true
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for karat12.xml
-2024-01-07 02:08 :24 [info lp5030] \__ lowerEarly = true
-2024-01-07 02:08 :24 [info lp5030] \__ implementWheelAlwaysOnGround = true
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for koralin9840.xml
-2024-01-07 02:08 :24 [info lp5030] \__ implementWheelAlwaysOnGround = true
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for SWT7.xml
-2024-01-07 02:08 :24 [info lp5030] \__ turnRadius = 9.0
-2024-01-07 02:08 :24 [info lp5030] \__ toolOffsetX = -2.2
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for 980AirCart.xml
-2024-01-07 02:08 :24 [info lp5030] \__ noReverse = true
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for xlAirDrill84.xml
-2024-01-07 02:08 :24 [info lp5030] \__ turnRadius = 10.0
-2024-01-07 02:08 :24 [info lp5030] \__ noReverse = true
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for terminator18.xml
-2024-01-07 02:08 :24 [info lp5030] \__ noReverse = true
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for th1400.xml
-2024-01-07 02:08 :24 [info lp5030] \__ noReverse = true
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for st820.xml
-2024-01-07 02:08 :24 [info lp5030] \__ turnRadius = 7.0
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for cultiplowPlatinum8m.xml
-2024-01-07 02:08 :24 [info lp5030] \__ turnRadius = 7.0
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for mp122Ocea.xml
-2024-01-07 02:08 :24 [info lp5030] \__ turnRadius = 5.0
-2024-01-07 02:08 :24 [info lp5030] \__ useVehicleSizeForMarkers = true
-2024-01-07 02:08 :24 [info lp5030] \__ toolOffsetX = -1.2
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for us235.xml
-2024-01-07 02:08 :24 [info lp5030] \__ workingWidth = 24.0
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for z2840.xml
-2024-01-07 02:08 :24 [info lp5030] \__ workingWidth = 8.4
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for steelDropDeck.xml
-2024-01-07 02:08 :24 [info lp5030] \__ disableUnfolding = true
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for dts59.xml
-2024-01-07 02:08 :24 [info lp5030] \__ disableUnfolding = true
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for renownTriAxleBeavertailLowDrop.xml
-2024-01-07 02:08 :24 [info lp5030] \__ disableUnfolding = true
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for imperador3.xml
-2024-01-07 02:08 :24 [info lp5030] \__ ignoreCollisionBoxesWhenFolded = true
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for rubicon9000.xml
-2024-01-07 02:08 :24 [info lp5030] \__ ignoreCollisionBoxesWhenFolded = true
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for torion1914.xml
-2024-01-07 02:08 :24 [info lp5030] \__ turnRadius = 12.0
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for torion1511.xml
-2024-01-07 02:08 :24 [info lp5030] \__ turnRadius = 9.0
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for wheelLoaderShovel.xml
-2024-01-07 02:08 :24 [info lp5030] \__ shovelMovingToolIx = 1.0
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for overtippingBucket.xml
-2024-01-07 02:08 :24 [info lp5030] \__ shovelMovingToolIx = 1.0
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for p3CLProfi.xml
-2024-01-07 02:08 :24 [info lp5030] \__ toolOffsetX = -1.8
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for p3Profi.xml
-2024-01-07 02:08 :24 [info lp5030] \__ ignorePipeMovingToolIndex = 2.0
-2024-01-07 02:08 :24 [info lp5030] \__ toolOffsetX = -1.8
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for gbc.xml
-2024-01-07 02:08 :24 [info lp5030] \__ toolOffsetX = -2.2
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for gkiis.xml
-2024-01-07 02:08 :24 [info lp5030] \__ toolOffsetX = -2.2
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for gcciGii.xml
-2024-01-07 02:08 :24 [info lp5030] \__ toolOffsetX = -1.9
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for zkivSe.xml
-2024-01-07 02:08 :24 [info lp5030] \__ basePipeMovingToolIndex = 1.0
-2024-01-07 02:08 :24 [info lp5030] \__ childPipeMovingToolIndex = 2.0
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for semiLowloader3A.xml
-2024-01-07 02:08 :24 [info lp5030] \__ disableUnfolding = true
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for lowloader4A.xml
-2024-01-07 02:08 :24 [info lp5030] \__ disableUnfolding = true
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for l180HHighTipShovel.xml
-2024-01-07 02:08 :24 [info lp5030] \__ shovelMovingToolIx = 1.0
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for l180H.xml
-2024-01-07 02:08 :24 [info lp5030] \__ turnRadius = 12.0
-2024-01-07 02:08 :24 [info lp5030] \__ articulatedAxisReverseNodeInverted = true
-2024-01-07 02:08 :24 [info lp5030] \__ fixWheelLoaderDirectionNodeByMovingToolIx = 1.0
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for l120HHighTipShovel.xml
-2024-01-07 02:08 :24 [info lp5030] \__ shovelMovingToolIx = 1.0
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for l120H.xml
-2024-01-07 02:08 :24 [info lp5030] \__ turnRadius = 10.0
-2024-01-07 02:08 :24 [info lp5030] \__ articulatedAxisReverseNodeInverted = true
-2024-01-07 02:08 :24 [info lp5030] \__ fixWheelLoaderDirectionNodeByMovingToolIx = 1.0
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for tm1410.xml
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for RB580.xml
-2024-01-07 02:08 :24 [info lp5030] \__ baleCollectorOffset = 1.4
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for iXterB18.xml
-2024-01-07 02:08 :24 [info lp5030] \__ ignoreCollisionBoxesWhenFolded = true
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for iXtrackT4.xml
-2024-01-07 02:08 :24 [info lp5030] \__ ignoreCollisionBoxesWhenFolded = true
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for wrapper7850C.xml
-2024-01-07 02:08 :24 [info lp5030] \__ baleCollectorOffset = 1.6
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for pw10012.xml
-2024-01-07 02:08 :24 [info lp5030] \__ lowerEarly = true
-2024-01-07 02:08 :24 [info lp5030] \__ turnRadius = 7.5
-2024-01-07 02:08 :24 [info lp5030] \__ implementWheelAlwaysOnGround = true
-2024-01-07 02:08 :24 [info lp5030] \__ raiseLate = true
-2024-01-07 02:08 :24 [info lp5030] \__ noReverse = true
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for ecomat.xml
-2024-01-07 02:08 :24 [info lp5030] \__ lowerEarly = true
-2024-01-07 02:08 :24 [info lp5030] \__ raiseLate = true
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for series3320.xml
-2024-01-07 02:08 :24 [info lp5030] \__ noReverse = true
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for series7950b.xml
-2024-01-07 02:08 :24 [info lp5030] \__ noReverse = true
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for series3420.xml
-2024-01-07 02:08 :24 [info lp5030] \__ workingWidth = 30.5
-2024-01-07 02:08 :24 [info lp5030] \__ noReverse = true
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for series71300.xml
-2024-01-07 02:08 :24 [info lp5030] \__ noReverse = true
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for optiJect8.xml
-2024-01-07 02:08 :24 [info lp5030] \__ workingWidth = 6.0
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for leitwolf.xml
-2024-01-07 02:08 :24 [info lp5030] \__ turnRadius = 6.0
-2024-01-07 02:08 :24 [info lp5030] \__ armMovingToolIx = 1.0
-2024-01-07 02:08 :24 [info lp5030] \__ movingToolIx = 2.0
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for ClaasCougar1500.xml
-2024-01-07 02:08 :24 [info lp5030] \__ workingWidth = 15.0
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for Jacto_NPK_5030.xml
-2024-01-07 02:08 :24 [info lp5030] \__ turnRadius = 22.0
-2024-01-07 02:08 :24 [info lp5030] \__ workingWidth = 49.8
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for spsl9.xml
-2024-01-07 02:08 :24 [info lp5030] \__ turnRadius = 7.5
-2024-01-07 02:08 :24 [info lp5030] \__ workingWidth = 10.5
-2024-01-07 02:08 :24 [info lp5030] \__ implementWheelAlwaysOnGround = true
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for vector460.xml
-2024-01-07 02:08 :24 [info lp5030] \__ implementWheelAlwaysOnGround = true
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for vector620.xml
-2024-01-07 02:08 :24 [info lp5030] \__ implementWheelAlwaysOnGround = true
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for ursusT127.xml
-2024-01-07 02:08 :24 [info lp5030] \__ toolOffsetX = -2.4
-2024-01-07 02:08 :24 [info lp5030] \__ balerUnloadDistance = -1.8
-2024-01-07 02:08 :24 [info lp5030] \__ noReverse = true
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for z586.xml
-2024-01-07 02:08 :24 [info lp5030] \__ baleCollectorOffset = 1.3
-2024-01-07 02:08 :24 [info lp5030] \__ toolOffsetX = -2.5
-2024-01-07 02:08 :24 [info lp5030] \__ noReverse = true
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for claasCropSensor.xml
-2024-01-07 02:08 :24 [info lp5030] \__ workingWidth = 18.0
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for bigBud747.xml
-2024-01-07 02:08 :24 [info lp5030] \__ turnRadius = 9.0
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for jcb435s.xml
-2024-01-07 02:08 :24 [info lp5030] \__ directionNodeOffsetZ = -0.7
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for leebPT350.xml
-2024-01-07 02:08 :24 [info lp5030] \__ ignoreCollisionBoxesWhenFolded = true
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for yp2425A.xml
-2024-01-07 02:08 :24 [info lp5030] \__ implementWheelAlwaysOnGround = true
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for balePusher.xml
-2024-01-07 02:08 :24 [info lp5030] \__ ignoreBaleCollisionForward = true
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for EYM_balePusher.xml
-2024-01-07 02:08 :24 [info lp5030] \__ ignoreBaleCollisionForward = true
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for cottonTagTrailer3000.xml
-2024-01-07 02:08 :24 [info lp5030] \__ baleCollectorOffset = 2.7
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for cottonTagTrailer5000.xml
-2024-01-07 02:08 :24 [info lp5030] \__ baleCollectorOffset = 2.7
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for terraFelis3Evo.xml
-2024-01-07 02:08 :24 [info lp5030] \__ workingWidth = 9.7
-2024-01-07 02:08 :24 [info lp5030] \__ armMovingToolIx = 2.0
-2024-01-07 02:08 :24 [info lp5030] \__ movingToolIx = 1.0
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for w190D.xml
-2024-01-07 02:08 :24 [info lp5030] \__ turnRadius = 10.0
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for premos5000.xml
-2024-01-07 02:08 :24 [info lp5030] \__ unloadOffsetX = -3.6
-2024-01-07 02:08 :24 [info lp5030] \__ disablePipeMovingToolCorrection = true
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for HTB6000.xml
-2024-01-07 02:08 :24 [info lp5030] \__ shovelMovingToolIx = 1.0
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for highTipShovel.xml
-2024-01-07 02:08 :24 [info lp5030] \__ shovelMovingToolIx = 1.0
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for bresselUndLadeL67.xml
-2024-01-07 02:08 :24 [info lp5030] \__ shovelMovingToolIx = 1.0
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for bresselUndLadeL71.xml
-2024-01-07 02:08 :24 [info lp5030] \__ shovelMovingToolIx = 1.0
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for bresselUndLadeL71.xml
-2024-01-07 02:08 :24 [info lp5030] \__ shovelMovingToolIx = 1.0
-2024-01-07 02:08 :24 [info lp5030] Reading configuration for xerion_tracvc.xml
-2024-01-07 02:08 :24 [info lp5030] \__ turnRadius = 8.0
-2024-01-07 02:08 :24 [info lp5030] Loading vehicle configuration from D:/Documents/My Games/FarmingSimulator2022/modSettings/FS22_Courseplay/vehicleConfigurations.xml ...
-2024-01-07 02:08 :24 [info lp5030] Vehicle configuration file D:/Documents/My Games/FarmingSimulator2022/modSettings/FS22_Courseplay/vehicleConfigurations.xml does not exist.
-2024-01-07 02:08 :24 [info lp5030] Auto drive found: false
-2024-01-07 02:08   Info: MapObjectsHider:loadMap(D:/Documents/My Games/FarmingSimulator2022/mods/FS22_The_Old_Stream_Farm/maps/map.i3d)
-2024-01-07 02:08   Info: MapObjectsHider - init (Version: 0.3.1.3)
-2024-01-07 02:08   Info: Load soil map 'D:/Documents/My Games/FarmingSimulator2022/savegame1/precisionFarming_soilMap.grle'
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_precisionFarming/shared/sprayerNozzleEffect.i3d (0.16 ms)
-2024-01-07 02:08 ** Forestry Pack is loaded **
-2024-01-07 02:08 IMPORT Universal Autoload global settings
-2024-01-07 02:08   >> Show Debug Display: false
-2024-01-07 02:08   >> Menu High Priority: true
-2024-01-07 02:08   >> Manual Loading Only: false
-2024-01-07 02:08   >> Disable Manual Loading: false
-2024-01-07 02:08   >> Automatic Tension Belts: true
-2024-01-07 02:08   >> Price Per Log: 0
-2024-01-07 02:08   >> Price Per Bale: 0
-2024-01-07 02:08   >> Price Per Pallet: 0
-2024-01-07 02:08   >> Minimum Log Length: 0
-2024-01-07 02:08 IMPORT user vehicle configurations
-2024-01-07 02:08 IMPORT user container configurations
-2024-01-07 02:08 IMPORT supported vehicle configurations
-2024-01-07 02:08   >> data/vehicles/welger/dk115/dk115.xml (2)
-2024-01-07 02:08   >> data/vehicles/brantner/dd24073/dd24073.xml (1)
-2024-01-07 02:08   >> data/vehicles/fliegl/dts59/dts59.xml (ALL)
-2024-01-07 02:08   >> data/vehicles/bremerMaschinenbau/transportwagen/transportwagen.xml (ALL)
-2024-01-07 02:08   >> data/vehicles/demco/steelDropDeck/steelDropDeck.xml (ALL)
-2024-01-07 02:08   >> data/vehicles/lodeKing/renownTriAxleBeavertailLowDrop/renownTriAxleBeavertailLowDrop.xml (ALL)
-2024-01-07 02:08   >> data/vehicles/krone/profiLiner/profiLiner.xml (ALL)
-2024-01-07 02:08   >> data/vehicles/farmtech/dpw1800/dpw1800.xml (ALL)
-2024-01-07 02:08   >> data/vehicles/kroeger/pwo24/pwo24.xml (1)
-2024-01-07 02:08   >> data/vehicles/kroeger/pwo24/pwo24.xml (2)
-2024-01-07 02:08   >> data/vehicles/kroeger/pwo24/pwo24.xml (3)
-2024-01-07 02:08   >> data/vehicles/boeckmann/mhal4320/mhal4320.xml (ALL)
-2024-01-07 02:08   >> data/vehicles/boeckmann/kk301827H/kk301827H.xml (ALL)
-2024-01-07 02:08   >> data/vehicles/salek/ans1900/ans1900.xml (1)
-2024-01-07 02:08   >> data/vehicles/lizard/pickup1986/pickup1986.xml (ALL)
-2024-01-07 02:08   >> data/vehicles/lizard/pickup2017/pickup2017.xml (ALL)
-2024-01-07 02:08   >> data/vehicles/johnDeere/xuv865M/xuv865M.xml (ALL)
-2024-01-07 02:08   >> data/vehicles/mahindra/retriever/retriever.xml (ALL)
-2024-01-07 02:08   >> data/vehicles/train/wagonVehicles/wagonVehicles.xml (ALL)
-2024-01-07 02:08   >> data/vehicles/train/wagonTimber/wagonTimber.xml (ALL)
-2024-01-07 02:08   >> data/vehicles/fliegl/timberRunner/timberRunner.xml (ALL)
-2024-01-07 02:08   >> data/vehicles/andersonGroup/m160/m160.xml (ALL)
-2024-01-07 02:08   >> data/vehicles/kesla/nd122/nd122.xml (ALL)
-2024-01-07 02:08   >> data/vehicles/man/tgx26640/tgx26640.xml (ALL)
-2024-01-07 02:08   >> data/vehicles/rottne/f20D/f20D.xml (ALL)
-2024-01-07 02:08   >> data/vehicles/ponsse/bison/bison.xml (ALL)
-2024-01-07 02:08   >> data/vehicles/komatsu/forwarder875/forwarder875.xml (ALL)
-2024-01-07 02:08   >> kubotaPack/vehicles/kubota/rtvxG850/rtvxg850.xml (ALL)
-2024-01-07 02:08   >> kubotaPack/vehicles/kubota/rtvx1140/rtvx1140.xml (1,3)
-2024-01-07 02:08   >> kubotaPack/vehicles/kubota/rtvx1140/rtvx1140.xml (2)
-2024-01-07 02:08   >> antonioCarraroPack/vehicles/antonioCarraro/tigrecar3200/tigrecar3200.xml (2)
-2024-01-07 02:08   >> hayAndForagePack/vehicles/reform/tipperUnit/tipperUnit.xml (1,2)
-2024-01-07 02:08   >> hayAndForagePack/vehicles/reform/tipperUnit/tipperUnit.xml (3,4)
-2024-01-07 02:08   >> forestryPack/vehicles/train/wagonPlanks/wagonPlanks.xml (ALL)
-2024-01-07 02:08   >> forestryPack/vehicles/train/wagonFlatBed/wagonFlatBed.xml (ALL)
-2024-01-07 02:08   >> forestryPack/vehicles/train/wagonTimber/wagonTimber.xml (ALL)
-2024-01-07 02:08   >> forestryPack/vehicles/volvo/sm462/sm462.xml (ALL)
-2024-01-07 02:08   >> forestryPack/vehicles/schwarzmueller/timberTrailerSemi/timberTrailerSemi.xml (ALL)
-2024-01-07 02:08   >> forestryPack/vehicles/schwarzmueller/timberTrailer/timberTrailer.xml (ALL)
-2024-01-07 02:08   >> forestryPack/vehicles/pfanzelt/rwgP13/rwgP13.xml (1)
-2024-01-07 02:08   >> forestryPack/vehicles/pfanzelt/rwgP13/rwgP13.xml (2)
-2024-01-07 02:08   >> forestryPack/vehicles/schwarzmueller/semiLowloader3A/semiLowloader3A.xml (ALL)
-2024-01-07 02:08   >> forestryPack/vehicles/schwarzmueller/lowloader4A/lowloader4A.xml (ALL)
-2024-01-07 02:08   >> premiumExpansion/vehicles/farmtech/ddk2400/ddk2400.xml (1)
-2024-01-07 02:08   >> premiumExpansion/vehicles/lizard/pickup1984/pickup1984.xml (ALL)
-2024-01-07 02:08   >> premiumExpansion/vehicles/train/wagonTimber/wagonTimber.xml (ALL)
-2024-01-07 02:08   >> premiumExpansion/vehicles/train/wagonVehicles/wagonVehicles.xml (ALL)
-2024-01-07 02:08 IMPORT supported container configurations
-2024-01-07 02:08   >> ALL treeSaplingPallet [1.250, 2.500, 0.850]
-2024-01-07 02:08   >> LOGS splitShape [1.000, 1.000, 1.000]
-2024-01-07 02:08   >> LIQUID_TANK liquidTank [1.433, 1.500, 1.415]
-2024-01-07 02:08   >> BIGBAG_PALLET bigBagPallet [1.525, 1.075, 1.200]
-2024-01-07 02:08   >> BIGBAG bigBag [1.050, 1.666, 0.866]
-2024-01-07 02:08   >> EURO_PALLET lettuceBoxPallet [1.250, 0.790, 0.850]
-2024-01-07 02:08   >> EURO_PALLET tomatoesBoxPallet [1.250, 0.790, 0.850]
-2024-01-07 02:08   >> EURO_PALLET strawberriesBoxPallet [1.250, 0.790, 0.850]
-2024-01-07 02:08   >> EURO_PALLET butterBoxPallet [1.250, 0.790, 0.850]
-2024-01-07 02:08   >> EURO_PALLET chocolateBoxPallet [1.250, 0.790, 0.850]
-2024-01-07 02:08   >> EURO_PALLET furnitureStackPallet [1.250, 0.790, 0.850]
-2024-01-07 02:08   >> EURO_PALLET grapeJuicePallet [1.250, 0.790, 0.850]
-2024-01-07 02:08   >> EURO_PALLET raisinBoxPallet [1.250, 0.790, 0.850]
-2024-01-07 02:08   >> EURO_PALLET grapePallet [1.250, 0.790, 0.850]
-2024-01-07 02:08   >> EURO_PALLET euroPallet [1.250, 0.200, 0.850]
-2024-01-07 02:08   >> EURO_PALLET oliveOilPallet [1.250, 0.450, 0.850]
-2024-01-07 02:08   >> EURO_PALLET canolaOilPallet [1.250, 0.450, 0.850]
-2024-01-07 02:08   >> EURO_PALLET sunflowerOilPallet [1.250, 0.450, 0.850]
-2024-01-07 02:08   >> EURO_PALLET bonsilagePallet [1.250, 0.450, 0.850]
-2024-01-07 02:08   >> EURO_PALLET cakePallet [1.250, 0.475, 0.850]
-2024-01-07 02:08   >> EURO_PALLET eggBoxPallet [1.250, 0.550, 0.850]
-2024-01-07 02:08   >> EURO_PALLET fabricsPallet [1.250, 0.600, 0.850]
-2024-01-07 02:08   >> EURO_PALLET honeyBoxPallet [1.250, 0.650, 0.850]
-2024-01-07 02:08   >> EURO_PALLET boardsStackPallet [1.250, 0.666, 0.850]
-2024-01-07 02:08   >> EURO_PALLET fillablePallet [1.250, 0.800, 0.850]
-2024-01-07 02:08   >> EURO_PALLET bakeryBoxPallet [1.250, 0.920, 0.850]
-2024-01-07 02:08   >> EURO_PALLET cheesePallet [1.250, 1.000, 0.850]
-2024-01-07 02:08   >> EURO_PALLET clothesBoxPallet [1.250, 1.000, 0.850]
-2024-01-07 02:08   >> EURO_PALLET cerealsPallet [1.250, 1.100, 0.850]
-2024-01-07 02:08   >> EURO_PALLET flourBoxPallet [1.250, 1.125, 0.850]
-2024-01-07 02:08   >> EURO_PALLET sugarBoxPallet [1.250, 1.125, 0.850]
-2024-01-07 02:08   >> EURO_PALLET woolPallet [1.250, 1.250, 0.850]
-2024-01-07 02:08   >> EURO_PALLET epsoTop [1.350, 0.600, 1.050]
-2024-01-07 02:08   >> EURO_PALLET patentkali [1.350, 0.855, 1.050]
-2024-01-07 02:08   >> EURO_PALLET pioneerPallet [1.350, 0.833, 1.050]
-2024-01-07 02:08   >> EURO_PALLET schaumannPallet [1.350, 0.770, 1.050]
-2024-01-07 02:08   >> BALE roundbale125 [1.300, 1.200, 1.300]
-2024-01-07 02:08   >> BALE roundbale150 [1.560, 1.200, 1.560]
-2024-01-07 02:08   >> BALE roundbale180 [1.835, 1.200, 1.835]
-2024-01-07 02:08   >> BALE biomassBale125 [1.310, 1.200, 1.310]
-2024-01-07 02:08   >> BALE cottonRoundbale238 [2.380, 2.380, 2.380]
-2024-01-07 02:08   >> BALE squarebale120 [0.455, 0.355, 1.200]
-2024-01-07 02:08   >> BALE squarebale180 [1.210, 0.910, 1.800]
-2024-01-07 02:08   >> BALE squarebale220 [1.210, 0.910, 2.200]
-2024-01-07 02:08   >> BALE squarebale240 [1.210, 0.910, 2.400]
-2024-01-07 02:08   >> BALE packedSquareBale120 [1.210, 0.910, 2.400]
-2024-01-07 02:08   >> BALE cottonSquarebale488 [2.400, 2.400, 4.880]
-2024-01-07 02:08   >> EURO_PALLET pdlc_agiPack:liquidSeedTreatmentPallet [1.250, 0.420, 0.850]
-2024-01-07 02:08   >> EURO_PALLET pdlc_pumpsAndHosesPack:hosePallet [0.950, 1.950, 1.950]
-2024-01-07 02:08   >> EURO_PALLET pdlc_forestryPack:armoirePallet [2.450, 2.450, 1.650]
-2024-01-07 02:08   >> EURO_PALLET pdlc_forestryPack:barrelPallet [1.650, 1.050, 1.250]
-2024-01-07 02:08   >> EURO_PALLET pdlc_forestryPack:bathtubPallet [2.450, 0.700, 0.850]
-2024-01-07 02:08   >> EURO_PALLET pdlc_forestryPack:birdHousePallet [1.250, 0.580, 0.850]
-2024-01-07 02:08   >> EURO_PALLET pdlc_forestryPack:bowlsPallet [1.250, 0.960, 0.850]
-2024-01-07 02:08   >> EURO_PALLET pdlc_forestryPack:bucketPallet [1.250, 0.770, 0.850]
-2024-01-07 02:08   >> EURO_PALLET pdlc_forestryPack:cartonRollPallet [2.470, 1.700, 1.650]
-2024-01-07 02:08   >> EURO_PALLET pdlc_forestryPack:catTreePallet [1.250, 0.980, 0.850]
-2024-01-07 02:08   >> EURO_PALLET pdlc_forestryPack:chairPallet [1.250, 1.280, 0.850]
-2024-01-07 02:08   >> EURO_PALLET pdlc_forestryPack:dogHousePallet [1.250, 1.100, 0.880]
-2024-01-07 02:08   >> EURO_PALLET pdlc_forestryPack:easelPallet [1.250, 0.700, 0.880]
-2024-01-07 02:08   >> EURO_PALLET pdlc_forestryPack:floorTilesPallet [1.250, 0.820, 0.850]
-2024-01-07 02:08   >> EURO_PALLET pdlc_forestryPack:metalPallet [1.250, 0.900, 0.850]
-2024-01-07 02:08   >> EURO_PALLET pdlc_forestryPack:paperRollPallet [2.470, 1.700, 1.650]
-2024-01-07 02:08   >> EURO_PALLET pdlc_forestryPack:pepperGrinderPallet [1.250, 1.000, 0.850]
-2024-01-07 02:08   >> EURO_PALLET pdlc_forestryPack:pictureFramePallet [1.250, 0.500, 0.850]
-2024-01-07 02:08   >> EURO_PALLET pdlc_forestryPack:planksPallet [2.500, 0.780, 0.900]
-2024-01-07 02:08   >> EURO_PALLET pdlc_forestryPack:prefabWallPallet [2.470, 2.650, 1.760]
-2024-01-07 02:08   >> EURO_PALLET pdlc_forestryPack:shingleGenericPallet [1.240, 1.360, 0.850]
-2024-01-07 02:08   >> EURO_PALLET pdlc_forestryPack:staircaseRailingPallet [1.250, 0.850, 0.850]
-2024-01-07 02:08   >> EURO_PALLET pdlc_forestryPack:tablePallet [2.440, 0.580, 0.850]
-2024-01-07 02:08   >> EURO_PALLET pdlc_forestryPack:woodBeamPallet [2.740, 0.940, 0.920]
-2024-01-07 02:08   >> EURO_PALLET pdlc_forestryPack:saplingPalletRisutec [1.250, 0.600, 0.850]
-2024-01-07 02:08   >> BIGBAG_PALLET pdlc_forestryPack:stonePallet [1.525, 1.075, 1.200]
-2024-01-07 02:08   >> SHIPPING_CONTAINER pdlc_forestryPack:shippingContainer [2.440, 2.590, 0.000]
-2024-01-07 02:08   >> EURO_PALLET pdlc_premiumExpansion:soupCansPallet [1.225, 0.755, 0.825]
-2024-01-07 02:08   >> EURO_PALLET pdlc_premiumExpansion:vegetablesPallet [1.650, 1.165, 1.150]
-2024-01-07 02:08   >> EURO_PALLET pdlc_premiumExpansion:potatoChipsPallet [1.225, 0.820, 0.825]
-2024-01-07 02:08   >> EURO_PALLET pdlc_premiumExpansion:preservedFoodCarrotsPallet [1.225, 0.680, 0.825]
-2024-01-07 02:08   >> EURO_PALLET pdlc_premiumExpansion:preservedFoodParsnipPallet [1.225, 0.680, 0.825]
-2024-01-07 02:08   >> EURO_PALLET pdlc_premiumExpansion:preservedFoodBeetRootPallet [1.225, 0.680, 0.825]
-2024-01-07 02:08 ADDITIONAL containers
-2024-01-07 02:08   >> FS22_MaizePlus:liquidTank [1.600, 1.600, 1.600] - LIQUID_TANK
-2024-01-07 02:08   >> FS22_Raisinproductionpack:grapeseedpallet [1.600, 1.100, 1.200] - EURO_PALLET
-2024-01-07 02:08   >> FS22_Raisinproductionpack:grapeseedOilPallet [1.400, 0.500, 1.000] - EURO_PALLET
-2024-01-07 02:08   >> FS22_Raisinproductionpack:grapeMustpallet [1.400, 0.900, 1.000] - EURO_PALLET
-2024-01-07 02:08   >> FS22_Raisinproductionpack:grapeleatherettePallet [1.400, 0.600, 1.000] - EURO_PALLET
-2024-01-07 02:08   >> FS22_Raisinproductionpack:shoesBoxPallet [1.400, 1.100, 1.000] - EURO_PALLET
-2024-01-07 02:08   >> FS22_Raisinproductionpack:recyPOPallet [1.400, 0.900, 1.000] - EURO_PALLET
-2024-01-07 02:08   >> FS22_Raisinproductionpack:beltsBoxPallet [1.400, 1.100, 1.000] - EURO_PALLET
-2024-01-07 02:08   >> FS22_Raisinproductionpack:grapejuicepremiumPallet [1.400, 0.500, 1.000] - EURO_PALLET
-2024-01-07 02:08   >> FS22_Raisinproductionpack:grapejuicebubblePallet [1.400, 0.500, 1.000] - EURO_PALLET
-2024-01-07 02:08 ADDITIONAL bales
-2024-01-07 02:08   >> FS22_MaizePlus:roundbale125 [1.300, 1.200, 1.300] - BALE
-2024-01-07 02:08   >> FS22_MaizePlus:CM_roundbale125 [1.250, 1.200, 1.250] - BALE
-2024-01-07 02:08   >> FS22_MaizePlus:roundbale150 [1.560, 1.200, 1.560] - BALE
-2024-01-07 02:08   >> FS22_MaizePlus:CM_roundbale150 [1.500, 1.200, 1.500] - BALE
-2024-01-07 02:08   >> FS22_MaizePlus:roundbale180 [1.835, 1.200, 1.835] - BALE
-2024-01-07 02:08   >> FS22_MaizePlus:CM_roundbale180 [1.800, 1.200, 1.800] - BALE
-2024-01-07 02:08   >> FS22_MaizePlus:squarebale120 [0.455, 0.355, 1.200] - BALE
-2024-01-07 02:08   >> FS22_MaizePlus:squarebale180 [1.210, 0.910, 1.800] - BALE
-2024-01-07 02:08   >> FS22_MaizePlus:CM_squarebale180 [1.200, 0.900, 1.800] - BALE
-2024-01-07 02:08   >> FS22_MaizePlus:squarebale220 [1.210, 0.910, 2.200] - BALE
-2024-01-07 02:08   >> FS22_MaizePlus:CM_squarebale220 [1.200, 0.900, 2.200] - BALE
-2024-01-07 02:08   >> FS22_MaizePlus:squarebale240 [1.210, 0.910, 2.400] - BALE
-2024-01-07 02:08   >> FS22_MaizePlus:CM_squarebale240 [1.200, 0.900, 2.400] - BALE
-2024-01-07 02:08   >> FS22_MaizePlus:hesston_squarebale180 [1.200, 1.300, 1.800] - BALE
-2024-01-07 02:08   >> FS22_MaizePlus:hesston_squarebale220 [1.200, 1.300, 2.200] - BALE
-2024-01-07 02:08   >> FS22_MaizePlus:hesston_squarebale240 [1.200, 1.300, 2.400] - BALE
-2024-01-07 02:08   >> FS22_MaizePlus:d1000_squarebale180 [0.900, 0.675, 1.800] - BALE
-2024-01-07 02:08   >> FS22_MaizePlus:d1000_squarebale220 [0.900, 0.675, 2.200] - BALE
-2024-01-07 02:08   >> FS22_MaizePlus:d1000_squarebale240 [0.900, 0.675, 2.400] - BALE
-2024-01-07 02:08 ADDITIONAL items
-2024-01-07 02:08   >> FS22_GrimmePack:boxFiller [2.000, 1.500, 1.200] - EURO_PALLET
-2024-01-07 02:08   >> FS22_MaizePlus:buyableBale [1.200, 1.500, 1.500] - ALL
-2024-01-07 02:08   >> FS22_MaizePlus:chickenFood_sack [0.500, 0.150, 0.900] - EURO_PALLET
-2024-01-07 02:08   >> FS22_MaizePlus:chickenFood_pallet [1.400, 0.900, 1.000] - EURO_PALLET
-2024-01-07 02:08   >> FS22_MaizePlus:bigBag [1.250, 1.750, 1.250] - BIGBAG
-2024-01-07 02:08   >> FS22_MaizePlus:feedPellets_sack [0.500, 0.150, 0.900] - EURO_PALLET
-2024-01-07 02:08   >> FS22_MaizePlus:feedPellets_pallet [1.400, 0.900, 1.000] - EURO_PALLET
-2024-01-07 02:08   >> FS22_MaizePlus:grainGrist_sack [0.500, 0.150, 0.900] - EURO_PALLET
-2024-01-07 02:08   >> FS22_MaizePlus:grainGrist_pallet [1.400, 0.900, 1.000] - EURO_PALLET
-2024-01-07 02:08   >> FS22_MaizePlus:horseFood_sack [0.500, 0.150, 0.900] - EURO_PALLET
-2024-01-07 02:08   >> FS22_MaizePlus:horseFood_pallet [1.400, 0.900, 1.000] - EURO_PALLET
-2024-01-07 02:08   >> FS22_MaizePlus:minerals_sack [0.500, 0.150, 0.900] - EURO_PALLET
-2024-01-07 02:08   >> FS22_MaizePlus:minerals_pallet [1.400, 0.900, 1.000] - EURO_PALLET
-2024-01-07 02:08   >> FS22_MaizePlus:pigFood_sack [0.500, 0.150, 0.900] - EURO_PALLET
-2024-01-07 02:08   >> FS22_MaizePlus:pigFood_pallet [1.400, 0.900, 1.000] - EURO_PALLET
-2024-01-07 02:08   >> FS22_MaizePlus:powerFood_sack [0.500, 0.150, 0.900] - EURO_PALLET
-2024-01-07 02:08   >> FS22_MaizePlus:powerFood_pallet [1.400, 0.900, 1.000] - EURO_PALLET
-2024-01-07 02:08   >> FS22_MaizePlus:sheepFood_sack [0.500, 0.150, 0.900] - EURO_PALLET
-2024-01-07 02:08   >> FS22_MaizePlus:sheepFood_pallet [1.400, 0.900, 1.000] - EURO_PALLET
-2024-01-07 02:08   >> FS22_MaizePlus:heucobs_sack [0.500, 0.150, 0.900] - EURO_PALLET
-2024-01-07 02:08   >> FS22_MaizePlus:heucobs_pallet [1.400, 0.900, 1.000] - EURO_PALLET
-2024-01-07 02:08   >> FS22_MaizePlus:DSVseeds_sack [0.500, 0.150, 0.900] - EURO_PALLET
-2024-01-07 02:08   >> FS22_MaizePlus:DSVseeds_pallet [1.400, 0.900, 1.000] - EURO_PALLET
-2024-01-07 02:08   >> FS22_MaizePlus:fillablePallet [1.600, 1.100, 1.200] - EURO_PALLET
-2024-01-07 02:08   >> FS22_MaizePlus:squarebale80_pallet [1.250, 1.750, 1.250] - EURO_PALLET
-2024-01-07 02:08   >> FS22_MaizePlus:squarebale80CG_pallet [1.250, 1.750, 1.250] - EURO_PALLET
-2024-01-07 02:08   >> FS22_MaizePlus:squarebale80CL_pallet [1.250, 1.750, 1.250] - EURO_PALLET
-2024-01-07 02:08   >> FS22_MaizePlus:squarebale80Ng_pallet [1.250, 1.750, 1.250] - EURO_PALLET
-2024-01-07 02:08   >> FS22_MaizePlus:squarebale80_2Ng_pallet [1.250, 1.750, 1.250] - EURO_PALLET
-2024-01-07 02:08   >> FS22_MaizePlus:squarebale120Ng_pallet [1.250, 1.750, 1.250] - EURO_PALLET
-2024-01-07 02:08 USING custom object types
-2024-01-07 02:08   >> FS22_GrimmePack.pallet
-2024-01-07 02:08   >> FS22_MaizePlus.bigBag
-2024-01-07 02:08   >> FS22_MaizePlus.fillablePallet
-2024-01-07 02:08   >> FS22_MaizePlus.multipleItemPurchase
-2024-01-07 02:08   >> FS22_MaizePlus.pallet
-2024-01-07 02:08   >> FS22_Raisinproductionpack.pallet
-2024-01-07 02:08 MODHUB ADDON: IMPORT vehicle configurations
-2024-01-07 02:08   >> FS22_PerardPack/platosol/platosol.xml (ALL)
-2024-01-07 02:08   >> FS22_PerardPack/rpe26/rpe26.xml (ALL)
-2024-01-07 02:08   >> FS22_MaizePlus/data/stadeZW4010/StadeZW4010.xml (ALL)
-2024-01-07 02:08 MODHUB ADDON: IMPORT container configurations
-2024-01-07 02:08 ADDING EXTRA object types
-2024-01-07 02:08   >> FS22_MaizePlus.CCM80_roundbale125
-2024-01-07 02:08   >> BALE FS22_MaizePlus:CCM80_roundbale125 [0.850, 1.150, 0.850]
-2024-01-07 02:08   >> EURO_PALLET FS22_MaizePlus:chickenFood_pallet [1.250, 0.770, 0.900]
-2024-01-07 02:08   >> EURO_PALLET FS22_MaizePlus:feedPellets_pallet [1.250, 0.770, 0.900]
-2024-01-07 02:08   >> EURO_PALLET FS22_MaizePlus:grainGrist_pallet [1.250, 0.770, 0.900]
-2024-01-07 02:08   >> EURO_PALLET FS22_MaizePlus:heucobs_pallet [1.250, 0.770, 0.900]
-2024-01-07 02:08   >> EURO_PALLET FS22_MaizePlus:horseFood_pallet [1.250, 0.770, 0.900]
-2024-01-07 02:08   >> EURO_PALLET FS22_MaizePlus:minerals_pallet [1.250, 0.770, 0.900]
-2024-01-07 02:08   >> EURO_PALLET FS22_MaizePlus:pigFood_pallet [1.250, 0.770, 0.900]
-2024-01-07 02:08   >> EURO_PALLET FS22_MaizePlus:powerFood_pallet [1.250, 0.770, 0.900]
-2024-01-07 02:08   >> EURO_PALLET FS22_MaizePlus:sheepFood_pallet [1.250, 0.770, 0.900]
-2024-01-07 02:08   >> EURO_PALLET FS22_MaizePlus:DSVseeds_pallet [1.250, 0.770, 0.900]
-2024-01-07 02:08   >> ALL FS22_MaizePlus:chickenFood_sack [0.400, 0.130, 0.800]
-2024-01-07 02:08   >> ALL FS22_MaizePlus:feedPellets_sack [0.400, 0.130, 0.800]
-2024-01-07 02:08   >> ALL FS22_MaizePlus:grainGrist_sack [0.400, 0.130, 0.800]
-2024-01-07 02:08   >> ALL FS22_MaizePlus:heucobs_sack [0.400, 0.130, 0.800]
-2024-01-07 02:08   >> ALL FS22_MaizePlus:horseFood_sack [0.400, 0.130, 0.800]
-2024-01-07 02:08   >> ALL FS22_MaizePlus:minerals_sack [0.400, 0.130, 0.800]
-2024-01-07 02:08   >> ALL FS22_MaizePlus:pigFood_sack [0.400, 0.130, 0.800]
-2024-01-07 02:08   >> ALL FS22_MaizePlus:powerFood_sack [0.400, 0.130, 0.800]
-2024-01-07 02:08   >> ALL FS22_MaizePlus:sheepFood_sack [0.400, 0.130, 0.800]
-2024-01-07 02:08   >> ALL FS22_MaizePlus:DSVseeds_sack [0.400, 0.130, 0.800]
-2024-01-07 02:08   >> BIGBAG FS22_MaizePlus:bigBag [1.050, 1.666, 0.866]
-2024-01-07 02:08   >> LIQUID_TANK FS22_MaizePlus:liquidTank [1.433, 1.500, 1.415]
-2024-01-07 02:08   >> EURO_PALLET FS22_MaizePlus:fillablePallet [1.250, 0.790, 0.850]
-2024-01-07 02:08   >> EURO_PALLET FS22_MaizePlus:squarebale80_pallet [1.250, 1.900, 0.850]
-2024-01-07 02:08   >> EURO_PALLET FS22_MaizePlus:squarebale80CG_pallet [1.250, 1.900, 0.850]
-2024-01-07 02:08   >> EURO_PALLET FS22_MaizePlus:squarebale80CL_pallet [1.250, 1.900, 0.850]
-2024-01-07 02:08   >> EURO_PALLET FS22_MaizePlus:squarebale80Ng_pallet [1.250, 1.900, 0.850]
-2024-01-07 02:08   >> EURO_PALLET FS22_MaizePlus:squarebale80_2Ng_pallet [1.250, 1.800, 0.850]
-2024-01-07 02:08   >> EURO_PALLET FS22_MaizePlus:squarebale120Ng_pallet [1.250, 2.450, 1.250]
-2024-01-07 02:08 Loading additional fruit type 'beetRoot' from 'data/foliage/beetRoot/beetRoot.xml'
-2024-01-07 02:08 data/foliage/beetRoot/beetRoot.i3d (13.37 ms)
-2024-01-07 02:08 Warning (performance): Foliage lod 1 mesh 'beetRoot' 'dead' 'd1' is much larger than lod 0 mesh (min/maxY (-0.036/0.139 vs -0.031/0.115).
-2024-01-07 02:08 Warning (performance): Foliage lod 1 mesh 'beetRoot' 'dead' 'd2' is much larger than lod 0 mesh (min/maxY (-0.070/0.124 vs -0.022/0.101).
-2024-01-07 02:08 Warning (performance): Foliage lod 1 mesh 'beetRoot' 'dead' 'd3' is much larger than lod 0 mesh (min/maxY (-0.071/0.130 vs -0.023/0.109).
-2024-01-07 02:08 Warning (performance): Foliage lod 1 mesh 'beetRoot' 'dead' 'd1_x_inv' is much larger than lod 0 mesh (min/maxY (-0.036/0.139 vs -0.031/0.115).
-2024-01-07 02:08 Warning (performance): Foliage lod 1 mesh 'beetRoot' 'dead' 'd2_x_inv' is much larger than lod 0 mesh (min/maxY (-0.070/0.124 vs -0.022/0.101).
-2024-01-07 02:08 Warning (performance): Foliage lod 1 mesh 'beetRoot' 'dead' 'd3_x_inv' is much larger than lod 0 mesh (min/maxY (-0.071/0.130 vs -0.023/0.109).
-2024-01-07 02:08 Warning (performance): Foliage lod 1 mesh 'beetRoot' 'cut haulm' 'ch3' is much larger than lod 0 mesh (min/maxY (-0.031/0.081 vs -0.043/0.064).
-2024-01-07 02:08 Warning (performance): Foliage lod 1 mesh 'beetRoot' 'cut haulm' 'ch3_x_inv' is much larger than lod 0 mesh (min/maxY (-0.031/0.081 vs -0.043/0.064).
-2024-01-07 02:08 data/foliage/beetRoot/beetRootHaulm.i3d (1.02 ms)
-2024-01-07 02:08 FoliageTransformGroup 'D:/Documents/My Games/FarmingSimulator2022/savegame1/densityMap_fruits.gdm' may need space for up to 3849004 instances (1819 per cell x 2116 cells)
-2024-01-07 02:08 Loading additional fruit type 'carrot' from 'data/foliage/carrot/carrot.xml'
-2024-01-07 02:08 data/foliage/carrot/carrot.i3d (12.64 ms)
-2024-01-07 02:08 data/foliage/carrot/carrotHaulm.i3d (1.01 ms)
-2024-01-07 02:08 FoliageTransformGroup 'D:/Documents/My Games/FarmingSimulator2022/savegame1/densityMap_fruits.gdm' may need space for up to 3849004 instances (1819 per cell x 2116 cells)
-2024-01-07 02:08 Loading additional fruit type 'parsnip' from 'data/foliage/parsnip/parsnip.xml'
-2024-01-07 02:08 data/foliage/parsnip/parsnip.i3d (80.25 ms)
-2024-01-07 02:08 data/foliage/parsnip/parsnipHaulm.i3d (6.74 ms)
-2024-01-07 02:08 FoliageTransformGroup 'D:/Documents/My Games/FarmingSimulator2022/savegame1/densityMap_fruits.gdm' may need space for up to 3849004 instances (1819 per cell x 2116 cells)
-2024-01-07 02:08   Info: Loaded navigation cost map from savegame
-2024-01-07 02:08 --- loading Vehicle Control Addon b132 by mogli ---
-2024-01-07 02:08 Info (VCA): text vcaSPLITGEARS is not translated yet. Using English text.
-2024-01-07 02:08 Info (VCA): text vcaSPLITGEARRATIO is not translated yet. Using English text.
-2024-01-07 02:08 Info (VCA): text vcaGEARTIME is not translated yet. Using English text.
-2024-01-07 02:08 Info (VCA): text vcaGRPTIME is not translated yet. Using English text.
-2024-01-07 02:08 Info (VCA): text vcaINPUTBINDING is not translated yet. Using English text.
-2024-01-07 02:08 Info (VCA): text vca_tip_SPLITGEARS is not translated yet. Using English text.
-2024-01-07 02:08 Info (VCA): text vca_tip_SPLITGEARRATIO is not translated yet. Using English text.
-2024-01-07 02:08 Info (VCA): text vca_tip_GEARTIME is not translated yet. Using English text.
-2024-01-07 02:08 Info (VCA): text vca_tip_GRPTIME is not translated yet. Using English text.
-2024-01-07 02:08 Info (VCA): text vca_tip_INPUTBINDING is not translated yet. Using English text.
-2024-01-07 02:08 Info (VCA): text input_vcaSNAPPATH is not translated yet. Using English text.
-2024-01-07 02:08 Info (VCA): text input_vcaSNAP_A_B is not translated yet. Using English text.
-2024-01-07 02:08 Info (VCA): text input_vcaFoldF is not translated yet. Using English text.
-2024-01-07 02:08 Info (VCA): text input_vcaFoldB is not translated yet. Using English text.
-2024-01-07 02:08 Info (VCA): text input_vcaGearSplitUp is not translated yet. Using English text.
-2024-01-07 02:08 Info (VCA): text input_vcaGearSplitDown is not translated yet. Using English text.
-2024-01-07 02:08 Info (VCA): text vcaSnapSetA is not translated yet. Using English text.
-2024-01-07 02:08 Info (VCA): text vcaSnapSetB is not translated yet. Using English text.
-2024-01-07 02:08 Info (VCA): text vcaTitleGears is not translated yet. Using English text.
-2024-01-07 02:08 Info (VCA): text vcaHelpThrottle_4 is not translated yet. Using English text.
-2024-01-07 02:08 data/effects/cultivator/particle/soilParticle.i3d (5.11 ms)
-2024-01-07 02:08 data/effects/cultivator/cultivatorMeshes_materialHolder.i3d (1.03 ms)
-2024-01-07 02:08 data/effects/slurry/slurryEffects_materialHolder.i3d (2.16 ms)
-2024-01-07 02:08 data/effects/unload/unloadMeshes_materialHolder.i3d (8.32 ms)
-2024-01-07 02:08 data/effects/unload/unloadParticles_materialHolder.i3d (0.73 ms)
-2024-01-07 02:08 data/effects/unload/unloadParticles.i3d (0.23 ms)
-2024-01-07 02:08 data/effects/smoke/smokeParticles.i3d (0.20 ms)
-2024-01-07 02:08 data/effects/smoke/smokeParticles_materialHolder.i3d (0.17 ms)
-2024-01-07 02:08 data/effects/smoke/industrial/smokeParticles.i3d (1.79 ms)
-2024-01-07 02:08 data/effects/wheel/wheelParticles.i3d (1.26 ms)
-2024-01-07 02:08 data/effects/bees/beesParticles.i3d (0.55 ms)
-2024-01-07 02:08 data/effects/horse/horseStepParticleSystem.i3d (0.41 ms)
-2024-01-07 02:08 data/effects/sprayer/particle/washer.i3d (0.51 ms)
-2024-01-07 02:08 data/effects/sprayer/sprayerMeshes_materialHolder.i3d (1.49 ms)
-2024-01-07 02:08 data/effects/leveler/levelerMeshes_materialHolder.i3d (0.77 ms)
-2024-01-07 02:08 data/effects/wood/particle/forestry.i3d (2.18 ms)
-2024-01-07 02:08 data/effects/belt/beltMeshes_materialHolder.i3d (5.23 ms)
-2024-01-07 02:08 data/effects/potato/particle/potato.i3d (2.24 ms)
-2024-01-07 02:08 data/effects/sugarBeet/particle/sugarBeet.i3d (0.67 ms)
-2024-01-07 02:08 data/effects/cotton/particle/cotton.i3d (1.33 ms)
-2024-01-07 02:08 data/shared/materialHolders/tensionBeltMaterialHolder.i3d (2.94 ms)
-2024-01-07 02:08 data/shared/materialHolders/tireTrackMaterialHolder.i3d (1.28 ms)
-2024-01-07 02:08 data/shared/mapTargetMarker.i3d (0.33 ms)
-2024-01-07 02:08 data/fillPlanes/fillPlane_materialHolder.i3d (0.71 ms)
-2024-01-07 02:08 C:/Games/Farming Simulator 22/pdlc/forestryPack/effects/hydraulicHammer/particle/debris.i3d (1.86 ms)
-2024-01-07 02:08 C:/Games/Farming Simulator 22/pdlc/forestryPack/effects/hydraulicHammer/particle/smoke.i3d (33.86 ms)
-2024-01-07 02:08 C:/Games/Farming Simulator 22/pdlc/forestryPack/effects/sprayCan/particle/sprayCan.i3d (0.14 ms)
-2024-01-07 02:08 C:/Games/Farming Simulator 22/pdlc/forestryPack/effects/sprayCan/sprayCan_materialHolder.i3d (4.81 ms)
-2024-01-07 02:08 C:/Games/Farming Simulator 22/pdlc/forestryPack/effects/unload/particle/ironOre/unloadIronOre.i3d (13.40 ms)
-2024-01-07 02:08 C:/Games/Farming Simulator 22/pdlc/forestryPack/shared/ropes/tensionBeltMaterialHolder.i3d (3.71 ms)
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_The_Old_Stream_Farm/maps/placeables/trainSystem/trainSystem.i3d (16.33 ms)
-2024-01-07 02:08 data/store/ui/shop.i3d (10.37 ms)
-2024-01-07 02:08 dataS/menu/licensePlate/creationBox.i3d (1.01 ms)
-2024-01-07 02:08 data/store/ui/wardrobe.i3d (11.46 ms)
-2024-01-07 02:08 data/shared/assets/marker/markerIcons.i3d (0.43 ms)
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_The_Old_Stream_Farm/maps/placeables/railroadSilo02/railroadSilo02.i3d (2.68 ms)
-2024-01-07 02:08 data/placeables/mapFR/sellingStationTrain/sellingStationTrain.i3d (0.64 ms)
-2024-01-07 02:08 data/placeables/mapFR/sellingStationWoodTrain/sellingStationWoodTrain.i3d (1.79 ms)
-2024-01-07 02:08 data/placeables/lizard/weighingStation/weighingStationSmall/weighingStationSmall.i3d (16.87 ms)
-2024-01-07 02:08 data/shared/assets/lights/terraLed/spotlight20W.i3d (7.70 ms)
-2024-01-07 02:08 data/shared/assets/lights/terraLed/fluorescentTube50W.i3d (1.28 ms)
-2024-01-07 02:08 data/placeables/mapAlpine/bunkerSiloBGA/bunkerSiloBGA.i3d (2.29 ms)
-2024-01-07 02:08 data/placeables/lizard/sellingPoints/debrisCrusher/debrisCrusher.i3d (13.37 ms)
-2024-01-07 02:08 data/placeables/lizard/limeStation/limeStation.i3d (11.74 ms)
-2024-01-07 02:08 data/placeables/planET/bga250kw/bga250kw.i3d (42.10 ms)
-2024-01-07 02:08 data/placeables/rudolfHormann/garageSmall/garageSmall.i3d (41.19 ms)
-2024-01-07 02:08 data/placeables/rudolfHormann/garageSmall/garageSmallGate_animation.i3d (5.20 ms)
-2024-01-07 02:08 data/shared/assets/lights/rudolfHormann/powerSwitch.i3d (2.11 ms)
-2024-01-07 02:08 data/shared/assets/lights/rudolfHormann/light150.i3d (10.88 ms)
-2024-01-07 02:08 data/placeables/mapFR/gasStation/gasStation.i3d (1.21 ms)
-2024-01-07 02:08 data/placeables/mapFR/sellingStationVehicles/sellingStationVehicles.i3d (1.39 ms)
-2024-01-07 02:08 data/placeables/mapFR/sellingStationWood/sellingStationWood.i3d (1.58 ms)
-2024-01-07 02:08 data/placeables/mapFR/sellingStationGrainElevator/sellingStationGrainElevator.i3d (1.57 ms)
-2024-01-07 02:08 data/placeables/lizard/sellingPoints/farmersMarket/farmersMarket.i3d (21.37 ms)
-2024-01-07 02:08 data/placeables/lizard/sellingPoints/farmersMarket/props.i3d (12.28 ms)
-2024-01-07 02:08 data/shared/assets/lights/lizard/buildings/industrialWallLight.i3d (1.14 ms)
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_The_Old_Stream_Farm/maps/placeables/sellingStationCheeseDairy/sellingStationCheeseDairy.i3d (0.46 ms)
-2024-01-07 02:08 data/placeables/mapFR/sellingStationBales/sellingStationBales.i3d (1.43 ms)
-2024-01-07 02:08 data/placeables/lizard/sellingPoints/bhp/bhp.i3d (25.72 ms)
-2024-01-07 02:08 data/placeables/lizard/sellingPoints/restaurant/restaurant.i3d (38.05 ms)
-2024-01-07 02:08 data/placeables/lizard/sellingPoints/restaurant/props.i3d (15.12 ms)
-2024-01-07 02:08 data/placeables/lizard/productionPoints/bakeryEU/bakeryEU.i3d (32.04 ms)
-2024-01-07 02:08 data/placeables/lizard/productionPoints/bakeryEU/props.i3d (8.72 ms)
-2024-01-07 02:08 data/placeables/lizard/productionPoints/carpenterEU/carpenterEU.i3d (17.97 ms)
-2024-01-07 02:08 data/placeables/lizard/productionPoints/carpenterEU/props.i3d (14.60 ms)
-2024-01-07 02:08 data/placeables/lizard/productionPoints/grainMill/grainMill.i3d (23.68 ms)
-2024-01-07 02:08 data/placeables/sellingStationGeneric/sellingStationGeneric.i3d (12.49 ms)
-2024-01-07 02:08 data/placeables/lizard/productionPoints/grainMill/props.i3d (16.04 ms)
-2024-01-07 02:08 data/placeables/lizard/productionPoints/raisinFactory/raisinFactory.i3d (23.32 ms)
-2024-01-07 02:08 data/placeables/lizard/productionPoints/raisinFactory/props.i3d (4.06 ms)
-2024-01-07 02:08 data/placeables/lizard/productionPoints/spinneryEU/spinneryEU.i3d (21.86 ms)
-2024-01-07 02:08 data/placeables/lizard/productionPoints/spinneryEU/props.i3d (3.06 ms)
-2024-01-07 02:08 data/placeables/lizard/productionPoints/tailorShop/tailorShop.i3d (22.41 ms)
-2024-01-07 02:08 data/placeables/lizard/productionPoints/tailorShop/props.i3d (2.42 ms)
-2024-01-07 02:08 data/placeables/lizard/productionPoints/sugarMill/sugarMill.i3d (17.28 ms)
-2024-01-07 02:08 data/placeables/lizard/productionPoints/sugarMill/props.i3d (4.01 ms)
-2024-01-07 02:08 data/placeables/lizard/electricityGenerators/level05/electricityGenerator05.i3d (8.68 ms)
-2024-01-07 02:08 data/placeables/lizard/fencesFarm/level03/fencesFarmLevel03.i3d (11.82 ms)
-2024-01-07 02:08 data/placeables/lizard/fencesFarm/level01/fencesFarmLevel01.i3d (8.77 ms)
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_The_Old_Stream_Farm/maps/placeables/horseBarnMedium/horseBarnMedium.i3d (20.53 ms)
-2024-01-07 02:08 data/shared/assets/lights/terraLed/switch.i3d (11.12 ms)
-2024-01-07 02:08 data/shared/assets/lights/terraLed/light150W.i3d (0.36 ms)
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_The_Old_Stream_Farm/maps/placeables/horseBarnMedium/navigationMesh.i3d (0.27 ms)
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_The_Old_Stream_Farm/maps/placeables/cowBarnMedium/cowBarnMedium.i3d (51.93 ms)
-2024-01-07 02:08 data/placeables/rudolfHormann/controlPanel/controlPanel.i3d (11.01 ms)
-2024-01-07 02:08 data/placeables/lely/nautilus/nautilus.i3d (14.02 ms)
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_The_Old_Stream_Farm/maps/placeables/cowBarnMedium/navigationMesh.i3d (0.32 ms)
-2024-01-07 02:08 data/placeables/lely/astronautA5/astronautA5.i3d (6.01 ms)
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_The_Old_Stream_Farm/maps/placeables/pigBarnMedium/pigBarnMedium.i3d (13.80 ms)
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_The_Old_Stream_Farm/maps/placeables/pigBarnMedium/navigationMesh.i3d (0.35 ms)
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_The_Old_Stream_Farm/maps/placeables/Old_Manure_Heap/Old_Manure_Heap_Small3.i3d (2.00 ms)
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_The_Old_Stream_Farm/maps/placeables/Old_Manure_Heap/Old_Manure_Heap_In.i3d (1.28 ms)
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_The_Old_Stream_Farm/maps/placeables/Old_Manure_Heap/Old_Manure_Heap_In02.i3d (0.37 ms)
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_The_Old_Stream_Farm/maps/placeables/Old_Manure_Heap/Old_Manure_Heap_In03.i3d (0.42 ms)
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_The_Old_Stream_Farm/maps/placeables/Old_grain.i3d (32.33 ms)
-2024-01-07 02:08 data/placeables/sellingStationGeneric/sellingStationGenericNoCover.i3d (4.41 ms)
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_The_Old_Stream_Farm/maps/placeables/StrawBarn/Building01.i3d (6.85 ms)
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_The_Old_Stream_Farm/maps/placeables/StrawBarn/StrawBarn01.i3d (15.79 ms)
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_The_Old_Stream_Farm/maps/placeables/StrawBarn/StrawBarn02.i3d (6.02 ms)
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_The_Old_Stream_Farm/maps/placeables/bunkerSiloBGA/bunkerSiloBGA.i3d (0.83 ms)
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_The_Old_Stream_Farm/maps/placeables/Animated.i3d (5.64 ms)
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_The_Old_Stream_Farm/maps/placeables/farmBuildings/farmBuilding.i3d (39.84 ms)
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_The_Old_Stream_Farm/maps/placeables/farmBuildings/farmExteriorProps.i3d (69.60 ms)
-2024-01-07 02:08 data/shared/assets/lights/lizard/buildings/garageCeilingLamp.i3d (5.78 ms)
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_The_Old_Stream_Farm/maps/placeables/sheepBarnBig/sheepBarnBig.i3d (4.76 ms)
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_The_Old_Stream_Farm/maps/placeables/sheepBarnBig/navigationMesh.i3d (0.30 ms)
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_The_Old_Stream_Farm/maps/placeables/chickenBarnBig/chickenBarnBig.i3d (19.61 ms)
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_The_Old_Stream_Farm/maps/placeables/chickenBarnBig/navigationMesh.i3d (0.29 ms)
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_The_Old_Stream_Farm/maps/placeables/sheepBarnSmall/sheepBarnSmall.i3d (3.94 ms)
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_The_Old_Stream_Farm/maps/placeables/sheepBarnSmall/navigationMesh.i3d (0.28 ms)
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_The_Old_Stream_Farm/maps/placeables/cowBarnSmall/cowBarnSmall.i3d (2.12 ms)
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_The_Old_Stream_Farm/maps/placeables/cowBarnSmall/navigationMesh.i3d (0.28 ms)
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_The_Old_Stream_Farm/maps/placeables/workshop/workshop.i3d (0.39 ms)
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_The_Old_Stream_Farm/maps/placeables/Props/PropsBase.i3d (0.19 ms)
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_The_Old_Stream_Farm/maps/placeables/Props/Props01.i3d (10.82 ms)
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_The_Old_Stream_Farm/maps/placeables/Props/Props02.i3d (4.58 ms)
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_The_Old_Stream_Farm/maps/placeables/Props/Props03.i3d (7.74 ms)
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_The_Old_Stream_Farm/maps/placeables/Props/Props04.i3d (7.02 ms)
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_The_Old_Stream_Farm/maps/placeables/Props/Props05.i3d (4.12 ms)
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_The_Old_Stream_Farm/maps/placeables/Props/Props06.i3d (5.64 ms)
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_The_Old_Stream_Farm/maps/placeables/Props/Props07.i3d (15.18 ms)
-2024-01-07 02:08 data/placeables/lizard/fencesResidential/level04/fencesResidentialLevel04.i3d (12.34 ms)
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_siloWood/siloWoodBrown.i3d (10.88 ms)
-2024-01-07 02:08 data/vehicles/train/locomotive01/locomotive01.i3d (34.32 ms)
-2024-01-07 02:08 data/vehicles/train/wagonGrain/wagonGrain.i3d (21.23 ms)
-2024-01-07 02:08 data/vehicles/train/wagonWoodChips/wagonWoodChips.i3d (7.90 ms)
-2024-01-07 02:08 data/vehicles/train/wagonTimber/wagonTimber.i3d (7.40 ms)
-2024-01-07 02:08 UniversalAutoload - supported vehicle: Lizard Timber Wagon - ALL CONFIGURATIONS (ALL)
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_UniversalAutoload/triggers/UniversalAutoloadTriggers.i3d (0.19 ms)
-2024-01-07 02:08 data/vehicles/train/wagonSugarbeets/wagonSugarbeets.i3d (12.11 ms)
-2024-01-07 02:08 data/vehicles/train/wagonVehicles/wagonVehicles.i3d (5.94 ms)
-2024-01-07 02:08 UniversalAutoload - supported vehicle: Lizard Vehicle Wagon - ALL CONFIGURATIONS (ALL)
-2024-01-07 02:08 data/vehicles/rostselmash/nova330/nova330.i3d (81.62 ms)
-2024-01-07 02:08 data/shared/assets/extinguisher.i3d (6.69 ms)
-2024-01-07 02:08 data/vehicles/rostselmash/nova330/sounds/nova330_loop.gls version 14 (0.14 ms)
-2024-01-07 02:08 data/shared/wheels/hubs/hubs.i3d (96.49 ms)
-2024-01-07 02:08 data/effects/wheel/wheelEmitterShape.i3d (0.77 ms)
-2024-01-07 02:08 data/shared/wheels/tires/trelleborg/TM2000/R26_TM2000.i3d (6.63 ms)
-2024-01-07 02:08 data/shared/wheels/rims/rim001.i3d (5.34 ms)
-2024-01-07 02:08 data/shared/wheels/tires/trelleborg/TM600/R24_TM600.i3d (8.68 ms)
-2024-01-07 02:08 data/effects/exhaust/exhaust.i3d (2.12 ms)
-2024-01-07 02:08 data/shared/assets/lights/lizard/rearLight08.i3d (3.71 ms)
-2024-01-07 02:08 data/shared/assets/lights/lizard/plateNumberLight01.i3d (4.57 ms)
-2024-01-07 02:08 data/shared/assets/lights/lizard/workingLight11.i3d (4.64 ms)
-2024-01-07 02:08 data/shared/assets/reflectors/lizard/yellowRound_01.i3d (1.46 ms)
-2024-01-07 02:08 data/shared/assets/reflectors/lizard/redRound_01.i3d (1.33 ms)
-2024-01-07 02:08 data/shared/assets/reflectors/lizard/bigTriangle.i3d (4.18 ms)
-2024-01-07 02:08 data/shared/assets/beaconLights/lizard/beaconLight07.i3d (5.62 ms)
-2024-01-07 02:08 data/vehicles/rostselmash/powerStream500/powerStream500.i3d (48.85 ms)
-2024-01-07 02:08 data/shared/assets/powerTakeOffs/walterscheidW.i3d (9.18 ms)
-2024-01-07 02:08 D:/Documents/My Games/FarmingSimulator2022/mods/FS22_GrimmePack/grimme/MultiTrailers/MultiTrailer190.i3d (70.86 ms)
-2024-01-07 02:08 data/shared/assets/wheelChocks/wheelChockSupport01.i3d (4.29 ms)
-2024-01-07 02:08 data/shared/assets/wheelChocks/wheelChock01.i3d (4.59 ms)
-2024-01-07 02:08 data/shared/wheels/tires/trelleborg/TwinRadial/R22_5_TwinRadial.i3d (10.06 ms)
-2024-01-07 02:08 data/shared/assets/lights/lizard/rearLight12.i3d (5.30 ms)
-2024-01-07 02:08 data/vehicles/mcCormick/x8VTDrive/x8VTDrive.i3d (81.62 ms)
-2024-01-07 02:08 data/shared/wheels/tires/trelleborg/TM800/R34_TM800.i3d (8.02 ms)
-2024-01-07 02:08 data/vehicles/mcCormick/x8VTDrive/sounds/x8VTDrive_loop.gls version 14 (0.15 ms)
-2024-01-07 02:08 data/shared/wheels/tires/trelleborg/TM900/R42_TM900.i3d (8.39 ms)
-2024-01-07 02:08 data/shared/assets/beaconLights/lizard/beaconLight06.i3d (5.42 ms)
-2024-01-07 02:08 data/shared/assets/upperLinks/walterscheid03.i3d (9.15 ms)
-2024-01-07 02:08 data/shared/assets/toolbar.i3d (4.60 ms)
-2024-01-07 02:08 data/shared/assets/upperLinks/walterscheid01.i3d (2.03 ms)
-2024-01-07 02:08 data/shared/connectionHoses/AdditionalTopRightHose.i3d (1.13 ms)
-2024-01-07 02:08 data/vehicles/masseyFerguson/series6S/series6S.i3d (109.78 ms)
-2024-01-07 02:08 data/vehicles/masseyFerguson/series7S/sounds/Transmission.gls version 15 (0.08 ms)
-2024-01-07 02:08 data/shared/wheels/tires/trelleborg/TM700/R28_TM700.i3d (10.65 ms)
-2024-01-07 02:08 data/vehicles/masseyFerguson/series6S/sounds/cabin.gls version 15 (0.10 ms)
-2024-01-07 02:08 data/shared/wheels/tires/trelleborg/TM700/R38_TM700.i3d (5.54 ms)
-2024-01-07 02:08 data/vehicles/masseyFerguson/series6S/sounds/series6s.gls version 15 (0.59 ms)
-2024-01-07 02:08 data/vehicles/masseyFerguson/series6S/sounds/fan.gls version 15 (0.08 ms)
-2024-01-07 02:08 data/shared/assets/reflectors/lizard/redRound_03.i3d (1.84 ms)
-2024-01-07 02:08 C:/Games/Farming Simulator 22/pdlc/vermeerPack/vehicles/vermeer/zr5/zr5.i3d (436.09 ms)
-2024-01-07 02:08 data/shared/wheels/tires/trelleborg/TM600/R38_TM600.i3d (6.20 ms)
-2024-01-07 02:08 pdlc/vermeerPack/vehicles/vermeer/zr5/sounds/Fan_loop.gls version 14 (0.02 ms)
-2024-01-07 02:08 data/vehicles/claas/torion956Sinus/sounds/torion956Sinus_loop.gls version 14 (0.36 ms)
-2024-01-07 02:08 data/shared/wheels/tires/bkt/i1/R16_1_i1.i3d (9.78 ms)
-2024-01-07 02:08 pdlc/vermeerPack/vehicles/vermeer/zr5/sounds/zr5Cabin_loop.gls version 14 (0.04 ms)
-2024-01-07 02:08 data/shared/assets/lights/lizard/plateNumberLight02.i3d (3.75 ms)
-2024-01-07 02:08 VCA: found recursion in differential definition
-2024-01-07 02:08 VCA: found recursion in differential definition
-2024-01-07 02:08 data/vehicles/elho/duett7300/duett7300.i3d (26.85 ms)
-2024-01-07 02:08 data/shared/assets/reflectors/lizard/redTriangle_02.i3d (2.21 ms)
-2024-01-07 02:08 data/shared/assets/lights/lizard/rearLight05.i3d (4.83 ms)
-2024-01-07 02:08 data/vehicles/claas/w1800/w1800.i3d (10.30 ms)
-2024-01-07 02:08   Info: PlayerExtension new called
-2024-01-07 02:08 dataS/character/humans/player/player01.i3d (5.94 ms)
-2024-01-07 02:08   Setting 'Radio Volume': 0.500
-2024-01-07 02:08   Setting 'Vehicle Volume': 1.000
-2024-01-07 02:08   Setting 'Environment Volume': 1.000
-2024-01-07 02:08   Setting 'GUI Volume': 1.000
-2024-01-07 02:08   Info: Savegame Setting 'dirtInterval': 3
-2024-01-07 02:08   Info: Savegame Setting 'snowEnabled': true
-2024-01-07 02:08   Info: Savegame Setting 'growthMode': 1
-2024-01-07 02:08   Info: Savegame Setting 'fuelUsage': 2
-2024-01-07 02:08   Info: Savegame Setting 'plowingRequiredEnabled': true
-2024-01-07 02:08   Info: Savegame Setting 'weedsEnabled': true
-2024-01-07 02:08   Info: Savegame Setting 'limeRequired': true
-2024-01-07 02:08   Info: Savegame Setting 'stonesEnabled': true
-2024-01-07 02:08   Info: Savegame Setting 'economicDifficulty': 2
-2024-01-07 02:08   Info: Savegame Setting 'fixedSeasonalVisuals': nil
-2024-01-07 02:08   Info: Savegame Setting 'plannedDaysPerPeriod': 1
-2024-01-07 02:08 dataS/character/humans/npc/pedestrians/generic/npcCommon10_f.i3d (8.12 ms)
-2024-01-07 02:08 dataS/character/player01/clothes/bottoms/botJeans.i3d (3.09 ms)
-2024-01-07 02:08 dataS/character/player01/heads/maleHead01.i3d (48.54 ms)
-2024-01-07 02:08 dataS/character/player01/clothes/footwear/footwearWorkboot02.i3d (2.54 ms)
-2024-01-07 02:08 dataS/character/player01/hairStyles/hairStyle3070.i3d (1.39 ms)
-2024-01-07 02:08 dataS/character/player01/clothes/tops/topDenimJacket.i3d (4.04 ms)
-2024-01-07 02:09 Game saved successfully.
-2024-01-07 02:09 Application exit request forced.
-2024-01-07 02:09 Application exit request forced.
+2024-01-07 03:02 Application restart (soft restart)
+2024-01-07 03:02  Used Start Parameters:
+2024-01-07 03:02     restart 
+2024-01-07 03:02     exe C:\Games\Farming Simulator 22\x64\FarmingSimulator2022Game.exe 
+2024-01-07 03:02 Platform: loading defaults
+2024-01-07 03:02   Setting 'Master Volume': 1.000
+2024-01-07 03:02   Setting 'Is Train Tabbable': false
+2024-01-07 03:02   Setting 'Radio Vehicle Only': false
+2024-01-07 03:02   Setting 'Radio Active': true
+2024-01-07 03:02   Setting 'Use Colorblind Mode': false
+2024-01-07 03:02   Setting 'Easy Arm Control': true
+2024-01-07 03:02   Setting 'Show Trigger Marker': false
+2024-01-07 03:02   Setting 'Show Help Trigger': true
+2024-01-07 03:02   Setting 'Show Field-Info': true
+2024-01-07 03:02   Setting 'Invert Y-Look': false
+2024-01-07 03:02   Setting 'Show Help Icons': true
+2024-01-07 03:02   Setting 'Radio Volume': 0.500
+2024-01-07 03:02   Setting 'Vehicle Volume': 1.000
+2024-01-07 03:02   Setting 'Environment Volume': 1.000
+2024-01-07 03:02   Setting 'GUI Volume': 1.000
+2024-01-07 03:02   Setting 'Master Volume': 1.000
+2024-01-07 03:02   Setting 'Music Volume': 0.000
+2024-01-07 03:02 Farming Simulator 22 (Steam)
+2024-01-07 03:02   Version: 1.13.1.0 b27674
+2024-01-07 03:02   Available Languages: en de jp pl cz fr es ru it pt hu nl cs ct br tr ro kr ea da fi no sv fc
+2024-01-07 03:02   Language: ru
+2024-01-07 03:02   Time: 2024-01-07 03:02:06
+2024-01-07 03:02   ModDesc Version: 79
+2024-01-07 03:02   Mod Directory: D:/Documents/My Games/FarmingSimulator2022/mods/
+2024-01-07 03:02 Extra Content: Unlocked 'MACK_BLACK_ANTHEM'
+2024-01-07 03:02 Extra Content: Unlocked 'PORSCHE_JUNIOR'
+2024-01-07 03:02 Extra Content: Unlocked 'ZETOR25K'
+2024-01-07 03:02 Extra Content: Unlocked 'FENDT900BB'
+2024-01-07 03:02 Extra Content: Unlocked 'ALDI_SHORTS'
+2024-01-07 03:02 Extra Content: Unlocked 'ALDI_SHIRT'
+2024-01-07 03:02 Extra Content: Unlocked 'ALDI_HAT'
+2024-01-07 03:02 Extra Content: Unlocked 'ALDI_HOODIE'
+2024-01-07 03:02 Available dlc: (Hash: 1e34e6da3250471b406a092063173ec0) (Version: 1.1.0.0) pdlc_agiPack
+2024-01-07 03:02 Available dlc: (Hash: a80574947b37ccca8cbf015ecca117cf) (Version: 1.1.1.0) pdlc_antonioCarraroPack
+2024-01-07 03:02 Available dlc: (Hash: 49bfa385ca90594408a7f75db8783578) (Version: 1.1.0.0) pdlc_claasSaddleTracPack
+2024-01-07 03:02 Available dlc: (Hash: 4fb071c73b67044650ed003f0323462e) (Version: 1.0.0.0) pdlc_eroPack
+2024-01-07 03:02 ExtraContent: Unlocked 'ERO'
+2024-01-07 03:02 Available dlc: (Hash: 066ffadb62cb4c5af275b5a1f8714e10) (Version: 1.0.0.0) pdlc_extraContentFarmallPack
+2024-01-07 03:02 ExtraContent: Unlocked 'FARMALL_PACK'
+2024-01-07 03:02 Available dlc: (Hash: dc21ec04d9c6c802a78e7f384d7872df) (Version: 1.0.0.0) pdlc_extraContentFendtBlackBeauty
+2024-01-07 03:02 Available dlc: (Hash: 26d28a2c31f8c935da91f6a80bbfaeaf) (Version: 1.0.0.0) pdlc_extraContentMackBlackAnthem
+2024-01-07 03:02 Available dlc: (Hash: 9c07366934bb54483dffd5bb795a2cb3) (Version: 1.0.0.0) pdlc_extraContentPorscheJunior
+2024-01-07 03:02 Available dlc: (Hash: 619afefb82c72ed46a37a116e06b6175) (Version: 1.0.0.0) pdlc_extraContentVolvoLM845
+2024-01-07 03:02 ExtraContent: Unlocked 'VOLVO_LM845'
+2024-01-07 03:02 Available dlc: (Hash: 66f6d985bb05a84ea4f9c9a663cdc548) (Version: 1.0.0.0) pdlc_extraContentVolvoT425
+2024-01-07 03:02 ExtraContent: Unlocked 'VOLVO_T425'
+2024-01-07 03:02 Available dlc: (Hash: 5870071eae37fba9ff3b13a7978dde18) (Version: 1.0.0.0) pdlc_extraContentZetor
+2024-01-07 03:02 Available dlc: (Hash: 329e90792fd90c2ca716253d202aa7a4) (Version: 1.3.0.0) pdlc_forestryPack
+2024-01-07 03:02 ExtraContent: Unlocked 'VOLVO'
+2024-01-07 03:02 Available dlc: (Hash: 3a3d0faadae2e6ed5e34b3a623113721) (Version: 1.1.0.0) pdlc_goeweilPack
+2024-01-07 03:02 Available dlc: (Hash: 02c05fd4394ca1e6859575dbc4a34345) (Version: 1.0.0.0) pdlc_hayAndForagePack
+2024-01-07 03:02 Available dlc: (Hash: 32bbc579a93af4ea866ce59a690e7461) (Version: 1.2.0.0) pdlc_horschAgrovation
+2024-01-07 03:02 Available dlc: (Hash: a3c96144c51ba3ebb79aa95c5b647c17) (Version: 1.2.0.0) pdlc_kubotaPack
+2024-01-07 03:02 ExtraContent: Unlocked 'KUBOTA'
+2024-01-07 03:02 Available dlc: (Hash: a13d85053dd4e6f813a1cd9dbf571f63) (Version: 1.0.0.0) pdlc_oxboPack
+2024-01-07 03:02 Available dlc: (Hash: a72b2af5d72cfe322e3c36bb027ddc4e) (Version: 1.1.0.0) pdlc_premiumExpansion
+2024-01-07 03:02 Available dlc: (Hash: adb7dc9e042517eb87fd0537c17ea4af) (Version: 1.3.0.0) pdlc_pumpsAndHosesPack
+2024-01-07 03:02 Available dlc: (Hash: 536fa70e7a69d1b5c979743bc848cf68) (Version: 1.0.1.0) pdlc_vermeerPack
+2024-01-07 03:02 ExtraContent: Unlocked 'VERMEER'
+2024-01-07 03:02 Available mod: (Hash: aaf9774b334344c00056e322a27a576e) (Version: 1.0.3.0) baleStacking
+2024-01-07 03:02 Available mod: (Hash: 0855fc7ef09b8d4f9b915d2312930ae5) (Version: 1.0.3.0) arena
+2024-01-07 03:02 Available mod: (Hash: 30831b6bb1401a8eab3a96c08fb5ece0) (Version: 1.0.0.0) FS19_siloWood
+2024-01-07 03:02 Error: Unsupported mod description version in mod FS19_siloWood
+2024-01-07 03:02 Available mod: (Hash: 919504f4e48487cc4c370ca85ab6ad82) (Version: 1.0.0.0) FS22_508L_Torion639
+2024-01-07 03:02 Available mod: (Hash: cbea8a628f223c918f48b952668f0f9e) (Version: 1.12.0.0) FS22_aPalletAutoLoader
+2024-01-07 03:02 Available mod: (Hash: 5e964449d2e21ce002202b3624ea248b) (Version: 1.1.0.0) FS22_baleAutoload_TrailerPack
+2024-01-07 03:02 Available mod:  (Version: 7.4.0.2) FS22_Courseplay
+2024-01-07 03:02 Warning: Only zip mods are supported in multiplayer. You need to zip the mod FS22_Courseplay to use it in multiplayer.
+2024-01-07 03:02 Available mod: (Hash: ce58863310be46e9312afd3afdaa1aad) (Version: 1.3.0.0) FS22_FollowMe
+2024-01-07 03:02 Available mod: (Hash: 55bb950650ac774996c788162b772958) (Version: 1.0.0.1) FS22_GrimmePack
+2024-01-07 03:02 Available mod: (Hash: ea468b1f966e280366d056f2a11cbef2) (Version: 1.3.1.2) FS22_HTS_22_79_MultiLandPlus
+2024-01-07 03:02 Available mod: (Hash: 222143c9d3adb0ae1def7738833f54f8) (Version: 1.0.0.0) FS22_JohnDeere_712
+2024-01-07 03:02 Available mod: (Hash: ed1c077415605d72ad798aa6d7fe18bf) (Version: 1.0.0.0) FS22_KroegerPWO24_Autoload
+2024-01-07 03:02 Available mod: (Hash: ab3062c37f8d7492b427d72249e856a5) (Version: 1.1.0.0) FS22_Lizard_Silo_System
+2024-01-07 03:02 Available mod: (Hash: e6965790003fa676d73c181df2d28d0b) (Version: 1.2.5.0) FS22_maag_Pack
+2024-01-07 03:02 Available mod: (Hash: e9e5d480a48563c60cd97e1f8e6e3607) (Version: 1.2.0.0) FS22_MaizePlus
+2024-01-07 03:02 Available mod: (Hash: 47120092bf2b7720341698ac2e680e60) (Version: 1.0.2.0) FS22_MapObjectsHider
+2024-01-07 03:02 Available mod: (Hash: ad65d5ed578f2a2944155315a1241c76) (Version: 1.0.3.1) FS22_Multifruit_Buying_Station
+2024-01-07 03:02 Available mod: (Hash: 863efd53ac64600bcd12313bb3674b7d) (Version: 1.1.0.0) FS22_MX_Pack
+2024-01-07 03:02 Available mod: (Hash: df64c6f23ca595e49e6f3ea8056336a8) (Version: 1.0.1.0) FS22_Pack_Autoload
+2024-01-07 03:02 Available mod: (Hash: fda059ba6308f7ddf49f582bddc6a34b) (Version: 1.1.0.3) FS22_PerardPack
+2024-01-07 03:02 Available mod: (Hash: 5fdb7efb6900b70140e5e1f7dc8225fb) (Version: 1.3.0.0) FS22_PowerTools
+2024-01-07 03:02 Available mod: (Hash: 5359be9ae727974edde9f964b4739661) (Version: 1.0.2.1) FS22_precisionFarming
+2024-01-07 03:02 Available mod: (Hash: de99d7f6d572d2d34fdfc53ec17dfb95) (Version: 2.0.0.1) FS22_Raisinproductionpack
+2024-01-07 03:02 Available mod: (Hash: bbb78fb626d30e6f8f95142b69ba4c3c) (Version: 1.1.0.0) FS22_siloWood
+2024-01-07 03:02 Available mod: (Hash: c0c9fc1aa2b841945ac4e682509d3076) (Version: 1.0.2.0) FS22_smallSiloSet
+2024-01-07 03:02 Available mod: (Hash: 778acef70b1e7744288886ad3fa974aa) (Version: 1.0.0.0) FS22_StrautmannTeraVitesse5201
+2024-01-07 03:02 Available mod:  (Version: 1.0.0.1) FS22_The_Old_Stream_Farm
+2024-01-07 03:02 Warning: Only zip mods are supported in multiplayer. You need to zip the mod FS22_The_Old_Stream_Farm to use it in multiplayer.
+2024-01-07 03:02 Available mod: (Hash: 6732c72168e0564d4ea1f2673f8c66ef) (Version: 1.5.0.0) FS22_UniversalAutoload
+2024-01-07 03:02 Available mod: (Hash: 893b0cff4bcf2629cb0a8e7cd983a896) (Version: 1.3.0.0) FS22_UniversalAutoloadModhubAddon
+2024-01-07 03:02 Available mod: (Hash: 97e69613545894411dd197366a148ef6) (Version: 1.0.5.0) FS22_ValentiniRipper5500
+2024-01-07 03:02 Available mod:  (Version: 9.1.3.2) FS22_VehicleControlAddon
+2024-01-07 03:02 Warning: Only zip mods are supported in multiplayer. You need to zip the mod FS22_VehicleControlAddon to use it in multiplayer.
+2024-01-07 03:02 Available mod:  (Version: 1.5.0.0) FS22_YagodnoeEXT
+2024-01-07 03:02 Warning: Only zip mods are supported in multiplayer. You need to zip the mod FS22_YagodnoeEXT to use it in multiplayer.
+2024-01-07 03:02   Warning: Missing l10n 'input_vcaSNAP_A_B' in mod 'FS22_VehicleControlAddon'
+2024-01-07 03:02   Warning: Missing l10n 'input_vcaFoldF' in mod 'FS22_VehicleControlAddon'
+2024-01-07 03:02   Warning: Missing l10n 'input_vcaFoldB' in mod 'FS22_VehicleControlAddon'
+2024-01-07 03:02   Warning: Missing l10n 'input_vcaGearSplitUp' in mod 'FS22_VehicleControlAddon'
+2024-01-07 03:02   Warning: Missing l10n 'input_vcaGearSplitDown' in mod 'FS22_VehicleControlAddon'
+2024-01-07 03:02 dataS/character/humans/player/animations.i3d (303.78 ms)
+2024-01-07 03:02 dataS/character/humans/player/vehicleCharacterAnimations.i3d (1.43 ms)
+2024-01-07 03:02 dataS/character/humans/npc/animations.i3d (33.69 ms)
+2024-01-07 03:02 Application restart 
+Physics System
+  Version: 5.9.5
+  Thread(s): 2
+Audio System
+  Driver: SoftMixer WASAPI Stereo Headphones
+  Version: 2018.11
+  Frequency: 48000
+  Max. active sources: 256
+Render System
+  Driver: Direct 3D 12
+  Card Vendor: NVIDIA Corporation
+  Renderer: NVIDIA GeForce GTX 1660
+  Version: 31.0.15.4633 (6.12.2023)
+  Revision: 161
+  Hardware Feature Level : 12_1
+  Windowed Mode               : on
+  V-Sync                      : on
+  Allow Tearing               : off
+  Validation Layer            : off
+  Effective Window Size       : 1920 x 1080px
+  Effective Swap Chain Size   : 1920 x 1080px
+Started 3 threads for threadpool 'Render threadpool'
+Hardware Profile
+  Level: Custom High
+  View Distance Factor: 1.100000
+  Shadow Quality: 1.000000 Base-Size: 2048 Filter-Size: 16
+  Shadow Focus Box: false
+  Foliage Shadows: true
+  Shader Quality: 2
+  Skip Mipmaps: 0
+  LOD Distance Factor: 1.100000
+  Terrain LOD Distance Factor: 1.500000
+  Terrain Quality: 3
+  Foliage View Distance Factor: 1.500000
+  Volume Mesh Tessellation Factor: 1.000000
+  Tyre Tracks Segments Factor: 2.000000
+  Max. Number of Shadow Lights: 3
+  Max. Number of Lights: 256
+  Max. Number of Dir Lights: 4
+  Max. Number of Lights Per Cluster: 32
+  MSAA: 1
+  Post Process AA: Off
+  DLSS Quality: Off
+  AMD FidelityFx SR Quality: Off
+  AMD FidelityFx SR 2.0 Quality: Balanced
+  Intel XeSS Quality: Off
+  Sharpness: 0.80
+  Recommended Window Size: 1280 x 720px
+  Bloom Quality: 4
+  SSAO Quality: 11
+  SSAO Resolution Scaling: 0.500000
+  DOF: Enabled
+  Half Resolution DOF: Disabled
+  Cloud Quality: 3
+  Texture Streaming: Enabled
+  EnvMap Blending: Enabled
+  Dynamic Specular EnvMap: Disabled
+  Shading Rate Quality: 1
+Input System
+  Keyboard enabled
+  Mouse enabled
+  Gamepad/Joystick enabled
+  Force Feedback disabled
+  Devices:
+    vJoy - Virtual Joystick (VID: 1234 PID: BEAD VER: 0218 Cat: UNKNOWN)
+Started 1 threads for threadpool 'TerrainPatchOccluderManager unique worker'
+ Used Start Parameters:
+    restart 
+    exe C:\Games\Farming Simulator 22\x64\FarmingSimulator2022Game.exe
+Platform: loading defaults
+  Setting 'Master Volume': 1.000
+  Setting 'Is Train Tabbable': false
+  Setting 'Radio Vehicle Only': false
+  Setting 'Radio Active': true
+  Setting 'Use Colorblind Mode': false
+  Setting 'Easy Arm Control': true
+  Setting 'Show Trigger Marker': false
+  Setting 'Show Help Trigger': true
+  Setting 'Show Field-Info': true
+  Setting 'Invert Y-Look': false
+  Setting 'Show Help Icons': true
+  Setting 'Radio Volume': 0.500
+  Setting 'Vehicle Volume': 1.000
+  Setting 'Environment Volume': 1.000
+  Setting 'GUI Volume': 1.000
+  Setting 'Master Volume': 1.000
+  Setting 'Music Volume': 0.000
+Farming Simulator 22 (Steam)
+  Version: 1.13.1.0 b27674
+  Available Languages: en de jp pl cz fr es ru it pt hu nl cs ct br tr ro kr ea da fi no sv fc
+  Language: ru
+  Time: 2024-01-07 03:02:21
+  ModDesc Version: 79
+  Mod Directory: D:/Documents/My Games/FarmingSimulator2022/mods/
+Extra Content: Unlocked 'MACK_BLACK_ANTHEM'
+Extra Content: Unlocked 'PORSCHE_JUNIOR'
+Extra Content: Unlocked 'ZETOR25K'
+Extra Content: Unlocked 'FENDT900BB'
+Extra Content: Unlocked 'ALDI_SHORTS'
+Extra Content: Unlocked 'ALDI_SHIRT'
+Extra Content: Unlocked 'ALDI_HAT'
+Extra Content: Unlocked 'ALDI_HOODIE'
+Available dlc: (Hash: 1e34e6da3250471b406a092063173ec0) (Version: 1.1.0.0) pdlc_agiPack
+Available dlc: (Hash: a80574947b37ccca8cbf015ecca117cf) (Version: 1.1.1.0) pdlc_antonioCarraroPack
+Available dlc: (Hash: 49bfa385ca90594408a7f75db8783578) (Version: 1.1.0.0) pdlc_claasSaddleTracPack
+Available dlc: (Hash: 4fb071c73b67044650ed003f0323462e) (Version: 1.0.0.0) pdlc_eroPack
+ExtraContent: Unlocked 'ERO'
+Available dlc: (Hash: 066ffadb62cb4c5af275b5a1f8714e10) (Version: 1.0.0.0) pdlc_extraContentFarmallPack
+ExtraContent: Unlocked 'FARMALL_PACK'
+Available dlc: (Hash: dc21ec04d9c6c802a78e7f384d7872df) (Version: 1.0.0.0) pdlc_extraContentFendtBlackBeauty
+Available dlc: (Hash: 26d28a2c31f8c935da91f6a80bbfaeaf) (Version: 1.0.0.0) pdlc_extraContentMackBlackAnthem
+Available dlc: (Hash: 9c07366934bb54483dffd5bb795a2cb3) (Version: 1.0.0.0) pdlc_extraContentPorscheJunior
+Available dlc: (Hash: 619afefb82c72ed46a37a116e06b6175) (Version: 1.0.0.0) pdlc_extraContentVolvoLM845
+ExtraContent: Unlocked 'VOLVO_LM845'
+Available dlc: (Hash: 66f6d985bb05a84ea4f9c9a663cdc548) (Version: 1.0.0.0) pdlc_extraContentVolvoT425
+ExtraContent: Unlocked 'VOLVO_T425'
+Available dlc: (Hash: 5870071eae37fba9ff3b13a7978dde18) (Version: 1.0.0.0) pdlc_extraContentZetor
+Available dlc: (Hash: 329e90792fd90c2ca716253d202aa7a4) (Version: 1.3.0.0) pdlc_forestryPack
+ExtraContent: Unlocked 'VOLVO'
+Available dlc: (Hash: 3a3d0faadae2e6ed5e34b3a623113721) (Version: 1.1.0.0) pdlc_goeweilPack
+Available dlc: (Hash: 02c05fd4394ca1e6859575dbc4a34345) (Version: 1.0.0.0) pdlc_hayAndForagePack
+Available dlc: (Hash: 32bbc579a93af4ea866ce59a690e7461) (Version: 1.2.0.0) pdlc_horschAgrovation
+Available dlc: (Hash: a3c96144c51ba3ebb79aa95c5b647c17) (Version: 1.2.0.0) pdlc_kubotaPack
+ExtraContent: Unlocked 'KUBOTA'
+Available dlc: (Hash: a13d85053dd4e6f813a1cd9dbf571f63) (Version: 1.0.0.0) pdlc_oxboPack
+dataS/character/humans/player/animations.i3d (310.93 ms)
+Available dlc: (Hash: a72b2af5d72cfe322e3c36bb027ddc4e) (Version: 1.1.0.0) pdlc_premiumExpansion
+dataS/character/humans/player/vehicleCharacterAnimations.i3d (7.26 ms)
+Available dlc: (Hash: adb7dc9e042517eb87fd0537c17ea4af) (Version: 1.3.0.0) pdlc_pumpsAndHosesPack
+Available dlc: (Hash: 536fa70e7a69d1b5c979743bc848cf68) (Version: 1.0.1.0) pdlc_vermeerPack
+ExtraContent: Unlocked 'VERMEER'
+Available mod: (Hash: aaf9774b334344c00056e322a27a576e) (Version: 1.0.3.0) baleStacking
+dataS/character/humans/npc/animations.i3d (36.04 ms)
+Available mod: (Hash: 0855fc7ef09b8d4f9b915d2312930ae5) (Version: 1.0.3.0) arena
+Available mod: (Hash: 30831b6bb1401a8eab3a96c08fb5ece0) (Version: 1.0.0.0) FS19_siloWood
+Error: Unsupported mod description version in mod FS19_siloWood
+Available mod: (Hash: 919504f4e48487cc4c370ca85ab6ad82) (Version: 1.0.0.0) FS22_508L_Torion639
+Available mod: (Hash: cbea8a628f223c918f48b952668f0f9e) (Version: 1.12.0.0) FS22_aPalletAutoLoader
+Available mod: (Hash: 5e964449d2e21ce002202b3624ea248b) (Version: 1.1.0.0) FS22_baleAutoload_TrailerPack
+Available mod:  (Version: 7.4.0.2) FS22_Courseplay
+Warning: Only zip mods are supported in multiplayer. You need to zip the mod FS22_Courseplay to use it in multiplayer.
+Available mod: (Hash: ce58863310be46e9312afd3afdaa1aad) (Version: 1.3.0.0) FS22_FollowMe
+Available mod: (Hash: 55bb950650ac774996c788162b772958) (Version: 1.0.0.1) FS22_GrimmePack
+Available mod: (Hash: ea468b1f966e280366d056f2a11cbef2) (Version: 1.3.1.2) FS22_HTS_22_79_MultiLandPlus
+Available mod: (Hash: 222143c9d3adb0ae1def7738833f54f8) (Version: 1.0.0.0) FS22_JohnDeere_712
+Available mod: (Hash: ed1c077415605d72ad798aa6d7fe18bf) (Version: 1.0.0.0) FS22_KroegerPWO24_Autoload
+Available mod: (Hash: ab3062c37f8d7492b427d72249e856a5) (Version: 1.1.0.0) FS22_Lizard_Silo_System
+Available mod: (Hash: e6965790003fa676d73c181df2d28d0b) (Version: 1.2.5.0) FS22_maag_Pack
+Available mod: (Hash: e9e5d480a48563c60cd97e1f8e6e3607) (Version: 1.2.0.0) FS22_MaizePlus
+Available mod: (Hash: 47120092bf2b7720341698ac2e680e60) (Version: 1.0.2.0) FS22_MapObjectsHider
+Available mod: (Hash: ad65d5ed578f2a2944155315a1241c76) (Version: 1.0.3.1) FS22_Multifruit_Buying_Station
+Available mod: (Hash: 863efd53ac64600bcd12313bb3674b7d) (Version: 1.1.0.0) FS22_MX_Pack
+Available mod: (Hash: df64c6f23ca595e49e6f3ea8056336a8) (Version: 1.0.1.0) FS22_Pack_Autoload
+Available mod: (Hash: fda059ba6308f7ddf49f582bddc6a34b) (Version: 1.1.0.3) FS22_PerardPack
+Available mod: (Hash: 5fdb7efb6900b70140e5e1f7dc8225fb) (Version: 1.3.0.0) FS22_PowerTools
+Available mod: (Hash: 5359be9ae727974edde9f964b4739661) (Version: 1.0.2.1) FS22_precisionFarming
+Available mod: (Hash: de99d7f6d572d2d34fdfc53ec17dfb95) (Version: 2.0.0.1) FS22_Raisinproductionpack
+Available mod: (Hash: bbb78fb626d30e6f8f95142b69ba4c3c) (Version: 1.1.0.0) FS22_siloWood
+Available mod: (Hash: c0c9fc1aa2b841945ac4e682509d3076) (Version: 1.0.2.0) FS22_smallSiloSet
+Available mod: (Hash: 778acef70b1e7744288886ad3fa974aa) (Version: 1.0.0.0) FS22_StrautmannTeraVitesse5201
+Available mod:  (Version: 1.0.0.1) FS22_The_Old_Stream_Farm
+Warning: Only zip mods are supported in multiplayer. You need to zip the mod FS22_The_Old_Stream_Farm to use it in multiplayer.
+Available mod: (Hash: 6732c72168e0564d4ea1f2673f8c66ef) (Version: 1.5.0.0) FS22_UniversalAutoload
+Available mod: (Hash: 893b0cff4bcf2629cb0a8e7cd983a896) (Version: 1.3.0.0) FS22_UniversalAutoloadModhubAddon
+Available mod: (Hash: 97e69613545894411dd197366a148ef6) (Version: 1.0.5.0) FS22_ValentiniRipper5500
+Available mod:  (Version: 9.1.3.2) FS22_VehicleControlAddon
+Warning: Only zip mods are supported in multiplayer. You need to zip the mod FS22_VehicleControlAddon to use it in multiplayer.
+Available mod:  (Version: 1.5.0.0) FS22_YagodnoeEXT
+Warning: Only zip mods are supported in multiplayer. You need to zip the mod FS22_YagodnoeEXT to use it in multiplayer.
+  Warning: Missing l10n 'input_vcaSNAP_A_B' in mod 'FS22_VehicleControlAddon'
+  Warning: Missing l10n 'input_vcaFoldF' in mod 'FS22_VehicleControlAddon'
+  Warning: Missing l10n 'input_vcaFoldB' in mod 'FS22_VehicleControlAddon'
+  Warning: Missing l10n 'input_vcaGearSplitUp' in mod 'FS22_VehicleControlAddon'
+  Warning: Missing l10n 'input_vcaGearSplitDown' in mod 'FS22_VehicleControlAddon'
+2024-01-07 03:02 Application quit
